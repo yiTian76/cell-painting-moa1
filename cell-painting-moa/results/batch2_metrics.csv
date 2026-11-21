@@ -1,0 +1,4 @@
+subset,n,n_true_classes,n_candidates,n_correct,accuracy,n_top3,top3_accuracy,paired_n,nn1_correct,nn1_accuracy,nn1_top3,nn1_top3_accuracy,paired_primary_correct,paired_batch2_correct,paired_prediction_agreement
+all,141,44,79,33,0.23404255319148937,50,0.3546099290780142,117,44,0.3120567375886525,61,0.4326241134751773,29,27,47
+absent_from_primary_model_cohort,24,18,79,6,0.25,12,0.5,0,11,0.4583333333333333,12,0.5,0,0,0
+shared_held_out_fold,117,41,79,27,0.23076923076923078,38,0.3247863247863248,117,33,0.28205128205128205,49,0.4188034188034188,29,27,47

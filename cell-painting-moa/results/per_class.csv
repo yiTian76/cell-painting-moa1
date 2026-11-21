@@ -1,0 +1,317 @@
+method,moa,support,n_predicted,n_correct,precision,recall,f1,top3_accuracy
+channel_balanced,AKT inhibitor,6,14,2,0.1428571429,0.3333333333,0.2,0.3333333333
+channel_balanced,Aurora kinase inhibitor,6,27,6,0.2222222222,1,0.3636363636,1
+channel_balanced,CC chemokine receptor antagonist,8,20,2,0.1,0.25,0.1428571429,0.375
+channel_balanced,CCK receptor antagonist,5,11,0,0,0,0,0.2
+channel_balanced,CDK inhibitor,8,7,6,0.8571428571,0.75,0.8,0.875
+channel_balanced,DNA alkylating agent,5,25,1,0.04,0.2,0.06666666667,0.6
+channel_balanced,DNA inhibitor,8,0,0,0,0,0,0.125
+channel_balanced,DNA polymerase inhibitor,5,20,0,0,0,0,0
+channel_balanced,DNA synthesis inhibitor,6,1,0,0,0,0,0
+channel_balanced,EGFR inhibitor,15,2,0,0,0,0,0.2666666667
+channel_balanced,HCV inhibitor,9,1,0,0,0,0,0
+channel_balanced,HDAC inhibitor,12,4,1,0.25,0.08333333333,0.125,0.4166666667
+channel_balanced,HIV protease inhibitor,7,5,0,0,0,0,0.2857142857
+channel_balanced,HMGCR inhibitor,6,1,1,1,0.1666666667,0.2857142857,0.3333333333
+channel_balanced,HSP inhibitor,7,18,6,0.3333333333,0.8571428571,0.48,0.8571428571
+channel_balanced,JAK inhibitor,7,1,1,1,0.1428571429,0.25,0.2857142857
+channel_balanced,MEK inhibitor,10,21,10,0.4761904762,1,0.6451612903,1
+channel_balanced,PARP inhibitor,5,1,0,0,0,0,0
+channel_balanced,PI3K inhibitor,8,0,0,0,0,0,0.125
+channel_balanced,PKC inhibitor,5,4,0,0,0,0,0
+channel_balanced,PLK inhibitor,5,17,4,0.2352941176,0.8,0.3636363636,1
+channel_balanced,PPAR receptor agonist,5,3,0,0,0,0,0
+channel_balanced,RAF inhibitor,6,1,0,0,0,0,0
+channel_balanced,RNA polymerase inhibitor,7,3,0,0,0,0,0
+channel_balanced,acetylcholine receptor agonist,8,14,1,0.07142857143,0.125,0.09090909091,0.25
+channel_balanced,acetylcholine receptor antagonist,20,0,0,0,0,0,0
+channel_balanced,adenosine receptor antagonist,5,7,0,0,0,0,0
+channel_balanced,adrenergic receptor agonist,21,1,0,0,0,0,0.09523809524
+channel_balanced,adrenergic receptor antagonist,31,0,0,0,0,0,0
+channel_balanced,androgen receptor antagonist,7,0,0,0,0,0,0
+channel_balanced,androgen receptor modulator,6,2,0,0,0,0,0
+channel_balanced,angiotensin converting enzyme inhibitor,10,169,5,0.02958579882,0.5,0.05586592179,0.8
+channel_balanced,angiotensin receptor antagonist,6,0,0,0,0,0,0
+channel_balanced,aromatase inhibitor,5,34,0,0,0,0,0
+channel_balanced,bacterial 50S ribosomal subunit inhibitor,6,0,0,0,0,0,0
+channel_balanced,bacterial DNA gyrase inhibitor,10,1,0,0,0,0,0.2
+channel_balanced,bacterial cell wall synthesis inhibitor,14,0,0,0,0,0,0
+channel_balanced,benzodiazepine receptor agonist,6,0,0,0,0,0,0
+channel_balanced,calcium channel blocker,16,0,0,0,0,0,0
+channel_balanced,carbonic anhydrase inhibitor,6,57,0,0,0,0,0.1666666667
+channel_balanced,coagulation factor inhibitor,5,5,0,0,0,0,0
+channel_balanced,cyclooxygenase inhibitor,29,0,0,0,0,0,0
+channel_balanced,cytochrome P450 inhibitor,5,0,0,0,0,0,0
+channel_balanced,dipeptidyl peptidase inhibitor,5,6,0,0,0,0,0
+channel_balanced,dopamine receptor agonist,12,0,0,0,0,0,0
+channel_balanced,dopamine receptor antagonist,22,0,0,0,0,0,0.2272727273
+channel_balanced,dopamine reuptake inhibitor,5,6,0,0,0,0,0
+channel_balanced,estrogen receptor agonist,7,0,0,0,0,0,0
+channel_balanced,gamma secretase inhibitor,7,12,2,0.1666666667,0.2857142857,0.2105263158,0.2857142857
+channel_balanced,glucocorticoid receptor agonist,17,32,15,0.46875,0.8823529412,0.612244898,0.9411764706
+channel_balanced,glucosidase inhibitor,5,1,0,0,0,0,0
+channel_balanced,glutamate receptor antagonist,7,0,0,0,0,0,0
+channel_balanced,histamine receptor antagonist,25,0,0,0,0,0,0
+channel_balanced,insulin secretagogue,5,0,0,0,0,0,0
+channel_balanced,integrin antagonist,5,11,1,0.09090909091,0.2,0.125,0.4
+channel_balanced,mTOR inhibitor,8,12,5,0.4166666667,0.625,0.5,0.625
+channel_balanced,monoamine oxidase inhibitor,6,17,0,0,0,0,0
+channel_balanced,nitric oxide synthase inhibitor,5,18,0,0,0,0,0
+channel_balanced,non-nucleoside reverse transcriptase inhibitor,5,1,0,0,0,0,0
+channel_balanced,nucleoside reverse transcriptase inhibitor,6,3,0,0,0,0,0
+channel_balanced,p38 MAPK inhibitor,7,8,0,0,0,0,0
+channel_balanced,phosphodiesterase inhibitor,35,0,0,0,0,0,0
+channel_balanced,potassium channel activator,5,0,0,0,0,0,0
+channel_balanced,potassium channel blocker,7,4,0,0,0,0,0
+channel_balanced,progesterone receptor agonist,7,6,0,0,0,0,0.1428571429
+channel_balanced,proteasome inhibitor,5,36,5,0.1388888889,1,0.243902439,1
+channel_balanced,protein synthesis inhibitor,5,0,0,0,0,0,0
+channel_balanced,retinoid receptor agonist,7,1,1,1,0.1428571429,0.25,0.1428571429
+channel_balanced,ribonucleotide reductase inhibitor,5,4,1,0.25,0.2,0.2222222222,0.4
+channel_balanced,selective serotonin reuptake inhibitor (SSRI),5,21,0,0,0,0,0
+channel_balanced,serotonin receptor agonist,10,0,0,0,0,0,0
+channel_balanced,serotonin receptor antagonist,14,4,0,0,0,0,0
+channel_balanced,sodium channel blocker,12,0,0,0,0,0,0
+channel_balanced,sterol demethylase inhibitor,7,1,0,0,0,0,0
+channel_balanced,tachykinin antagonist,6,2,0,0,0,0,0.1666666667
+channel_balanced,topoisomerase inhibitor,16,0,0,0,0,0,0
+channel_balanced,tubulin polymerization inhibitor,10,3,0,0,0,0,0.8
+channel_balanced,tyrosine kinase inhibitor,5,0,0,0,0,0,0
+channel_balanced,vitamin D receptor agonist,6,7,0,0,0,0,0
+flat_mean_cosine,AKT inhibitor,6,12,2,0.1666666667,0.3333333333,0.2222222222,0.3333333333
+flat_mean_cosine,Aurora kinase inhibitor,6,29,6,0.2068965517,1,0.3428571429,1
+flat_mean_cosine,CC chemokine receptor antagonist,8,9,0,0,0,0,0.375
+flat_mean_cosine,CCK receptor antagonist,5,9,0,0,0,0,0
+flat_mean_cosine,CDK inhibitor,8,9,7,0.7777777778,0.875,0.8235294118,0.875
+flat_mean_cosine,DNA alkylating agent,5,31,1,0.03225806452,0.2,0.05555555556,0.6
+flat_mean_cosine,DNA inhibitor,8,0,0,0,0,0,0.125
+flat_mean_cosine,DNA polymerase inhibitor,5,18,0,0,0,0,0
+flat_mean_cosine,DNA synthesis inhibitor,6,1,0,0,0,0,0
+flat_mean_cosine,EGFR inhibitor,15,4,1,0.25,0.06666666667,0.1052631579,0.2666666667
+flat_mean_cosine,HCV inhibitor,9,1,0,0,0,0,0.1111111111
+flat_mean_cosine,HDAC inhibitor,12,4,1,0.25,0.08333333333,0.125,0.4166666667
+flat_mean_cosine,HIV protease inhibitor,7,4,0,0,0,0,0.2857142857
+flat_mean_cosine,HMGCR inhibitor,6,1,1,1,0.1666666667,0.2857142857,0.1666666667
+flat_mean_cosine,HSP inhibitor,7,17,6,0.3529411765,0.8571428571,0.5,0.8571428571
+flat_mean_cosine,JAK inhibitor,7,1,1,1,0.1428571429,0.25,0.2857142857
+flat_mean_cosine,MEK inhibitor,10,18,10,0.5555555556,1,0.7142857143,1
+flat_mean_cosine,PARP inhibitor,5,0,0,0,0,0,0
+flat_mean_cosine,PI3K inhibitor,8,0,0,0,0,0,0.125
+flat_mean_cosine,PKC inhibitor,5,3,0,0,0,0,0
+flat_mean_cosine,PLK inhibitor,5,19,4,0.2105263158,0.8,0.3333333333,1
+flat_mean_cosine,PPAR receptor agonist,5,8,0,0,0,0,0
+flat_mean_cosine,RAF inhibitor,6,1,0,0,0,0,0
+flat_mean_cosine,RNA polymerase inhibitor,7,3,0,0,0,0,0
+flat_mean_cosine,acetylcholine receptor agonist,8,21,1,0.04761904762,0.125,0.06896551724,0.25
+flat_mean_cosine,acetylcholine receptor antagonist,20,0,0,0,0,0,0
+flat_mean_cosine,adenosine receptor antagonist,5,5,0,0,0,0,0
+flat_mean_cosine,adrenergic receptor agonist,21,1,0,0,0,0,0.04761904762
+flat_mean_cosine,adrenergic receptor antagonist,31,0,0,0,0,0,0
+flat_mean_cosine,androgen receptor antagonist,7,0,0,0,0,0,0
+flat_mean_cosine,androgen receptor modulator,6,2,0,0,0,0,0
+flat_mean_cosine,angiotensin converting enzyme inhibitor,10,163,3,0.01840490798,0.3,0.03468208092,0.8
+flat_mean_cosine,angiotensin receptor antagonist,6,0,0,0,0,0,0
+flat_mean_cosine,aromatase inhibitor,5,42,0,0,0,0,0.2
+flat_mean_cosine,bacterial 50S ribosomal subunit inhibitor,6,2,0,0,0,0,0
+flat_mean_cosine,bacterial DNA gyrase inhibitor,10,2,0,0,0,0,0.1
+flat_mean_cosine,bacterial cell wall synthesis inhibitor,14,1,0,0,0,0,0
+flat_mean_cosine,benzodiazepine receptor agonist,6,0,0,0,0,0,0
+flat_mean_cosine,calcium channel blocker,16,0,0,0,0,0,0
+flat_mean_cosine,carbonic anhydrase inhibitor,6,54,0,0,0,0,0.3333333333
+flat_mean_cosine,coagulation factor inhibitor,5,5,0,0,0,0,0
+flat_mean_cosine,cyclooxygenase inhibitor,29,0,0,0,0,0,0
+flat_mean_cosine,cytochrome P450 inhibitor,5,0,0,0,0,0,0
+flat_mean_cosine,dipeptidyl peptidase inhibitor,5,3,0,0,0,0,0
+flat_mean_cosine,dopamine receptor agonist,12,0,0,0,0,0,0
+flat_mean_cosine,dopamine receptor antagonist,22,0,0,0,0,0,0.1818181818
+flat_mean_cosine,dopamine reuptake inhibitor,5,4,0,0,0,0,0
+flat_mean_cosine,estrogen receptor agonist,7,0,0,0,0,0,0
+flat_mean_cosine,gamma secretase inhibitor,7,11,1,0.09090909091,0.1428571429,0.1111111111,0.2857142857
+flat_mean_cosine,glucocorticoid receptor agonist,17,36,15,0.4166666667,0.8823529412,0.5660377358,0.9411764706
+flat_mean_cosine,glucosidase inhibitor,5,3,0,0,0,0,0
+flat_mean_cosine,glutamate receptor antagonist,7,1,0,0,0,0,0
+flat_mean_cosine,histamine receptor antagonist,25,0,0,0,0,0,0
+flat_mean_cosine,insulin secretagogue,5,0,0,0,0,0,0
+flat_mean_cosine,integrin antagonist,5,9,1,0.1111111111,0.2,0.1428571429,0.4
+flat_mean_cosine,mTOR inhibitor,8,10,4,0.4,0.5,0.4444444444,0.625
+flat_mean_cosine,monoamine oxidase inhibitor,6,12,0,0,0,0,0
+flat_mean_cosine,nitric oxide synthase inhibitor,5,23,0,0,0,0,0.2
+flat_mean_cosine,non-nucleoside reverse transcriptase inhibitor,5,0,0,0,0,0,0
+flat_mean_cosine,nucleoside reverse transcriptase inhibitor,6,2,0,0,0,0,0
+flat_mean_cosine,p38 MAPK inhibitor,7,7,0,0,0,0,0
+flat_mean_cosine,phosphodiesterase inhibitor,35,0,0,0,0,0,0
+flat_mean_cosine,potassium channel activator,5,2,0,0,0,0,0
+flat_mean_cosine,potassium channel blocker,7,6,0,0,0,0,0
+flat_mean_cosine,progesterone receptor agonist,7,6,0,0,0,0,0.1428571429
+flat_mean_cosine,proteasome inhibitor,5,36,5,0.1388888889,1,0.243902439,1
+flat_mean_cosine,protein synthesis inhibitor,5,0,0,0,0,0,0
+flat_mean_cosine,retinoid receptor agonist,7,1,1,1,0.1428571429,0.25,0.2857142857
+flat_mean_cosine,ribonucleotide reductase inhibitor,5,3,1,0.3333333333,0.2,0.25,0.4
+flat_mean_cosine,selective serotonin reuptake inhibitor (SSRI),5,21,0,0,0,0,0
+flat_mean_cosine,serotonin receptor agonist,10,0,0,0,0,0,0
+flat_mean_cosine,serotonin receptor antagonist,14,4,0,0,0,0,0
+flat_mean_cosine,sodium channel blocker,12,0,0,0,0,0,0
+flat_mean_cosine,sterol demethylase inhibitor,7,1,0,0,0,0,0
+flat_mean_cosine,tachykinin antagonist,6,2,0,0,0,0,0.1666666667
+flat_mean_cosine,topoisomerase inhibitor,16,0,0,0,0,0,0
+flat_mean_cosine,tubulin polymerization inhibitor,10,5,0,0,0,0,0.8
+flat_mean_cosine,tyrosine kinase inhibitor,5,0,0,0,0,0,0
+flat_mean_cosine,vitamin D receptor agonist,6,5,0,0,0,0,0
+cosine_1nn,AKT inhibitor,6,7,4,0.5714285714,0.6666666667,0.6153846154,0.6666666667
+cosine_1nn,Aurora kinase inhibitor,6,5,5,1,0.8333333333,0.9090909091,1
+cosine_1nn,CC chemokine receptor antagonist,8,10,0,0,0,0,0.125
+cosine_1nn,CCK receptor antagonist,5,6,0,0,0,0,0
+cosine_1nn,CDK inhibitor,8,7,5,0.7142857143,0.625,0.6666666667,0.625
+cosine_1nn,DNA alkylating agent,5,5,0,0,0,0,0.4
+cosine_1nn,DNA inhibitor,8,9,0,0,0,0,0
+cosine_1nn,DNA polymerase inhibitor,5,7,0,0,0,0,0
+cosine_1nn,DNA synthesis inhibitor,6,4,1,0.25,0.1666666667,0.2,0.1666666667
+cosine_1nn,EGFR inhibitor,15,12,2,0.1666666667,0.1333333333,0.1481481481,0.4666666667
+cosine_1nn,HCV inhibitor,9,11,0,0,0,0,0.1111111111
+cosine_1nn,HDAC inhibitor,12,20,10,0.5,0.8333333333,0.625,0.9166666667
+cosine_1nn,HIV protease inhibitor,7,5,0,0,0,0,0.1428571429
+cosine_1nn,HMGCR inhibitor,6,6,2,0.3333333333,0.3333333333,0.3333333333,0.3333333333
+cosine_1nn,HSP inhibitor,7,7,6,0.8571428571,0.8571428571,0.8571428571,0.8571428571
+cosine_1nn,JAK inhibitor,7,4,2,0.5,0.2857142857,0.3636363636,0.4285714286
+cosine_1nn,MEK inhibitor,10,11,9,0.8181818182,0.9,0.8571428571,0.9
+cosine_1nn,PARP inhibitor,5,10,0,0,0,0,0.2
+cosine_1nn,PI3K inhibitor,8,4,2,0.5,0.25,0.3333333333,0.375
+cosine_1nn,PKC inhibitor,5,1,0,0,0,0,0.2
+cosine_1nn,PLK inhibitor,5,6,4,0.6666666667,0.8,0.7272727273,0.8
+cosine_1nn,PPAR receptor agonist,5,7,0,0,0,0,0
+cosine_1nn,RAF inhibitor,6,4,0,0,0,0,0.3333333333
+cosine_1nn,RNA polymerase inhibitor,7,5,0,0,0,0,0
+cosine_1nn,acetylcholine receptor agonist,8,7,0,0,0,0,0
+cosine_1nn,acetylcholine receptor antagonist,20,27,2,0.07407407407,0.1,0.08510638298,0.15
+cosine_1nn,adenosine receptor antagonist,5,3,0,0,0,0,0
+cosine_1nn,adrenergic receptor agonist,21,15,0,0,0,0,0.04761904762
+cosine_1nn,adrenergic receptor antagonist,31,34,4,0.1176470588,0.1290322581,0.1230769231,0.1935483871
+cosine_1nn,androgen receptor antagonist,7,3,0,0,0,0,0
+cosine_1nn,androgen receptor modulator,6,0,0,0,0,0,0
+cosine_1nn,angiotensin converting enzyme inhibitor,10,20,0,0,0,0,0
+cosine_1nn,angiotensin receptor antagonist,6,8,0,0,0,0,0
+cosine_1nn,aromatase inhibitor,5,5,0,0,0,0,0
+cosine_1nn,bacterial 50S ribosomal subunit inhibitor,6,7,2,0.2857142857,0.3333333333,0.3076923077,0.5
+cosine_1nn,bacterial DNA gyrase inhibitor,10,8,3,0.375,0.3,0.3333333333,0.3
+cosine_1nn,bacterial cell wall synthesis inhibitor,14,19,2,0.1052631579,0.1428571429,0.1212121212,0.1428571429
+cosine_1nn,benzodiazepine receptor agonist,6,2,0,0,0,0,0
+cosine_1nn,calcium channel blocker,16,14,0,0,0,0,0.0625
+cosine_1nn,carbonic anhydrase inhibitor,6,2,0,0,0,0,0
+cosine_1nn,coagulation factor inhibitor,5,5,0,0,0,0,0
+cosine_1nn,cyclooxygenase inhibitor,29,23,2,0.08695652174,0.06896551724,0.07692307692,0.1379310345
+cosine_1nn,cytochrome P450 inhibitor,5,2,0,0,0,0,0
+cosine_1nn,dipeptidyl peptidase inhibitor,5,8,0,0,0,0,0
+cosine_1nn,dopamine receptor agonist,12,6,0,0,0,0,0
+cosine_1nn,dopamine receptor antagonist,22,37,8,0.2162162162,0.3636363636,0.2711864407,0.4545454545
+cosine_1nn,dopamine reuptake inhibitor,5,3,0,0,0,0,0
+cosine_1nn,estrogen receptor agonist,7,6,0,0,0,0,0.1428571429
+cosine_1nn,gamma secretase inhibitor,7,4,0,0,0,0,0
+cosine_1nn,glucocorticoid receptor agonist,17,16,7,0.4375,0.4117647059,0.4242424242,0.7058823529
+cosine_1nn,glucosidase inhibitor,5,5,0,0,0,0,0
+cosine_1nn,glutamate receptor antagonist,7,3,0,0,0,0,0
+cosine_1nn,histamine receptor antagonist,25,32,4,0.125,0.16,0.1403508772,0.2
+cosine_1nn,insulin secretagogue,5,5,0,0,0,0,0
+cosine_1nn,integrin antagonist,5,8,0,0,0,0,0.2
+cosine_1nn,mTOR inhibitor,8,11,5,0.4545454545,0.625,0.5263157895,0.75
+cosine_1nn,monoamine oxidase inhibitor,6,5,0,0,0,0,0
+cosine_1nn,nitric oxide synthase inhibitor,5,5,0,0,0,0,0
+cosine_1nn,non-nucleoside reverse transcriptase inhibitor,5,4,0,0,0,0,0
+cosine_1nn,nucleoside reverse transcriptase inhibitor,6,5,1,0.2,0.1666666667,0.1818181818,0.1666666667
+cosine_1nn,p38 MAPK inhibitor,7,3,0,0,0,0,0
+cosine_1nn,phosphodiesterase inhibitor,35,32,2,0.0625,0.05714285714,0.05970149254,0.1714285714
+cosine_1nn,potassium channel activator,5,11,0,0,0,0,0
+cosine_1nn,potassium channel blocker,7,7,0,0,0,0,0.1428571429
+cosine_1nn,progesterone receptor agonist,7,5,0,0,0,0,0
+cosine_1nn,proteasome inhibitor,5,8,5,0.625,1,0.7692307692,1
+cosine_1nn,protein synthesis inhibitor,5,2,1,0.5,0.2,0.2857142857,0.4
+cosine_1nn,retinoid receptor agonist,7,5,3,0.6,0.4285714286,0.5,0.7142857143
+cosine_1nn,ribonucleotide reductase inhibitor,5,7,1,0.1428571429,0.2,0.1666666667,0.8
+cosine_1nn,selective serotonin reuptake inhibitor (SSRI),5,8,0,0,0,0,0.2
+cosine_1nn,serotonin receptor agonist,10,11,0,0,0,0,0
+cosine_1nn,serotonin receptor antagonist,14,16,1,0.0625,0.07142857143,0.06666666667,0.2142857143
+cosine_1nn,sodium channel blocker,12,11,0,0,0,0,0.1666666667
+cosine_1nn,sterol demethylase inhibitor,7,7,0,0,0,0,0.1428571429
+cosine_1nn,tachykinin antagonist,6,5,2,0.4,0.3333333333,0.3636363636,0.3333333333
+cosine_1nn,topoisomerase inhibitor,16,12,7,0.5833333333,0.4375,0.5,0.5
+cosine_1nn,tubulin polymerization inhibitor,10,13,6,0.4615384615,0.6,0.5217391304,0.8
+cosine_1nn,tyrosine kinase inhibitor,5,4,0,0,0,0,0
+cosine_1nn,vitamin D receptor agonist,6,6,1,0.1666666667,0.1666666667,0.1666666667,0.3333333333
+majority,AKT inhibitor,6,0,0,0,0,0,0
+majority,Aurora kinase inhibitor,6,0,0,0,0,0,0
+majority,CC chemokine receptor antagonist,8,0,0,0,0,0,0
+majority,CCK receptor antagonist,5,0,0,0,0,0,0
+majority,CDK inhibitor,8,0,0,0,0,0,0
+majority,DNA alkylating agent,5,0,0,0,0,0,0
+majority,DNA inhibitor,8,0,0,0,0,0,0
+majority,DNA polymerase inhibitor,5,0,0,0,0,0,0
+majority,DNA synthesis inhibitor,6,0,0,0,0,0,0
+majority,EGFR inhibitor,15,0,0,0,0,0,0
+majority,HCV inhibitor,9,0,0,0,0,0,0
+majority,HDAC inhibitor,12,0,0,0,0,0,0
+majority,HIV protease inhibitor,7,0,0,0,0,0,0
+majority,HMGCR inhibitor,6,0,0,0,0,0,0
+majority,HSP inhibitor,7,0,0,0,0,0,0
+majority,JAK inhibitor,7,0,0,0,0,0,0
+majority,MEK inhibitor,10,0,0,0,0,0,0
+majority,PARP inhibitor,5,0,0,0,0,0,0
+majority,PI3K inhibitor,8,0,0,0,0,0,0
+majority,PKC inhibitor,5,0,0,0,0,0,0
+majority,PLK inhibitor,5,0,0,0,0,0,0
+majority,PPAR receptor agonist,5,0,0,0,0,0,0
+majority,RAF inhibitor,6,0,0,0,0,0,0
+majority,RNA polymerase inhibitor,7,0,0,0,0,0,0
+majority,acetylcholine receptor agonist,8,0,0,0,0,0,0
+majority,acetylcholine receptor antagonist,20,0,0,0,0,0,0
+majority,adenosine receptor antagonist,5,0,0,0,0,0,0
+majority,adrenergic receptor agonist,21,0,0,0,0,0,0
+majority,adrenergic receptor antagonist,31,0,0,0,0,0,1
+majority,androgen receptor antagonist,7,0,0,0,0,0,0
+majority,androgen receptor modulator,6,0,0,0,0,0,0
+majority,angiotensin converting enzyme inhibitor,10,0,0,0,0,0,0
+majority,angiotensin receptor antagonist,6,0,0,0,0,0,0
+majority,aromatase inhibitor,5,0,0,0,0,0,0
+majority,bacterial 50S ribosomal subunit inhibitor,6,0,0,0,0,0,0
+majority,bacterial DNA gyrase inhibitor,10,0,0,0,0,0,0
+majority,bacterial cell wall synthesis inhibitor,14,0,0,0,0,0,0
+majority,benzodiazepine receptor agonist,6,0,0,0,0,0,0
+majority,calcium channel blocker,16,0,0,0,0,0,0
+majority,carbonic anhydrase inhibitor,6,0,0,0,0,0,0
+majority,coagulation factor inhibitor,5,0,0,0,0,0,0
+majority,cyclooxygenase inhibitor,29,0,0,0,0,0,1
+majority,cytochrome P450 inhibitor,5,0,0,0,0,0,0
+majority,dipeptidyl peptidase inhibitor,5,0,0,0,0,0,0
+majority,dopamine receptor agonist,12,0,0,0,0,0,0
+majority,dopamine receptor antagonist,22,0,0,0,0,0,0
+majority,dopamine reuptake inhibitor,5,0,0,0,0,0,0
+majority,estrogen receptor agonist,7,0,0,0,0,0,0
+majority,gamma secretase inhibitor,7,0,0,0,0,0,0
+majority,glucocorticoid receptor agonist,17,0,0,0,0,0,0
+majority,glucosidase inhibitor,5,0,0,0,0,0,0
+majority,glutamate receptor antagonist,7,0,0,0,0,0,0
+majority,histamine receptor antagonist,25,0,0,0,0,0,0
+majority,insulin secretagogue,5,0,0,0,0,0,0
+majority,integrin antagonist,5,0,0,0,0,0,0
+majority,mTOR inhibitor,8,0,0,0,0,0,0
+majority,monoamine oxidase inhibitor,6,0,0,0,0,0,0
+majority,nitric oxide synthase inhibitor,5,0,0,0,0,0,0
+majority,non-nucleoside reverse transcriptase inhibitor,5,0,0,0,0,0,0
+majority,nucleoside reverse transcriptase inhibitor,6,0,0,0,0,0,0
+majority,p38 MAPK inhibitor,7,0,0,0,0,0,0
+majority,phosphodiesterase inhibitor,35,713,35,0.04908835905,1,0.0935828877,1
+majority,potassium channel activator,5,0,0,0,0,0,0
+majority,potassium channel blocker,7,0,0,0,0,0,0
+majority,progesterone receptor agonist,7,0,0,0,0,0,0
+majority,proteasome inhibitor,5,0,0,0,0,0,0
+majority,protein synthesis inhibitor,5,0,0,0,0,0,0
+majority,retinoid receptor agonist,7,0,0,0,0,0,0
+majority,ribonucleotide reductase inhibitor,5,0,0,0,0,0,0
+majority,selective serotonin reuptake inhibitor (SSRI),5,0,0,0,0,0,0
+majority,serotonin receptor agonist,10,0,0,0,0,0,0
+majority,serotonin receptor antagonist,14,0,0,0,0,0,0
+majority,sodium channel blocker,12,0,0,0,0,0,0
+majority,sterol demethylase inhibitor,7,0,0,0,0,0,0
+majority,tachykinin antagonist,6,0,0,0,0,0,0
+majority,topoisomerase inhibitor,16,0,0,0,0,0,0
+majority,tubulin polymerization inhibitor,10,0,0,0,0,0,0
+majority,tyrosine kinase inhibitor,5,0,0,0,0,0,0
+majority,vitamin D receptor agonist,6,0,0,0,0,0,0

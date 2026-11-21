@@ -1,0 +1,475 @@
+moa,feature,n,median,q25,q75,rest_median
+AKT inhibitor,Nuclei_AreaShape_Area,6,0.46873849999999995,0.21592450000000002,0.8562555,0.522754
+AKT inhibitor,Cells_AreaShape_Area,6,3.5730000000000004,1.6696875,5.84523,0.974812
+AKT inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,0.39155490000000004,-0.2701613,1.025393,-0.619974
+AKT inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,0.676339,0.62098525,0.9897182499999999,0.640811
+AKT inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,-0.48846275,-1.8299819999999998,0.298047125,-0.07285
+AKT inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,-0.9178495,-1.5750575,-0.323607,-0.298114
+Aurora kinase inhibitor,Nuclei_AreaShape_Area,6,27.3076,20.411724999999997,31.90135,0.51981
+Aurora kinase inhibitor,Cells_AreaShape_Area,6,23.3438,18.813650000000003,34.7363,0.973062
+Aurora kinase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,-0.777454,-3.208565,0.77837475,-0.598031
+Aurora kinase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,2.235865,1.06817425,4.271552499999999,0.637105
+Aurora kinase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,-1.083882,-1.4048175,0.3316215,-0.0709471
+Aurora kinase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,-1.36494,-1.67592,-0.17208299999999999,-0.298114
+CC chemokine receptor antagonist,Nuclei_AreaShape_Area,8,1.0344185,0.43136774999999994,1.5049,0.521545
+CC chemokine receptor antagonist,Cells_AreaShape_Area,8,1.8111700000000002,1.27549,2.2938324999999997,0.973062
+CC chemokine receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,8,-1.1916275,-1.80936,-0.40716075,-0.596956
+CC chemokine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,8,1.357895,0.523948775,2.0909,0.637105
+CC chemokine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,8,-0.51973,-0.790454,-0.25940825,-0.0495578
+CC chemokine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,8,-0.390747,-0.59210125,-0.1381185,-0.298255
+CCK receptor antagonist,Nuclei_AreaShape_Area,5,0.926542,-0.53508,1.26244,0.5221495
+CCK receptor antagonist,Cells_AreaShape_Area,5,0.430502,-0.572708,0.594515,1.01078
+CCK receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,5,-0.815406,-1.2952,0.187627,-0.5974935
+CCK receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.10233,0.0819362,0.333018,0.6480440000000001
+CCK receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,5,-0.154383,-0.479345,0.269322,-0.07189855
+CCK receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,5,0.0308497,-0.338389,0.425999,-0.300294
+CDK inhibitor,Nuclei_AreaShape_Area,8,13.14635,10.946299999999999,19.652925,0.519241
+CDK inhibitor,Cells_AreaShape_Area,8,5.77789,4.517085,9.312355,0.971974
+CDK inhibitor,Nuclei_Intensity_MeanIntensity_DNA,8,-4.160215,-4.229229999999999,-3.138045,-0.580774
+CDK inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,8,7.824535,6.498480000000001,11.246575,0.622078
+CDK inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,8,0.6528545,0.018743824999999992,1.929185,-0.0781342
+CDK inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,8,0.0915095,-0.41313525,2.048975,-0.302333
+DNA alkylating agent,Nuclei_AreaShape_Area,5,4.60903,2.03277,14.9035,0.5203895000000001
+DNA alkylating agent,Cells_AreaShape_Area,5,3.6153,3.20167,12.0012,0.973937
+DNA alkylating agent,Nuclei_Intensity_MeanIntensity_DNA,5,-1.44272,-2.91197,-0.678625,-0.594802
+DNA alkylating agent,Cytoplasm_Intensity_MeanIntensity_Mito,5,1.01108,0.456677,2.41193,0.6402075
+DNA alkylating agent,Cytoplasm_Intensity_MeanIntensity_ER,5,-1.42938,-2.21268,-0.42036,-0.06762355
+DNA alkylating agent,Cytoplasm_Intensity_MeanIntensity_AGP,5,-1.34501,-1.47629,-0.328964,-0.29787149999999996
+DNA inhibitor,Nuclei_AreaShape_Area,8,2.1334150000000003,0.813670675,7.5660875,0.520969
+DNA inhibitor,Cells_AreaShape_Area,8,1.7143899999999999,0.61082275,8.6908975,0.974812
+DNA inhibitor,Nuclei_Intensity_MeanIntensity_DNA,8,-0.418554,-1.85512,0.36978825000000004,-0.598031
+DNA inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,8,0.61984,-0.10201735,1.2453720000000001,0.640811
+DNA inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,8,-0.11826505,-0.471731,0.19178865,-0.07285
+DNA inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,8,-0.6205890000000001,-1.40612,0.298779,-0.298255
+DNA polymerase inhibitor,Nuclei_AreaShape_Area,5,0.48363,0.320845,1.01516,0.524395
+DNA polymerase inhibitor,Cells_AreaShape_Area,5,1.26467,1.13975,1.33921,0.977759
+DNA polymerase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-1.60217,-2.26447,-0.518184,-0.5974935
+DNA polymerase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,-0.109284,-0.188204,-0.0271129,0.6508295
+DNA polymerase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,0.00885772,-0.902956,0.828735,-0.07347085
+DNA polymerase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.447851,-0.584003,-0.155741,-0.29818449999999996
+DNA synthesis inhibitor,Nuclei_AreaShape_Area,6,2.1542,-0.09341125000000006,4.9111775,0.521545
+DNA synthesis inhibitor,Cells_AreaShape_Area,6,2.977425,0.42264749999999995,9.3879075,0.980706
+DNA synthesis inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,-0.938021,-1.880145,-0.6828482499999999,-0.592648
+DNA synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,0.8235490000000001,0.4048915,1.204705,0.640811
+DNA synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,0.39533585,-1.3884493249999998,0.896811,-0.07285
+DNA synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,-1.504385,-1.7394175,-0.6624615,-0.297629
+EGFR inhibitor,Nuclei_AreaShape_Area,15,1.93647,0.9356774999999999,4.111375000000001,0.5169295
+EGFR inhibitor,Cells_AreaShape_Area,15,2.30365,1.20053,3.16667,0.9669125000000001
+EGFR inhibitor,Nuclei_Intensity_MeanIntensity_DNA,15,-1.32096,-2.92205,0.025866,-0.594802
+EGFR inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,15,4.28534,1.253905,5.528565,0.616622
+EGFR inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,15,-0.14793,-0.6524625,1.887475,-0.07189855
+EGFR inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,15,0.867417,-0.735882,3.120835,-0.30483950000000004
+HCV inhibitor,Nuclei_AreaShape_Area,9,0.271193,-0.0996142,1.02502,0.524395
+HCV inhibitor,Cells_AreaShape_Area,9,2.80127,0.413617,4.52442,0.977759
+HCV inhibitor,Nuclei_Intensity_MeanIntensity_DNA,9,-0.123049,-0.743842,0.699581,-0.6115655
+HCV inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,9,0.936313,0.720072,1.95429,0.626749
+HCV inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,9,-0.511357,-1.58821,0.0388908,-0.07189855
+HCV inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,9,-0.783349,-1.25589,-0.763505,-0.2956065
+HDAC inhibitor,Nuclei_AreaShape_Area,12,9.486585,4.34837,13.037425,0.518888
+HDAC inhibitor,Cells_AreaShape_Area,12,-0.564607,-2.1745725,6.423109999999999,0.992842
+HDAC inhibitor,Nuclei_Intensity_MeanIntensity_DNA,12,-2.252325,-3.5235375,-0.97966225,-0.580774
+HDAC inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,12,6.844405,2.47812,11.5277,0.61676
+HDAC inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,12,-0.3166785,-1.8650425,0.84934225,-0.0643
+HDAC inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,12,0.464506,-1.143605,2.0675875,-0.302333
+HIV protease inhibitor,Nuclei_AreaShape_Area,7,-0.286417,-0.6132789999999999,0.18260349999999997,0.53213
+HIV protease inhibitor,Cells_AreaShape_Area,7,0.65101,-0.09888950000000007,1.446771,1.000931
+HIV protease inhibitor,Nuclei_Intensity_MeanIntensity_DNA,7,0.639278,-0.34885,0.881704,-0.6115655
+HIV protease inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,7,-0.0308108,-0.284848,0.497665,0.6508295
+HIV protease inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,7,0.358867,0.06919865,0.8807765,-0.07857075
+HIV protease inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,7,-0.15385,-0.998067,0.592652,-0.300294
+HMGCR inhibitor,Nuclei_AreaShape_Area,6,0.09985490000000001,-0.38424929999999996,0.946372,0.526036
+HMGCR inhibitor,Cells_AreaShape_Area,6,-0.11268800000000001,-1.282823,0.48786325,1.01254
+HMGCR inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,0.17503849999999999,-1.8274492500000001,0.7163305,-0.603157
+HMGCR inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,1.32094,0.821056,2.6214925,0.637105
+HMGCR inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,1.173635,0.7351832500000001,4.1053275000000005,-0.0790073
+HMGCR inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,1.1395605,-0.13631900000000002,3.3090575,-0.307346
+HSP inhibitor,Nuclei_AreaShape_Area,7,14.2047,12.8064,24.9747,0.5195255
+HSP inhibitor,Cells_AreaShape_Area,7,11.6224,4.135149999999999,14.4342,0.972518
+HSP inhibitor,Nuclei_Intensity_MeanIntensity_DNA,7,-2.69024,-2.8826650000000003,-2.1889,-0.5843795
+HSP inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,7,7.30825,5.647075,7.9307,0.626749
+HSP inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,7,0.163473,-0.517047,1.39959,-0.07347085
+HSP inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,7,-0.0885992,-0.8456929999999999,0.9731449999999999,-0.30483950000000004
+JAK inhibitor,Nuclei_AreaShape_Area,7,3.733,1.3144535000000002,13.372914999999999,0.5203895000000001
+JAK inhibitor,Cells_AreaShape_Area,7,2.85241,1.2719150000000001,3.351205,0.977759
+JAK inhibitor,Nuclei_Intensity_MeanIntensity_DNA,7,-2.38368,-2.57089,-0.543247,-0.594802
+JAK inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.354375,-0.0378685,3.306586,0.643413
+JAK inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,7,-0.715285,-0.8231245,-0.465936,-0.0569289
+JAK inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,7,-1.21621,-1.613005,-0.5199214999999999,-0.2956065
+MEK inhibitor,Nuclei_AreaShape_Area,10,4.789975,4.0992225,5.817195,0.518888
+MEK inhibitor,Cells_AreaShape_Area,10,7.7770150000000005,7.28766,10.205905,0.961851
+MEK inhibitor,Nuclei_Intensity_MeanIntensity_DNA,10,-2.8650900000000004,-4.4735724999999995,-2.3250475,-0.568792
+MEK inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,10,2.23015,0.955917,3.5683724999999997,0.63142
+MEK inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,10,-0.7167935000000001,-1.1452275,0.31365525,-0.0643
+MEK inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,10,-0.3098005,-0.76678725,0.077680955,-0.298255
+PARP inhibitor,Nuclei_AreaShape_Area,5,1.72522,0.847532,3.21937,0.5212570000000001
+PARP inhibitor,Cells_AreaShape_Area,5,1.96971,1.26676,10.2546,0.977759
+PARP inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-0.293473,-0.488741,-0.115031,-0.6115655
+PARP inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.33527,-0.370164,0.832336,0.643413
+PARP inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,0.211172,-1.18332,0.777478,-0.07347085
+PARP inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.252322,-0.657213,0.0853091,-0.300294
+PI3K inhibitor,Nuclei_AreaShape_Area,8,0.600977,0.10728074999999998,2.4917675,0.521545
+PI3K inhibitor,Cells_AreaShape_Area,8,0.780592,-0.0658409,1.94614575,1.00902
+PI3K inhibitor,Nuclei_Intensity_MeanIntensity_DNA,8,-0.31326585,-2.1218025,0.2482635,-0.598031
+PI3K inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,8,1.9300190000000002,0.167329675,4.7218575,0.639604
+PI3K inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,8,-0.30488,-0.79020975,0.499671,-0.0709471
+PI3K inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,8,0.407941,-0.4119314,0.65172175,-0.307346
+PKC inhibitor,Nuclei_AreaShape_Area,5,1.74287,1.53512,2.40226,0.5203895000000001
+PKC inhibitor,Cells_AreaShape_Area,5,0.850797,0.35591,1.95948,0.9889129999999999
+PKC inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-1.7965,-2.92353,-0.909852,-0.5903164999999999
+PKC inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.509899,0.38421,1.79995,0.643413
+PKC inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,0.93859,0.0602987,1.26705,-0.07611295
+PKC inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,0.323623,-0.146144,1.2379,-0.30483950000000004
+PLK inhibitor,Nuclei_AreaShape_Area,5,30.9312,27.7706,36.4892,0.5203895000000001
+PLK inhibitor,Cells_AreaShape_Area,5,4.30705,3.68647,5.86614,0.977759
+PLK inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-2.75948,-3.03869,-2.54532,-0.594802
+PLK inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,5.41593,4.2772,6.46729,0.6342625
+PLK inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,-3.18323,-3.39052,-1.06354,-0.0569289
+PLK inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,0.838642,-0.405223,1.36753,-0.300294
+PPAR receptor agonist,Nuclei_AreaShape_Area,5,1.07138,-0.0625136,1.97585,0.5221495
+PPAR receptor agonist,Cells_AreaShape_Area,5,1.21074,0.0020849,3.39379,0.982845
+PPAR receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,5,0.141601,-0.239543,0.405112,-0.6115655
+PPAR receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.0466842,0.000525038,0.742377,0.643413
+PPAR receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,5,-1.00983,-1.07421,0.0545003,-0.07189855
+PPAR receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.212905,-1.6552,0.600588,-0.300294
+RAF inhibitor,Nuclei_AreaShape_Area,6,2.164446,0.81206975,4.1582574999999995,0.520969
+RAF inhibitor,Cells_AreaShape_Area,6,2.054725,0.48544295499999995,2.3426425,0.980706
+RAF inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,-0.6794395,-1.84366675,-0.29620674999999996,-0.598031
+RAF inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,1.69339,1.08879875,2.3513699999999997,0.637105
+RAF inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,-0.188826,-0.53679475,0.552427,-0.07285
+RAF inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,0.2437065,-0.21382474999999998,1.1332369999999998,-0.302333
+RNA polymerase inhibitor,Nuclei_AreaShape_Area,7,0.906561,0.4805625,3.41936,0.5212570000000001
+RNA polymerase inhibitor,Cells_AreaShape_Area,7,0.54748,-0.5446059999999999,2.06365,0.9889129999999999
+RNA polymerase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,7,-1.12751,-3.3440199999999995,-0.35954600000000003,-0.594802
+RNA polymerase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.576522,-0.07738799999999998,5.517615,0.643413
+RNA polymerase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,7,-0.81016,-1.471525,0.10629954999999999,-0.07189855
+RNA polymerase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,7,0.146126,-0.717044,0.996109,-0.30483950000000004
+acetylcholine receptor agonist,Nuclei_AreaShape_Area,8,-0.07890425,-0.6007345,0.6552870000000001,0.526036
+acetylcholine receptor agonist,Cells_AreaShape_Area,8,0.8371835000000001,-0.67564025,1.088643,1.00902
+acetylcholine receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,8,-0.0318765,-0.7303499999999999,0.5573285,-0.619974
+acetylcholine receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,8,0.0627616,-0.224457675,0.55523125,0.650073
+acetylcholine receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,8,0.1070125,-0.28436425,0.86628925,-0.0740917
+acetylcholine receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,8,0.28890099999999996,-0.3788345,0.7977084999999999,-0.307346
+acetylcholine receptor antagonist,Nuclei_AreaShape_Area,20,0.20887899999999998,-0.52732625,0.929442,0.546297
+acetylcholine receptor antagonist,Cells_AreaShape_Area,20,0.012966499999999992,-0.584012,0.97534475,1.02001
+acetylcholine receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,20,-0.0867631,-1.156975,0.439511,-0.622179
+acetylcholine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,20,0.630204,-0.26138575000000003,1.0430199999999998,0.640811
+acetylcholine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,20,0.03765299999999999,-0.43633625,0.6766657500000001,-0.07285
+acetylcholine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,20,-0.4305065,-0.6023775,-0.098949075,-0.293584
+adenosine receptor antagonist,Nuclei_AreaShape_Area,5,0.0955314,-0.357346,0.90557,0.524395
+adenosine receptor antagonist,Cells_AreaShape_Area,5,0.107866,-0.324595,0.355756,1.000931
+adenosine receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,5,-0.469023,-3.02552,0.634903,-0.6005940000000001
+adenosine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.152467,0.0703885,0.606145,0.6480440000000001
+adenosine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,5,0.363658,0.0445825,0.956415,-0.07611295
+adenosine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.714778,-0.889085,0.943794,-0.29818449999999996
+adrenergic receptor agonist,Nuclei_AreaShape_Area,21,0.00860378,-0.536469,0.249555,0.5580985
+adrenergic receptor agonist,Cells_AreaShape_Area,21,0.00466716,-0.4449,0.817244,1.021265
+adrenergic receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,21,-0.162362,-0.622179,0.530975,-0.6335445
+adrenergic receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,21,0.372701,-0.0243031,0.923796,0.643413
+adrenergic receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,21,0.239738,-0.0850844,0.570758,-0.0882252
+adrenergic receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,21,-0.164591,-0.509962,0.139762,-0.308923
+adrenergic receptor antagonist,Nuclei_AreaShape_Area,31,0.347379,-0.14669435,1.07141,0.524395
+adrenergic receptor antagonist,Cells_AreaShape_Area,31,0.535198,-0.19243549999999998,1.545175,1.019895
+adrenergic receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,31,-0.128408,-1.088438,0.5398655,-0.628661
+adrenergic receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,31,0.533606,0.09502425,1.064515,0.6541655
+adrenergic receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,31,0.0693834,-0.220861,0.575712,-0.0882252
+adrenergic receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,31,-0.0814969,-0.7669334999999999,0.453812,-0.308923
+androgen receptor antagonist,Nuclei_AreaShape_Area,7,0.526036,0.418737,0.9526045,0.5221495
+androgen receptor antagonist,Cells_AreaShape_Area,7,0.46469,0.0598861,1.0431815,1.000931
+androgen receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,7,-0.16615,-1.5764304999999998,0.42028615,-0.6005940000000001
+androgen receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.949816,0.272358,1.43376,0.6383544999999999
+androgen receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,7,0.113851,-0.46159795,0.1471015,-0.07611295
+androgen receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,7,-1.16925,-1.39596,-0.33028199999999996,-0.29787149999999996
+androgen receptor modulator,Nuclei_AreaShape_Area,6,-0.061069754999999996,-0.31074250000000003,0.0327259975,0.526317
+androgen receptor modulator,Cells_AreaShape_Area,6,0.260157,0.15463775,1.05847375,0.992842
+androgen receptor modulator,Nuclei_Intensity_MeanIntensity_DNA,6,0.024509000000000003,-0.30342274999999996,0.223086,-0.619974
+androgen receptor modulator,Cytoplasm_Intensity_MeanIntensity_Mito,6,0.15426099999999998,-0.29884625,0.88140625,0.646015
+androgen receptor modulator,Cytoplasm_Intensity_MeanIntensity_ER,6,-0.3890515,-0.74142725,-0.086916675,-0.0709471
+androgen receptor modulator,Cytoplasm_Intensity_MeanIntensity_AGP,6,-0.47857399999999994,-0.9643767499999999,-0.207158,-0.298255
+angiotensin converting enzyme inhibitor,Nuclei_AreaShape_Area,10,-0.3137185,-0.39195175,0.1625397,0.546297
+angiotensin converting enzyme inhibitor,Cells_AreaShape_Area,10,-0.38382400000000005,-0.70873825,0.32839125,1.02001
+angiotensin converting enzyme inhibitor,Nuclei_Intensity_MeanIntensity_DNA,10,0.3263295,-1.2294075,0.68685825,-0.603157
+angiotensin converting enzyme inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,10,0.0771166,-0.5053857500000001,0.80751925,0.650073
+angiotensin converting enzyme inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,10,0.7076365,0.6285590000000001,0.8044327499999999,-0.0790073
+angiotensin converting enzyme inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,10,-0.0023444999999999994,-0.6088635,0.53583475,-0.298255
+angiotensin receptor antagonist,Nuclei_AreaShape_Area,6,0.5967374999999999,-0.179236,0.9832075,0.522754
+angiotensin receptor antagonist,Cells_AreaShape_Area,6,0.453143,-0.20903025,1.39792,0.984984
+angiotensin receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,6,0.21656284999999997,-1.152791325,1.08771775,-0.603157
+angiotensin receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,6,0.3590805,0.03271009999999999,0.8133595,0.646015
+angiotensin receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,6,0.10449885,-0.16990307500000001,0.17947225,-0.0740917
+angiotensin receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,6,-0.112383615,-0.41778975,0.1569551925,-0.302333
+aromatase inhibitor,Nuclei_AreaShape_Area,5,0.51981,0.377748,1.03009,0.524395
+aromatase inhibitor,Cells_AreaShape_Area,5,0.411452,0.351428,1.18592,0.9889129999999999
+aromatase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-0.34328,-0.952287,-0.0624814,-0.6005940000000001
+aromatase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,-0.340833,-0.764888,0.252488,0.6480440000000001
+aromatase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,-0.361217,-0.470786,-0.297018,-0.06762355
+aromatase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.532814,-0.701357,-0.432816,-0.29787149999999996
+bacterial 50S ribosomal subunit inhibitor,Nuclei_AreaShape_Area,6,0.759413,0.38909075,1.2368104999999998,0.521545
+bacterial 50S ribosomal subunit inhibitor,Cells_AreaShape_Area,6,1.870185,0.39203804999999997,2.0086275000000002,0.980706
+bacterial 50S ribosomal subunit inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,0.1999439,-0.37070780000000003,0.42462075,-0.619974
+bacterial 50S ribosomal subunit inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,-0.037106005,-0.08495865,0.27917764749999996,0.650073
+bacterial 50S ribosomal subunit inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,-0.8886855,-1.4213627500000001,0.3219310000000001,-0.0709471
+bacterial 50S ribosomal subunit inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,-0.768939,-1.1133792500000002,-0.40243,-0.297629
+bacterial DNA gyrase inhibitor,Nuclei_AreaShape_Area,10,0.756077,0.2731448125,0.86401175,0.520969
+bacterial DNA gyrase inhibitor,Cells_AreaShape_Area,10,1.1841300000000001,0.603959875,1.491705,0.980706
+bacterial DNA gyrase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,10,-0.2826845,-1.339425,0.71241825,-0.598031
+bacterial DNA gyrase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,10,0.2027335,-0.23423125,0.44461100000000003,0.651586
+bacterial DNA gyrase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,10,-0.61796075,-0.9357679999999999,-0.4136315,-0.0495578
+bacterial DNA gyrase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,10,-0.615348,-0.724566125,-0.48381074999999996,-0.293584
+bacterial cell wall synthesis inhibitor,Nuclei_AreaShape_Area,14,0.11277794999999999,-0.0693426075,1.06572525,0.526317
+bacterial cell wall synthesis inhibitor,Cells_AreaShape_Area,14,1.114458,-0.508121,1.8059475,0.984984
+bacterial cell wall synthesis inhibitor,Nuclei_Intensity_MeanIntensity_DNA,14,-1.0323025000000001,-1.5104425,0.3547095,-0.596956
+bacterial cell wall synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,14,0.19551895,-0.23851325,0.54848025,0.656745
+bacterial cell wall synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,14,-0.606828,-0.89349775,0.062451175,-0.0495578
+bacterial cell wall synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,14,-0.891042,-1.55542,-0.43629675,-0.284051
+benzodiazepine receptor agonist,Nuclei_AreaShape_Area,6,1.51038,-0.08871099999999998,1.6298124999999999,0.521545
+benzodiazepine receptor agonist,Cells_AreaShape_Area,6,0.44046549999999995,-1.10404475,2.2665025,0.984984
+benzodiazepine receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,6,-0.5716935,-1.42458,0.109884,-0.598031
+benzodiazepine receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,6,1.9506,1.01847675,3.8006699999999998,0.63142
+benzodiazepine receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,6,-0.587604,-1.536737,0.0869105,-0.0709471
+benzodiazepine receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,6,-0.713546,-1.26428825,-0.1000049,-0.298114
+calcium channel blocker,Nuclei_AreaShape_Area,16,0.44683799999999996,-0.18966675,1.2830425,0.526036
+calcium channel blocker,Cells_AreaShape_Area,16,0.889474,-0.11749217499999999,1.8574375,0.992842
+calcium channel blocker,Nuclei_Intensity_MeanIntensity_DNA,16,-0.3776375,-1.2550325,0.63977975,-0.598031
+calcium channel blocker,Cytoplasm_Intensity_MeanIntensity_Mito,16,0.25104000000000004,-0.3382235,0.85422825,0.651586
+calcium channel blocker,Cytoplasm_Intensity_MeanIntensity_ER,16,0.083968955,-0.4156875,0.73315525,-0.0781342
+calcium channel blocker,Cytoplasm_Intensity_MeanIntensity_AGP,16,-0.3274835,-0.9096164999999999,-0.06397952500000001,-0.298255
+carbonic anhydrase inhibitor,Nuclei_AreaShape_Area,6,0.210466,-0.5672714999999999,0.29349800000000004,0.526317
+carbonic anhydrase inhibitor,Cells_AreaShape_Area,6,-0.018670999999999993,-0.458814,0.45430624999999997,1.00902
+carbonic anhydrase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,0.48313649999999997,-0.39827625,1.086549,-0.603157
+carbonic anhydrase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,-0.5483465000000001,-0.7583125,-0.42127200000000004,0.651586
+carbonic anhydrase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,-0.19740069999999998,-0.522415,0.44186765,-0.07285
+carbonic anhydrase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,0.0861153,-0.30679585,0.419002,-0.302333
+coagulation factor inhibitor,Nuclei_AreaShape_Area,5,-0.229066,-0.504694,0.322095,0.5261765
+coagulation factor inhibitor,Cells_AreaShape_Area,5,0.106188,-0.698914,1.00902,0.9889129999999999
+coagulation factor inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-0.821489,-1.62255,0.352582,-0.5974935
+coagulation factor inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.793132,-0.0346101,2.44716,0.6402075
+coagulation factor inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,1.40049,0.577414,1.76412,-0.07611295
+coagulation factor inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,0.345634,-1.35849,0.794937,-0.300294
+cyclooxygenase inhibitor,Nuclei_AreaShape_Area,29,0.138864,-0.286347,0.900253,0.5474395000000001
+cyclooxygenase inhibitor,Cells_AreaShape_Area,29,0.856865,-0.334385,1.51354,1.01078
+cyclooxygenase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,29,0.0190652,-1.15662,0.329811,-0.628661
+cyclooxygenase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,29,0.140868,-0.03235,0.881002,0.6585105
+cyclooxygenase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,29,-0.0235518,-0.609505,0.628101,-0.07347085
+cyclooxygenase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,29,-0.359155,-1.21256,0.43275,-0.29818449999999996
+cytochrome P450 inhibitor,Nuclei_AreaShape_Area,5,0.494765,-0.753114,0.518888,0.5261765
+cytochrome P450 inhibitor,Cells_AreaShape_Area,5,0.656856,-0.0831794,1.41539,0.9889129999999999
+cytochrome P450 inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,0.0601259,-0.696393,0.945955,-0.6005940000000001
+cytochrome P450 inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.580869,-0.114437,1.58262,0.643413
+cytochrome P450 inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,0.670141,-0.454787,0.702296,-0.07347085
+cytochrome P450 inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.0856083,-0.144975,0.209611,-0.30483950000000004
+dipeptidyl peptidase inhibitor,Nuclei_AreaShape_Area,5,0.922436,0.493926,0.952644,0.5221495
+dipeptidyl peptidase inhibitor,Cells_AreaShape_Area,5,0.575604,0.290606,1.23044,0.9889129999999999
+dipeptidyl peptidase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-1.30791,-1.53346,0.404576,-0.5974935
+dipeptidyl peptidase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.367442,-0.451297,0.988531,0.643413
+dipeptidyl peptidase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,0.25705,-0.849166,0.433713,-0.07347085
+dipeptidyl peptidase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.134125,-0.138975,0.136339,-0.30483950000000004
+dopamine receptor agonist,Nuclei_AreaShape_Area,12,-0.6812995,-0.8875625,0.148345875,0.537943
+dopamine receptor agonist,Cells_AreaShape_Area,12,0.1351359,-0.981555,0.9452067500000001,1.01254
+dopamine receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,12,-0.17522944999999998,-1.1423675,0.481484,-0.603157
+dopamine receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,12,0.564555,0.2076073,0.9603597500000001,0.646015
+dopamine receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,12,1.0090249999999998,0.099497,1.838075,-0.0790073
+dopamine receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,12,0.2385455,-0.58085825,0.65034125,-0.302333
+dopamine receptor antagonist,Nuclei_AreaShape_Area,22,0.289267,-0.30945275,1.041887,0.537943
+dopamine receptor antagonist,Cells_AreaShape_Area,22,1.1444800000000002,0.87724125,1.4604475,0.971974
+dopamine receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,22,-0.3309235,-0.775837,0.7376277499999999,-0.624036
+dopamine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,22,1.1985100000000002,0.23154025,1.92763,0.63142
+dopamine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,22,0.11943385000000001,-0.37765624999999997,0.87667775,-0.0740917
+dopamine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,22,-0.1941695,-1.04173675,0.43792224999999996,-0.302333
+dopamine reuptake inhibitor,Nuclei_AreaShape_Area,5,0.707684,0.336591,1.05608,0.5221495
+dopamine reuptake inhibitor,Cells_AreaShape_Area,5,2.40964,1.63538,2.48308,0.973937
+dopamine reuptake inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-1.16967,-2.03069,-0.369176,-0.5974935
+dopamine reuptake inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,1.32809,0.376013,1.6427,0.6402075
+dopamine reuptake inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,-0.466732,-0.541596,-0.412456,-0.06762355
+dopamine reuptake inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.878316,-1.41949,-0.402727,-0.29787149999999996
+estrogen receptor agonist,Nuclei_AreaShape_Area,7,0.383992,0.22256399999999998,3.00813,0.524395
+estrogen receptor agonist,Cells_AreaShape_Area,7,1.25068,0.4236603,4.25048,0.982845
+estrogen receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,7,-0.787981,-1.948735,-0.1942375,-0.5974935
+estrogen receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.341964,0.01517549999999998,1.241975,0.643413
+estrogen receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,7,0.020144,-0.48953500000000005,0.39764750000000004,-0.07347085
+estrogen receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,7,-0.526232,-0.870175,0.20243600000000006,-0.29787149999999996
+gamma secretase inhibitor,Nuclei_AreaShape_Area,7,0.522754,0.14268575,0.6986645,0.5237905
+gamma secretase inhibitor,Cells_AreaShape_Area,7,0.788317,0.194975,1.350265,0.9889129999999999
+gamma secretase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,7,-1.55146,-2.67789,-1.2825600000000001,-0.5903164999999999
+gamma secretase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,7,-0.0952508,-0.709414,0.891079,0.643413
+gamma secretase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,7,-0.105039,-0.3541305,1.0009934999999999,-0.07189855
+gamma secretase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,7,-0.435889,-1.376032,0.22327799999999998,-0.29818449999999996
+glucocorticoid receptor agonist,Nuclei_AreaShape_Area,17,0.109385,-0.179387,0.914133,0.53213
+glucocorticoid receptor agonist,Cells_AreaShape_Area,17,3.67828,2.65142,5.0654,0.9506045000000001
+glucocorticoid receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,17,-1.97479,-3.26143,-0.283581,-0.5843795
+glucocorticoid receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,17,-0.386533,-0.75991,0.343937,0.6574375
+glucocorticoid receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,17,-0.526026,-0.962286,-0.325465,-0.0450042
+glucocorticoid receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,17,-0.728952,-1.88494,0.0252503,-0.2956065
+glucosidase inhibitor,Nuclei_AreaShape_Area,5,-0.436229,-0.572261,0.705756,0.524395
+glucosidase inhibitor,Cells_AreaShape_Area,5,-0.732348,-0.841834,0.381236,1.000931
+glucosidase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-0.485002,-0.652109,0.202061,-0.6005940000000001
+glucosidase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.540549,0.431421,0.5631,0.6480440000000001
+glucosidase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,0.3103,0.241896,0.736788,-0.07611295
+glucosidase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,0.562109,-0.172131,1.37151,-0.30483950000000004
+glutamate receptor antagonist,Nuclei_AreaShape_Area,7,0.171496,-0.2019805,1.3530815,0.524395
+glutamate receptor antagonist,Cells_AreaShape_Area,7,0.74098,-0.18707049999999997,0.7838675,1.01078
+glutamate receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,7,-1.33192,-1.5598049999999999,-0.16473935,-0.5974935
+glutamate receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.475501,-0.22157374999999996,0.806079,0.643413
+glutamate receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,7,-0.179507,-0.6829105,0.3204715,-0.07189855
+glutamate receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,7,-0.774368,-1.138498,0.2669585,-0.29818449999999996
+histamine receptor antagonist,Nuclei_AreaShape_Area,25,-0.372329,-0.526632,0.832585,0.5421199999999999
+histamine receptor antagonist,Cells_AreaShape_Area,25,0.104752,-0.360822,1.33999,1.01616
+histamine receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,25,-0.592648,-1.14073,0.467861,-0.6005940000000001
+histamine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,25,0.596051,-0.673241,1.59487,0.643413
+histamine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,25,-0.08693,-0.445163,0.737885,-0.07189855
+histamine receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,25,-0.0914368,-1.2705,0.426908,-0.30483950000000004
+insulin secretagogue,Nuclei_AreaShape_Area,5,-0.0577705,-0.342963,0.167009,0.5261765
+insulin secretagogue,Cells_AreaShape_Area,5,1.05747,0.490367,1.41034,0.982845
+insulin secretagogue,Nuclei_Intensity_MeanIntensity_DNA,5,-1.01565,-1.59333,0.586813,-0.5974935
+insulin secretagogue,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.114886,-0.18841,0.362463,0.6480440000000001
+insulin secretagogue,Cytoplasm_Intensity_MeanIntensity_ER,5,-0.626524,-0.817227,1.1913,-0.07189855
+insulin secretagogue,Cytoplasm_Intensity_MeanIntensity_AGP,5,-1.14243,-1.34128,-0.648321,-0.29787149999999996
+integrin antagonist,Nuclei_AreaShape_Area,5,0.676817,0.327774,1.37703,0.5221495
+integrin antagonist,Cells_AreaShape_Area,5,-0.689001,-0.764798,-0.320254,1.01078
+integrin antagonist,Nuclei_Intensity_MeanIntensity_DNA,5,-1.36926,-2.33725,-0.795154,-0.594802
+integrin antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.0271161,-0.0279631,2.06965,0.643413
+integrin antagonist,Cytoplasm_Intensity_MeanIntensity_ER,5,0.246711,0.0495842,1.67143,-0.07611295
+integrin antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,5,0.596393,0.0282685,1.12974,-0.30483950000000004
+mTOR inhibitor,Nuclei_AreaShape_Area,8,1.378145,1.1458475,1.562875,0.51981
+mTOR inhibitor,Cells_AreaShape_Area,8,1.8778299999999999,0.9596735,2.7518700000000003,0.974812
+mTOR inhibitor,Nuclei_Intensity_MeanIntensity_DNA,8,-1.713665,-3.1200349999999997,-1.402836,-0.587985
+mTOR inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,8,2.2985949999999997,1.3883204999999998,4.4267375,0.63142
+mTOR inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,8,-1.831215,-2.2041725000000003,-0.56719275,-0.0495578
+mTOR inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,8,-2.71781,-2.9735075,-2.01797775,-0.293584
+monoamine oxidase inhibitor,Nuclei_AreaShape_Area,6,-0.41471600000000003,-0.7334435,-0.16988599999999998,0.537943
+monoamine oxidase inhibitor,Cells_AreaShape_Area,6,-0.535552,-0.6406965,0.9079090000000001,0.992842
+monoamine oxidase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,0.52172,0.19047350000000002,0.86720675,-0.619974
+monoamine oxidase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,0.8324419999999999,0.545417,4.719962,0.639604
+monoamine oxidase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,1.184966,0.64285225,1.4710575000000001,-0.0781342
+monoamine oxidase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,0.542573,0.17062249999999998,1.2692945,-0.3105
+nitric oxide synthase inhibitor,Nuclei_AreaShape_Area,5,0.739505,0.429442,1.11281,0.5221495
+nitric oxide synthase inhibitor,Cells_AreaShape_Area,5,0.774121,0.494427,1.37994,0.9889129999999999
+nitric oxide synthase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-0.750642,-1.54074,0.289334,-0.5974935
+nitric oxide synthase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.420761,0.121922,0.933175,0.643413
+nitric oxide synthase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,-0.776325,-0.786178,-0.233055,-0.06762355
+nitric oxide synthase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.804552,-1.36216,-0.531352,-0.29787149999999996
+non-nucleoside reverse transcriptase inhibitor,Nuclei_AreaShape_Area,5,1.26822,0.781694,3.39301,0.5212570000000001
+non-nucleoside reverse transcriptase inhibitor,Cells_AreaShape_Area,5,4.5493,1.59973,6.09551,0.973937
+non-nucleoside reverse transcriptase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-1.051,-1.39934,-0.603157,-0.594802
+non-nucleoside reverse transcriptase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.68816,0.497067,3.04109,0.6402075
+non-nucleoside reverse transcriptase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,-0.621484,-1.01601,-0.129876,-0.0569289
+non-nucleoside reverse transcriptase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-1.21896,-1.23591,-0.854116,-0.29787149999999996
+nucleoside reverse transcriptase inhibitor,Nuclei_AreaShape_Area,6,0.19825700000000002,-0.15853499999999998,0.83479225,0.526036
+nucleoside reverse transcriptase inhibitor,Cells_AreaShape_Area,6,0.3140975,-0.36164525000000003,1.7475465,0.992842
+nucleoside reverse transcriptase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,6,0.13964150000000003,-0.39429875,0.81840225,-0.619974
+nucleoside reverse transcriptase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,6,0.5604865,-0.11522349999999998,0.853338,0.640811
+nucleoside reverse transcriptase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,6,0.15601455,-0.178506475,0.3308335,-0.0740917
+nucleoside reverse transcriptase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,6,0.09511449999999999,-0.61318625,0.64402675,-0.298255
+p38 MAPK inhibitor,Nuclei_AreaShape_Area,7,1.23972,0.274288,1.53727,0.5221495
+p38 MAPK inhibitor,Cells_AreaShape_Area,7,1.44737,0.37382099999999996,1.89869,0.982845
+p38 MAPK inhibitor,Nuclei_Intensity_MeanIntensity_DNA,7,-0.98478,-1.61992,-0.7939335000000001,-0.5903164999999999
+p38 MAPK inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.572375,-0.1411535,1.633765,0.643413
+p38 MAPK inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,7,-0.424886,-0.737749,0.22256155,-0.06762355
+p38 MAPK inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,7,-0.338368,-0.3943765,0.0990836,-0.29818449999999996
+phosphodiesterase inhibitor,Nuclei_AreaShape_Area,35,0.195159,-0.5640965,0.8986285,0.5536479999999999
+phosphodiesterase inhibitor,Cells_AreaShape_Area,35,0.447668,-0.404429,1.051905,1.027555
+phosphodiesterase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,35,-0.0955738,-0.602095,0.6108695,-0.6510385000000001
+phosphodiesterase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,35,0.502355,0.0443229,1.15651,0.6541655
+phosphodiesterase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,35,0.00422267,-0.39647,0.6538615,-0.0860072
+phosphodiesterase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,35,-0.154062,-0.665835,0.38009550000000003,-0.30483950000000004
+potassium channel activator,Nuclei_AreaShape_Area,5,-0.632984,-0.684507,0.235297,0.5261765
+potassium channel activator,Cells_AreaShape_Area,5,-0.30531,-0.934575,3.37792,0.9889129999999999
+potassium channel activator,Nuclei_Intensity_MeanIntensity_DNA,5,0.569473,-2.06136,0.58621,-0.6005940000000001
+potassium channel activator,Cytoplasm_Intensity_MeanIntensity_Mito,5,1.14148,-0.06155,1.50892,0.6402075
+potassium channel activator,Cytoplasm_Intensity_MeanIntensity_ER,5,0.780466,0.447676,1.33005,-0.07611295
+potassium channel activator,Cytoplasm_Intensity_MeanIntensity_AGP,5,0.146773,-1.93013,0.738104,-0.300294
+potassium channel blocker,Nuclei_AreaShape_Area,7,0.208202,-0.7628729999999999,0.8463825,0.5261765
+potassium channel blocker,Cells_AreaShape_Area,7,0.0747968,-0.37620395000000006,0.8383324999999999,1.01078
+potassium channel blocker,Nuclei_Intensity_MeanIntensity_DNA,7,0.465327,-2.3547849999999997,0.917277,-0.6005940000000001
+potassium channel blocker,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.59741,-0.06676850000000001,0.616622,0.6508295
+potassium channel blocker,Cytoplasm_Intensity_MeanIntensity_ER,7,0.909468,-0.19109150000000003,1.6582050000000002,-0.07611295
+potassium channel blocker,Cytoplasm_Intensity_MeanIntensity_AGP,7,0.212086,-0.07114650000000003,0.359979,-0.30483950000000004
+progesterone receptor agonist,Nuclei_AreaShape_Area,7,1.44926,0.3220895,1.4924300000000001,0.5221495
+progesterone receptor agonist,Cells_AreaShape_Area,7,1.88545,1.652145,3.244055,0.973937
+progesterone receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,7,-0.80033,-1.0219779999999998,-0.08350224999999999,-0.5974935
+progesterone receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.223557,0.0893702,0.8154239999999999,0.643413
+progesterone receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,7,-1.10192,-1.557345,-0.2801745,-0.06762355
+progesterone receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,7,-1.10095,-2.03293,-0.36825160000000007,-0.29787149999999996
+proteasome inhibitor,Nuclei_AreaShape_Area,5,10.2746,7.90799,13.076,0.5203895000000001
+proteasome inhibitor,Cells_AreaShape_Area,5,1.03735,0.782581,3.01306,0.982845
+proteasome inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-1.77367,-3.54587,-0.21734,-0.5974935
+proteasome inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,16.5208,16.4109,17.9339,0.6342625
+proteasome inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,-2.95394,-3.0911,-2.8283,-0.0569289
+proteasome inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.398926,-0.419904,-0.209519,-0.29818449999999996
+protein synthesis inhibitor,Nuclei_AreaShape_Area,5,0.745913,0.521545,1.29648,0.5218615
+protein synthesis inhibitor,Cells_AreaShape_Area,5,-1.92296,-3.80138,0.460732,1.000931
+protein synthesis inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-1.25321,-2.37407,-1.22917,-0.5903164999999999
+protein synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,1.17815,0.646015,6.4737,0.6383544999999999
+protein synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,-1.32915,-3.59798,-0.406594,-0.06762355
+protein synthesis inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-1.49759,-1.698,-0.616841,-0.29787149999999996
+retinoid receptor agonist,Nuclei_AreaShape_Area,7,1.16937,0.7476135,3.7506000000000004,0.5212570000000001
+retinoid receptor agonist,Cells_AreaShape_Area,7,1.34516,0.989835,3.1407350000000003,0.977759
+retinoid receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,7,-1.87752,-2.5185950000000004,-0.432579,-0.594802
+retinoid receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,7,0.338059,-0.3288501,2.315512,0.643413
+retinoid receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,7,-0.807156,-1.248165,-0.15514675000000003,-0.06762355
+retinoid receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,7,-1.29265,-2.23111,-0.8193999999999999,-0.2956065
+ribonucleotide reductase inhibitor,Nuclei_AreaShape_Area,5,6.69691,6.60106,13.7473,0.5212570000000001
+ribonucleotide reductase inhibitor,Cells_AreaShape_Area,5,5.56285,2.2537,12.4981,0.977759
+ribonucleotide reductase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,-1.41022,-7.88415,-0.461072,-0.5974935
+ribonucleotide reductase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,1.96222,0.76473,4.42846,0.6383544999999999
+ribonucleotide reductase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,0.502897,-1.14336,0.535656,-0.07347085
+ribonucleotide reductase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,-0.322927,-0.331179,-0.250286,-0.29818449999999996
+selective serotonin reuptake inhibitor (SSRI),Nuclei_AreaShape_Area,5,0.44444550000000005,0.16586,0.756776,0.524395
+selective serotonin reuptake inhibitor (SSRI),Cells_AreaShape_Area,5,0.5631269999999999,-0.468485,1.63999,0.9889129999999999
+selective serotonin reuptake inhibitor (SSRI),Nuclei_Intensity_MeanIntensity_DNA,5,0.252885,-1.09931,0.295555,-0.6005940000000001
+selective serotonin reuptake inhibitor (SSRI),Cytoplasm_Intensity_MeanIntensity_Mito,5,0.802556,0.37688599999999994,1.36923,0.6402075
+selective serotonin reuptake inhibitor (SSRI),Cytoplasm_Intensity_MeanIntensity_ER,5,0.813224,0.17635999999999996,0.863709,-0.07611295
+selective serotonin reuptake inhibitor (SSRI),Cytoplasm_Intensity_MeanIntensity_AGP,5,0.19398250000000003,-0.243547,0.457221,-0.30483950000000004
+serotonin receptor agonist,Nuclei_AreaShape_Area,10,0.5396704999999999,-0.3584465,0.8702302500000001,0.522754
+serotonin receptor agonist,Cells_AreaShape_Area,10,1.23338,-0.334066285,1.52651,0.980706
+serotonin receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,10,-0.5295965,-1.582223,0.252307925,-0.603157
+serotonin receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,10,0.197477,-0.45429375,0.5134455,0.651586
+serotonin receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,10,-0.06982800000000002,-0.5633297500000001,0.7484662500000001,-0.07285
+serotonin receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,10,0.10845805,-0.1898175,0.3007415,-0.3105
+serotonin receptor antagonist,Nuclei_AreaShape_Area,14,-0.07723665,-0.660908,0.61731,0.537943
+serotonin receptor antagonist,Cells_AreaShape_Area,14,0.09213535,-0.0503176,0.9830414999999999,1.01254
+serotonin receptor antagonist,Nuclei_Intensity_MeanIntensity_DNA,14,-0.342334,-1.42627725,0.820981,-0.603157
+serotonin receptor antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,14,0.166053275,-0.30690724999999996,1.3445105,0.650073
+serotonin receptor antagonist,Cytoplasm_Intensity_MeanIntensity_ER,14,0.007140999999999998,-0.41749444999999996,0.550702,-0.0790073
+serotonin receptor antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,14,-0.0682634585,-0.49573525,0.099591875,-0.307346
+sodium channel blocker,Nuclei_AreaShape_Area,12,0.3456655,-0.166015875,0.6736840000000001,0.526317
+sodium channel blocker,Cells_AreaShape_Area,12,0.35301491500000004,-0.37528325,1.5009375,0.992842
+sodium channel blocker,Nuclei_Intensity_MeanIntensity_DNA,12,-0.1807105,-1.0790985,0.725889,-0.619974
+sodium channel blocker,Cytoplasm_Intensity_MeanIntensity_Mito,12,0.5734545,0.09581875000000001,1.0362225,0.640811
+sodium channel blocker,Cytoplasm_Intensity_MeanIntensity_ER,12,-0.20242300000000002,-0.58323125,0.62560975,-0.0709471
+sodium channel blocker,Cytoplasm_Intensity_MeanIntensity_AGP,12,0.01350285,-0.8033267500000001,0.391804,-0.302333
+sterol demethylase inhibitor,Nuclei_AreaShape_Area,7,0.436351,0.05688180000000001,1.200885,0.524395
+sterol demethylase inhibitor,Cells_AreaShape_Area,7,1.98651,0.54433,2.35442,0.982845
+sterol demethylase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,7,-0.208641,-2.2601649999999998,0.25319965,-0.6005940000000001
+sterol demethylase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,7,1.18226,0.547352,2.866775,0.6383544999999999
+sterol demethylase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,7,-0.32263,-0.7691680000000001,0.08709495,-0.07189855
+sterol demethylase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,7,-0.819381,-1.05265,-0.019611500000000004,-0.29787149999999996
+tachykinin antagonist,Nuclei_AreaShape_Area,6,0.33055049999999997,0.157047,0.97249425,0.526036
+tachykinin antagonist,Cells_AreaShape_Area,6,2.3913450000000003,1.9963375,2.7023525,0.974812
+tachykinin antagonist,Nuclei_Intensity_MeanIntensity_DNA,6,-2.0204,-2.5232799999999997,-1.3897875000000002,-0.592648
+tachykinin antagonist,Cytoplasm_Intensity_MeanIntensity_Mito,6,0.8892614999999999,-0.048533750000000014,1.5501725,0.640811
+tachykinin antagonist,Cytoplasm_Intensity_MeanIntensity_ER,6,0.5629204,-0.52368505,1.3658025,-0.0740917
+tachykinin antagonist,Cytoplasm_Intensity_MeanIntensity_AGP,6,-1.350525,-1.4280175000000002,-0.920123,-0.297629
+topoisomerase inhibitor,Nuclei_AreaShape_Area,16,3.2401425,-0.15393275,12.9646,0.520969
+topoisomerase inhibitor,Cells_AreaShape_Area,16,0.795113,-0.9221365,8.068775,0.992842
+topoisomerase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,16,-3.158805,-4.6844275,-0.72281175,-0.580774
+topoisomerase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,16,4.6117349999999995,1.045171,9.297039999999999,0.622078
+topoisomerase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,16,-0.02716835,-1.21158,0.83103375,-0.07285
+topoisomerase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,16,0.47023724999999994,-1.0270025,1.900345,-0.302333
+tubulin polymerization inhibitor,Nuclei_AreaShape_Area,10,20.127000000000002,16.44915,24.79175,0.519241
+tubulin polymerization inhibitor,Cells_AreaShape_Area,10,7.7486999999999995,6.4248975,9.3246575,0.971974
+tubulin polymerization inhibitor,Nuclei_Intensity_MeanIntensity_DNA,10,-0.670688,-1.26793475,-0.36088125000000004,-0.596956
+tubulin polymerization inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,10,5.290515,3.720005,7.675087500000001,0.61676
+tubulin polymerization inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,10,-0.46966050000000004,-0.762617,0.26585475000000003,-0.0709471
+tubulin polymerization inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,10,1.0719365,0.52199425,2.0195325,-0.31238
+tyrosine kinase inhibitor,Nuclei_AreaShape_Area,5,-0.105724,-0.511289,16.3447,0.524395
+tyrosine kinase inhibitor,Cells_AreaShape_Area,5,-0.133643,-0.500732,5.61162,0.9889129999999999
+tyrosine kinase inhibitor,Nuclei_Intensity_MeanIntensity_DNA,5,0.547862,0.125865,0.718695,-0.6115655
+tyrosine kinase inhibitor,Cytoplasm_Intensity_MeanIntensity_Mito,5,0.716726,0.559632,0.832299,0.6402075
+tyrosine kinase inhibitor,Cytoplasm_Intensity_MeanIntensity_ER,5,-0.302374,-1.00604,0.578595,-0.07189855
+tyrosine kinase inhibitor,Cytoplasm_Intensity_MeanIntensity_AGP,5,1.15891,0.94275,1.52985,-0.30483950000000004
+vitamin D receptor agonist,Nuclei_AreaShape_Area,6,0.7821255,0.59136475,1.2913115,0.520969
+vitamin D receptor agonist,Cells_AreaShape_Area,6,1.335825,0.9400382500000001,2.056985,0.980706
+vitamin D receptor agonist,Nuclei_Intensity_MeanIntensity_DNA,6,-0.769217,-1.7140725,0.5137354999999999,-0.598031
+vitamin D receptor agonist,Cytoplasm_Intensity_MeanIntensity_Mito,6,0.8757550000000001,0.099916525,1.416205,0.640811
+vitamin D receptor agonist,Cytoplasm_Intensity_MeanIntensity_ER,6,-0.3290915,-0.48229525,0.0004577999999999943,-0.0709471
+vitamin D receptor agonist,Cytoplasm_Intensity_MeanIntensity_AGP,6,-0.4014685,-0.6843245,-0.22307025,-0.298114

@@ -1,0 +1,714 @@
+compound_id,compound_name,moa,fold
+AAKJLRGGTJKAMG,erlotinib,EGFR inhibitor,5
+ACGUYXCXAPNIKK,hexachlorophene,potassium channel activator,3
+ACWBQPMHZXGDFX,valsartan,angiotensin receptor antagonist,4
+ACWZRVQXLIRSDF,binimetinib,MEK inhibitor,2
+ADFCQWZHKCXPAJ,equol,estrogen receptor agonist,2
+AEQDJSLRWYMAQI,rotundine,serotonin receptor agonist,5
+AFJRDFWMXUECEW,GSK2110183,AKT inhibitor,4
+AGOYDEPGAOXOCK,clarithromycin,bacterial 50S ribosomal subunit inhibitor,4
+AHJRHEGDXFFMBM,palbociclib,CDK inhibitor,1
+AHOUBRCZNHFOSL,paroxetine,selective serotonin reuptake inhibitor (SSRI),2
+AKCRNFFTGXBONI,torin-1,mTOR inhibitor,5
+AKUJBENLRBOFTD,betamethasone-acetate,glucocorticoid receptor agonist,3
+ALBKMJDFBZVHAK,ZK-93423,benzodiazepine receptor agonist,3
+ALCSGJCIESECFD,ICI-162846,histamine receptor antagonist,3
+ALOBUEHUHMBRLE,ibutilide,potassium channel blocker,2
+AMLYAMJWYAIXIA,cilengitide,integrin antagonist,5
+ANGKOCUUWGHLCE,glycopyrrolate,acetylcholine receptor antagonist,2
+ANJTVLIZGCUXLD,cytisine,acetylcholine receptor agonist,2
+ANZXOIAKUNOVQU,bambuterol,adrenergic receptor agonist,1
+AOJJSUZBOXZQNB,doxorubicin,topoisomerase inhibitor,1
+AQCHWTWZEMGIFD,metolazone,carbonic anhydrase inhibitor,4
+AQHHHDLHHXJYJD,propranolol,adrenergic receptor antagonist,2
+AQIXAKUUQRKLND,cimetidine,histamine receptor antagonist,3
+AQNDDEOPVVGCPG,esmolol,adrenergic receptor antagonist,4
+ARBYGDBJECGMGA,RU-58841,androgen receptor antagonist,4
+ASFKKFRSMGBFRO,piketoprofen,cyclooxygenase inhibitor,4
+ASMXXROZKSBQIH,aclidinium,acetylcholine receptor antagonist,3
+ATALOFNDEOCMKK,aprepitant,tachykinin antagonist,3
+ATCGGEJZONJOCL,irsogladine,phosphodiesterase inhibitor,4
+AUXCHYJDVJZEPG,tetrindole,monoamine oxidase inhibitor,3
+AXRCEOKUDYDWLF,enzastaurin,PKC inhibitor,4
+AZEXWHKOMMASPA,PF-02545920,phosphodiesterase inhibitor,3
+AZFLJNIPTRTECV,dienogest,progesterone receptor agonist,1
+AZSNMRSAGSSBNP,ivermectin,benzodiazepine receptor agonist,4
+BAINIUMDFURPJM,oxatomide,histamine receptor antagonist,5
+BAORCAMWLWRZQG,genz-644282,topoisomerase inhibitor,1
+BCEHBSKCWLPMDN,voriconazole,cytochrome P450 inhibitor,5
+BCFGMOOMADDAQU,lapatinib,EGFR inhibitor,4
+BEUQXVWXFDOSAQ,taselisib,PI3K inhibitor,5
+BFNKQTIJVFGCKQ,FK-888,tachykinin antagonist,4
+BFSMGDJOXZAERB,dabrafenib,RAF inhibitor,2
+BFYIZQONLCFLEV,exemestane,aromatase inhibitor,4
+BGBVSGSIXIIREO,bavisant,histamine receptor antagonist,4
+BGRJTUBHPOOWDU,levosulpiride,dopamine receptor antagonist,4
+BIAVGWDGIJKWRM,talnetant,tachykinin antagonist,5
+BIDNLKIUORFRQP,fosinopril,angiotensin converting enzyme inhibitor,1
+BIIVYFLTOXDAOV,alvocidib,CDK inhibitor,1
+BJYLYJCXYAMOFT,tacalcitol,vitamin D receptor agonist,3
+BLGXFZZNTVWLAY,rauwolscine,adrenergic receptor antagonist,4
+BLJRIMJGRPQVNF,timolol,adrenergic receptor antagonist,1
+BLMPQMFVWMYDKT,carfilzomib,proteasome inhibitor,3
+BNRNXUUZRGQAQC,sildenafil,phosphodiesterase inhibitor,1
+BPEGJWRSRHCHSN,temozolomide,DNA alkylating agent,1
+BPKAHTKRCLCHEA,paricalcitol,vitamin D receptor agonist,4
+BPLBGHOLXOTWMN,penicillin-v-potassium,bacterial cell wall synthesis inhibitor,1
+BPRHUIZQVSMCRT,rosuvastatin,HMGCR inhibitor,1
+BPZSYCZIITTYBL,formoterol,adrenergic receptor agonist,4
+BSMCAPRUBJMWDF,cobimetinib,MEK inhibitor,1
+BSYNRYMUTXBXSQ,aspirin,cyclooxygenase inhibitor,1
+BTIHMVBBUGXLCJ,roscovitine,CDK inhibitor,2
+BTXNYTINYBABQR,hypericin,tyrosine kinase inhibitor,5
+BUROJSBIWGDYCN,deforolimus,mTOR inhibitor,3
+BVMYCHKQPGEOSI,MDL-73005EF,serotonin receptor antagonist,5
+BWDQBBCUWLSASG,dacinostat,HDAC inhibitor,5
+BYBLEWFAAKGYCD,miconazole,bacterial cell wall synthesis inhibitor,2
+BYPFEZZEUUWMEJ,pentoxifylline,phosphodiesterase inhibitor,5
+BYUKOOOZTSTOOH,dimesna,tubulin polymerization inhibitor,5
+BZCALJIHZVNMGJ,TAK-875,insulin secretagogue,4
+BZKPWHYZMXOIDC,acetazolamide,carbonic anhydrase inhibitor,1
+CBGUOGMQLZIXBE,clobetasol-propionate,glucocorticoid receptor agonist,2
+CBIAWPMZSFFRGN,indiplon,benzodiazepine receptor agonist,1
+CBPNZQVSJQDFBE,temsirolimus,mTOR inhibitor,2
+CBVCZFGXHXORBI,indinavir,HIV protease inhibitor,4
+CFBUZOUXXHZCFB,cilomilast,phosphodiesterase inhibitor,5
+CGIGDMFJXJATDK,indomethacin,cyclooxygenase inhibitor,1
+CJBJHOAVZSMMDJ,darunavir,HIV protease inhibitor,2
+CJCSPKMFHVPWAR,methyldopa,adrenergic receptor agonist,2
+CJOFXWAVKWHTFT,fluvoxamine,selective serotonin reuptake inhibitor (SSRI),5
+CJXAEXPPLWQRFR,clemizole,HCV inhibitor,2
+CKHJPWQVLKHBIH,sulbutiamine,acetylcholine receptor antagonist,1
+CKTSBUTUHBMZGZ,torcitabine,DNA polymerase inhibitor,1
+CLPFFLWZZBQMAO,fadrozole,aromatase inhibitor,1
+CMJCXYNUCSMDBY,encorafenib,RAF inhibitor,3
+CMWTZPSULFXXJA,naproxen,cyclooxygenase inhibitor,5
+CNIIGCLFLJGOGP,naphazoline,adrenergic receptor agonist,5
+CNPVJJQCETWNEU,vicriviroc,CC chemokine receptor antagonist,4
+COVZYZSDYWQREU,busulfan,DNA inhibitor,4
+CPZBLNMUGSZIPR,palonosetron,serotonin receptor antagonist,4
+CUHVIMMYOGQXCV,dexmedetomidine,adrenergic receptor agonist,2
+CWHUFRVAEUJCEF,buparlisib,PI3K inhibitor,3
+CWJNMKKMGIAGDK,amtolmetin-guacil,cyclooxygenase inhibitor,4
+CYOHGALHFOKKQC,selumetinib,MEK inhibitor,4
+DCOPUUMXTXDBNB,diclofenac,cyclooxygenase inhibitor,5
+DCSUBABJRXZOMT,cisapride,serotonin receptor agonist,5
+DDUHZTYCFQRHIY,griseofulvin,tubulin polymerization inhibitor,5
+DERZBLKQOCDDDZ,cinnarazine,calcium channel blocker,1
+DFBIRQPKNDILPW,triptolide,RNA polymerase inhibitor,1
+DFJSJLGUIXFDJP,AZD8931,EGFR inhibitor,5
+DGMKFQYCZXERLX,proglumide,CCK receptor antagonist,5
+DJBNUMBKLMJRSA,flecainide,sodium channel blocker,3
+DKNUPRMJNUQNHR,CEP-32496,RAF inhibitor,2
+DKNWSYNQZKUICI,amantadine,glutamate receptor antagonist,5
+DKYWVDODHFEZIM,ketoprofen,cyclooxygenase inhibitor,5
+DOMWKUIIPQCAJU,17-hydroxyprogesterone-caproate,progesterone receptor agonist,3
+DRHKJLXJIQTDTD,tamsulosin,adrenergic receptor antagonist,2
+DRSJLVGDSNWQBI,SB-683698,integrin antagonist,1
+DSCFFEYYQKSRSV,pinitol,gamma secretase inhibitor,5
+DTXXSJZBSTYZKE,maxacalcitol,vitamin D receptor agonist,2
+DTYWJKSSUANMHD,preladenant,adenosine receptor antagonist,5
+DUYJMQONPNNFPI,osimertinib,EGFR inhibitor,1
+DWPQODZAOSWNHB,fenobam,glutamate receptor antagonist,5
+DZZWHBIBMUVIIW,sparfloxacin,bacterial DNA gyrase inhibitor,2
+FABPRXSRWADJSP,moxifloxacin,bacterial DNA gyrase inhibitor,3
+FAEKWTJYAYMJKF,repaglinide,insulin secretagogue,1
+FAOZLTXFLGPHNG,fluorometholone,glucocorticoid receptor agonist,4
+FASDKYOPVNHBLU,pramipexole,dopamine receptor agonist,3
+FBOUYBDGKBSUES,solifenacin-succinate,acetylcholine receptor antagonist,4
+FDKXTQMXEQVLRF,dacarbazine,DNA alkylating agent,4
+FDLYAMZZIXQODN,olaparib,PARP inhibitor,5
+FECGNJPYVFEKOD,resminostat,HDAC inhibitor,4
+FELGMEQIXOGIFQ,ondansetron,serotonin receptor antagonist,2
+FEZBIKUBAYAZIU,trimethobenzamide,histamine receptor antagonist,2
+FFBDFADSZUINTG,DPCPX,adenosine receptor antagonist,1
+FIHJKUPKCHIPAT,artesunate,DNA synthesis inhibitor,5
+FIMYFEGKMOCQKT,Ro-4987655,MEK inhibitor,2
+FJHBVJOVLFPMQE,SN-38,topoisomerase inhibitor,1
+FLOSMHQXBMRNHR,methazolamide,carbonic anhydrase inhibitor,2
+FNYLWPVRPXGIIP,triamterene,sodium channel blocker,4
+FOIVPCKZDPCJJY,TTNPB,retinoid receptor agonist,4
+FPCCSQOGAWCVBH,ketanserin,serotonin receptor antagonist,2
+FRPJGTNLZNXQEX,ABT-724,dopamine receptor agonist,3
+FRPJXPJMRWBBIH,estramustine,DNA alkylating agent,5
+FTFRZXFNZVCRSK,BIBX-1382,EGFR inhibitor,4
+FUBVWMNBEHXPSU,moracizine,sodium channel blocker,1
+FURUXTVZLHCCNA,MF-101,estrogen receptor agonist,3
+FVTWTVQXNAJTQP,umeclidinium,acetylcholine receptor antagonist,5
+FVYXIJYOAGAUQK,honokiol,AKT inhibitor,5
+FZNCGRZWXLXZSZ,voglibose,glucosidase inhibitor,1
+FZSPJBYOKQPKCD,alaproclate,serotonin receptor antagonist,1
+GBEUKTWTUSPHEE,MK-0773,androgen receptor modulator,2
+GBJVVSCPOBPEIT,barasertib,Aurora kinase inhibitor,5
+GBXSMTUPTTWBMN,enalapril,angiotensin converting enzyme inhibitor,3
+GCFBRXLSHGKWDP,cefoperazone,bacterial cell wall synthesis inhibitor,2
+GCVFQRRBTCHIPK,SR-33805,calcium channel blocker,5
+GDLBFKVLRPITMI,diazoxide,potassium channel activator,2
+GFBKORZTTCHDGY,thiothixene,dopamine receptor antagonist,3
+GFMMXOIFOQCCGU,PD-184352,MEK inhibitor,5
+GFNANZIMVAIWHM,triamcinolone,glucocorticoid receptor agonist,1
+GFYRZTLCYQQVHZ,merbarone,topoisomerase inhibitor,4
+GGXKWVWZWMLJEH,famciclovir,DNA polymerase inhibitor,4
+GHMLBKRAJCXXBS,resorcinol,phosphodiesterase inhibitor,4
+GIMSJJHKKXRFGV,fiacitabine,DNA synthesis inhibitor,3
+GIUYCYHIANZCFB,fludarabine-phosphate,ribonucleotide reductase inhibitor,4
+GJNNXIYZWIZFRH,milacemide,monoamine oxidase inhibitor,1
+GJSURZIOUXUGAL,clonidine,adrenergic receptor agonist,5
+GKQPCPXONLDCMU,lacidipine,calcium channel blocker,4
+GMRQFYUYWCNGIN,calcitriol,vitamin D receptor agonist,5
+GMZVRMREEHBGGF,piracetam,acetylcholine receptor agonist,4
+GOEMGAFJFRBGGG,acebutolol,adrenergic receptor antagonist,1
+GPXBXXGIAQBQNI,vemurafenib,RAF inhibitor,4
+GRZXWCHAXNAUHY,GDC-0068,AKT inhibitor,3
+GSCPDZHWVNUUFI,3-amino-benzamide,PARP inhibitor,2
+GSDSWSVVBLHKDQ,levofloxacin,bacterial DNA gyrase inhibitor,1
+GSNHKUDZZFZSJB,maraviroc,CC chemokine receptor antagonist,3
+GUAZPUYTLMUTMA,CB-10-277,DNA synthesis inhibitor,2
+GUOQUXNJZHGPQF,CL-218872,benzodiazepine receptor agonist,2
+GVPIXRLYKVFFMK,setiptiline,adrenergic receptor antagonist,1
+GVTLDPJNRVMCAL,arofylline,phosphodiesterase inhibitor,5
+GYBXAGDWMCJZJK,10-DEBC,AKT inhibitor,2
+GYLDXIAOMVERTK,MLN0128,mTOR inhibitor,1
+GZENKSODFLBBHQ,medrysone,glucocorticoid receptor agonist,2
+HAMNKKUPIHEESI,aminoguanidine,nitric oxide synthase inhibitor,4
+HBOMLICNUCNMMY,zidovudine,nucleoside reverse transcriptase inhibitor,3
+HDACQVRGBOVJII,ramipril,angiotensin converting enzyme inhibitor,5
+HEAIZQNMNCHNFD,AMG-208,tyrosine kinase inhibitor,2
+HEFNNWSXXWATRW,ibuprofen,cyclooxygenase inhibitor,2
+HEKAIDKUDLCBRU,TAK-715,p38 MAPK inhibitor,5
+HFNKQEVNSGCOJV,ruxolitinib,JAK inhibitor,2
+HGVDHZBSSITLCT,edoxaban,coagulation factor inhibitor,3
+HHFBDROWDBDFBR,MLN8054,Aurora kinase inhibitor,4
+HJBWBFZLDZWPHF,apalutamide,androgen receptor antagonist,5
+HJMQDJPMQIHLPB,zardaverine,phosphodiesterase inhibitor,5
+HJORMJIFDVBMOB,(R)-(-)-rolipram,phosphodiesterase inhibitor,2
+HKVAMNSJSFKALM,everolimus,mTOR inhibitor,5
+HMJIYCCIJYRONP,isradipine,calcium channel blocker,5
+HOKDBMAJZXIPGC,levomequitazine,histamine receptor antagonist,2
+HOMGKSMUEGBAAB,ifosfamide,DNA alkylating agent,3
+HPHUVLMMVZITSG,levetiracetam,calcium channel blocker,4
+HPJKCIUCZWXJDR,letrozole,aromatase inhibitor,2
+HQVZOORKDNCGCK,clofoctol,protein synthesis inhibitor,3
+HRRBJVNMSRJFHQ,naftopidil,adrenergic receptor antagonist,1
+HSHNITRMYYLLCV,hymecromone,monoamine oxidase inhibitor,1
+HSUGRBWQSSZJOP,diltiazem,calcium channel blocker,1
+HSWPZIDYAHLZDD,atipamezole,adrenergic receptor antagonist,2
+HTIQEAQVCYTUBX,amlodipine,calcium channel blocker,3
+HTQMVQVXFRQIKW,candesartan,angiotensin receptor antagonist,2
+HUFOZJXAKZVRNJ,rociletinib,EGFR inhibitor,1
+HUXYBQXJVXOMKX,PHA-793887,CDK inhibitor,4
+HVFLCNVBZFFHBT,cefepime,bacterial cell wall synthesis inhibitor,3
+HVXBOLULGPECHP,combretastatin-A-4,tubulin polymerization inhibitor,1
+HWGQMRYQVZSGDQ,talazoparib,PARP inhibitor,3
+HWXIGFIVGWUZAO,doxofylline,adenosine receptor antagonist,3
+HXGBXQDTNZMWGS,darifenacin,acetylcholine receptor antagonist,1
+HXHWSAZORRCQMX,albendazole,tubulin polymerization inhibitor,1
+HYFHYPWGAURHIV,homoharringtonine,protein synthesis inhibitor,5
+HYWYRSMBCFDLJT,nimesulide,cyclooxygenase inhibitor,2
+IAIDUHCBNLFXEF,zofenopril-calcium,angiotensin converting enzyme inhibitor,2
+IAVUPMFITXYVAF,dorzolamide,carbonic anhydrase inhibitor,3
+IBAQFPQHRJAVAV,miglitol,glucosidase inhibitor,2
+ICMGLRUYEQNHPF,urapidil,adrenergic receptor antagonist,2
+IDYZIJYBMGIQMJ,enoxacin,topoisomerase inhibitor,5
+IEKOTSCYBBDIJC,lorglumide,CCK receptor antagonist,3
+IENZFHBNCRQMNP,PRX-08066,serotonin receptor antagonist,3
+IENZQIKPVFGBNW,prazosin,adrenergic receptor antagonist,3
+IFRGXKKQHBVPCQ,AT13387,HSP inhibitor,3
+IFSDAJWBUCMOAH,idelalisib,PI3K inhibitor,4
+IGPDWKCUDHIIRL,tenidap,cyclooxygenase inhibitor,1
+IIBYAHWJQTYFKB,bezafibrate,PPAR receptor agonist,4
+ILAYIAGXTHKHNT,dapivirine,non-nucleoside reverse transcriptase inhibitor,4
+ILKJAFIWWBXGDU,amcinonide,glucocorticoid receptor agonist,3
+ILNRQFBVVQUOLP,SR-27897,CCK receptor antagonist,2
+IMONTRJLAWHYGT,norethindrone-acetate,progesterone receptor agonist,4
+IMOZEMNVLZVGJZ,apremilast,phosphodiesterase inhibitor,5
+IMSSROKUHAOUJS,mestranol,estrogen receptor agonist,3
+IMYZQPCYWPFTAG,mecamylamine,acetylcholine receptor antagonist,1
+INAAIJLSXJJHOZ,pibenzimol,DNA inhibitor,3
+INVTYAOGFAGBOE,entinostat,HDAC inhibitor,3
+IOVGROKTTNBUGK,ritodrine,adrenergic receptor agonist,5
+IPOKCKJONYRRHP,balsalazide,cyclooxygenase inhibitor,3
+IPVQLZZIHOAWMC,perindopril,angiotensin converting enzyme inhibitor,4
+IQFYYKKMVGJFEH,telbivudine,DNA polymerase inhibitor,5
+IQPNAANSBPBGFQ,luteolin,glucosidase inhibitor,4
+IRSCQMHQWWYFCW,ganciclovir,DNA polymerase inhibitor,3
+IUBSYMUCCVWXPE,metoprolol,adrenergic receptor antagonist,3
+IWTCFIIOUXJOOV,Y-26763,potassium channel activator,5
+IWXUVYOOUMLUTQ,PF-04447943,phosphodiesterase inhibitor,1
+IXHBTMCLRNMKHZ,levobunolol,adrenergic receptor antagonist,5
+IYIKLHRQXLHMJQ,amiodarone,potassium channel blocker,5
+IZAOBRWCUGOKNH,BMS-299897,gamma secretase inhibitor,2
+IZEKFCXSFNUWAM,dipyridamole,phosphodiesterase inhibitor,1
+IZLRMTJLQCLMKF,EMD-53998,phosphodiesterase inhibitor,3
+JBDGDEWWOUBZPM,ambroxol,sodium channel blocker,2
+JCCNYMKQOSZNPW,loratadine,histamine receptor antagonist,4
+JCKYGMPEJWAADB,chlorambucil,DNA inhibitor,2
+JCYNMRJCUYVDBC,efatutazone,PPAR receptor agonist,5
+JDUBGYFRJFOXQC,AZD5363,AKT inhibitor,4
+JDVVGAQPNNXQDW,castanospermine,glucosidase inhibitor,5
+JFHROPTYMMSOLG,GSK256066,phosphodiesterase inhibitor,3
+JHDKZFFAIZKUCU,SB-939,HDAC inhibitor,2
+JHFOAISYWJRTIM,methiopril,angiotensin converting enzyme inhibitor,2
+JIEKMACRVQTPRC,fentiazac,cyclooxygenase inhibitor,5
+JIVPVXMEBJLZRO,chlorthalidone,carbonic anhydrase inhibitor,5
+JJCFRYNCJDLXIK,cyproheptadine,histamine receptor antagonist,4
+JLGKQTAYUIMGRK,sertaconazole,sterol demethylase inhibitor,2
+JLVHTNZNKOSCNB,mesulergine,dopamine receptor agonist,1
+JMEYDSHPKCSIJC,AZD3514,androgen receptor modulator,5
+JNAHVYVRKWKWKQ,veliparib,PARP inhibitor,4
+JNGVJMBLXIUVRD,ostarine,androgen receptor modulator,1
+JOLKQWPKJFRPOU,ORG-9768,adrenergic receptor antagonist,4
+JPAWFIIYTJQOKW,olprinone,phosphodiesterase inhibitor,4
+JQSAYKKFZOSZGJ,lomerizine,calcium channel blocker,2
+JQSHBVHOMNKWFT,varenicline,acetylcholine receptor agonist,3
+JRNJNYBQQYBCLE,R547,CDK inhibitor,3
+JRWCBEOAFGHNNU,JNJ-38877605,tyrosine kinase inhibitor,3
+JSDRRTOADPPCHY,quinapril,angiotensin converting enzyme inhibitor,3
+JTEGQNOMFQHVDC,lamivudine,nucleoside reverse transcriptase inhibitor,4
+JTVPZMFULRWINT,tiapride,dopamine receptor antagonist,4
+JTZZSQYMACOLNN,simeprevir,HCV inhibitor,1
+JUKPWJGBANNWMW,eplerenone,cytochrome P450 inhibitor,2
+JUSFANSTBFGBAF,AZD2014,mTOR inhibitor,1
+JWNPDZNEKVCWMY,neratinib,EGFR inhibitor,3
+JXZZEXZZKAWDSP,indoramin,adrenergic receptor antagonist,1
+JYGXADMDTFJGBT,hydrocortisone,glucocorticoid receptor agonist,3
+JYIJIIVLEOETIQ,lupanine,sodium channel blocker,2
+KAZSKMJFUPEHHW,licochalcone-A,topoisomerase inhibitor,2
+KBAFPSLPKGSANY,naftidrofuryl,adrenergic receptor antagonist,1
+KBUZBQVCBVDWKX,emedastine,histamine receptor antagonist,3
+KCAJXIDMCNPGHZ,PH-797804,p38 MAPK inhibitor,4
+KCWZGJVSDFYRIX,L-NAME,nitric oxide synthase inhibitor,5
+KCXVZYZYPLLWCC,ethylenediaminetetraacetic-acid,PKC inhibitor,5
+KDLRVYVGXIQJDK,clindamycin,protein synthesis inhibitor,4
+KEJORAMIZFOODM,PS178990,androgen receptor modulator,3
+KFHYZKCRXNRKRC,ABT-239,histamine receptor antagonist,1
+KFQYTPMOWPVWEJ,rotigotine,dopamine receptor agonist,4
+KGFYHTZWPPHNLQ,rivaroxaban,coagulation factor inhibitor,4
+KJHKTHWMRKYKJE,lopinavir,HIV protease inhibitor,3
+KKYABQBFGDZVNQ,losmapimod,p38 MAPK inhibitor,2
+KKZJGLLVHKMTCM,mitoxantrone,topoisomerase inhibitor,3
+KLBQZWRITKRQQV,thioridazine,dopamine receptor antagonist,5
+KLPWJLBORRMFGK,molindone,dopamine receptor antagonist,2
+KMCZIPGKKBSLEX,bruceantin,protein synthesis inhibitor,1
+KMZQAVXSMUKBPD,lafutidine,histamine receptor antagonist,5
+KNHUKKLJHYUCFP,clofibrate,PPAR receptor agonist,3
+KOHIRBRYDXPAMZ,nebivolol,adrenergic receptor antagonist,4
+KORNTPPJEAJQIU,cabergoline,dopamine receptor agonist,4
+KPWSJANDNDDRMB,cariprazine,dopamine receptor antagonist,3
+KQDRVXQXKZXMHP,reparixin,CC chemokine receptor antagonist,3
+KQKPFRSPSRPDEB,sumatriptan,serotonin receptor agonist,2
+KSEYRUGYKHXGFW,alizapride,dopamine receptor antagonist,3
+KSMAGQUYOIHWFS,lofexidine,adrenergic receptor agonist,3
+KTHVBAZBLKXIHZ,piperidolate,acetylcholine receptor antagonist,5
+KUFRQPKVAWMTJO,alvespimycin,HSP inhibitor,1
+KUVIULQEHSCUHY,beclomethasone-dipropionate,glucocorticoid receptor agonist,2
+KXDROGADUISDGY,benzamil,sodium channel blocker,5
+KYHVWHYLKOHLKA,CT-7758,integrin antagonist,4
+LCVIRAZGMYMNNT,MK-5108,Aurora kinase inhibitor,3
+LEBVLXFERQHONN,bupivacaine,sodium channel blocker,1
+LHGWWAFKVCIILM,XL888,HSP inhibitor,5
+LHNIIDJUOCFXAP,GDC-0941,PI3K inhibitor,1
+LKJPYSCBVHEWIU,bicalutamide,androgen receptor antagonist,5
+LNEPOXFFQSENCJ,haloperidol,dopamine receptor antagonist,2
+LNPDTQAFDNKSHK,valdecoxib,cyclooxygenase inhibitor,2
+LOCQRDBFWSXQQI,SB-271046,serotonin receptor antagonist,1
+LSLYOANBFKQKPT,fenoterol,adrenergic receptor agonist,4
+LSPANGZZENHZNJ,PD-153035,EGFR inhibitor,5
+LTXREWYXXSTFRX,linagliptin,dipeptidyl peptidase inhibitor,4
+LUKZNWIVRBCLON,ciclesonide,glucocorticoid receptor agonist,5
+LUZRJRNZXALNLM,dihydroergotamine,serotonin receptor agonist,4
+LVGMMVAWLISWJD,ABT-202,acetylcholine receptor agonist,3
+LVLLALCJVJNGQQ,seocalcitol,vitamin D receptor agonist,1
+LVXJQMNHJWSHET,dacomitinib,EGFR inhibitor,2
+LZCDAPDGXCYOEH,adapalene,retinoid receptor agonist,1
+MAUCONCHVWBMHK,PCI-24781,HDAC inhibitor,4
+MBUVEWMHONZEQD,azelastine,histamine receptor antagonist,3
+MCGSCOLBFJQGHM,abacavir,nucleoside reverse transcriptase inhibitor,5
+MCPUZZJBAHRIPO,lersivirine,non-nucleoside reverse transcriptase inhibitor,5
+MDKGKXOCJGEUJW,suprofen,cyclooxygenase inhibitor,4
+MDOJTZQKHMAPBK,iniparib,PARP inhibitor,1
+METKIMKYRPQLGS,atenolol-(+),adrenergic receptor antagonist,3
+MEZLKOACVSPNER,selegiline,monoamine oxidase inhibitor,5
+MFDFERRIHVXMIY,procaine,HMGCR inhibitor,5
+MFFMDFFZMYYVKS,sitagliptin,dipeptidyl peptidase inhibitor,3
+MFWNKCLOYSRHCJ,granisetron,serotonin receptor antagonist,3
+MHUUDVZSPFRUSK,CO-102862,sodium channel blocker,3
+MIJFNYMSCFYZNY,mirodenafil,phosphodiesterase inhibitor,2
+MJFJKKXQDNNUJF,metixene,acetylcholine receptor antagonist,4
+MKUXAQIIEYXACX,acyclovir,DNA polymerase inhibitor,2
+MKXKFYHWDHIYRV,flutamide,androgen receptor antagonist,1
+MLESJYFEMSJZLZ,mericitabine,HCV inhibitor,1
+MMHDBUJXLOFTLC,ATN-161,integrin antagonist,2
+MNDBXUUTURYVHR,roflumilast,phosphodiesterase inhibitor,1
+MNHXYNNKDDXKNP,YM-976,phosphodiesterase inhibitor,1
+MNJVRJDLRVPLFE,etoricoxib,cyclooxygenase inhibitor,2
+MQMCZGVMQZPYQA,benzthiazide,carbonic anhydrase inhibitor,2
+MQMKRQLTIWPEDM,XL147,PI3K inhibitor,1
+MQTOSJVFKKJCRP,azithromycin,bacterial 50S ribosomal subunit inhibitor,2
+MRBDMNSDAVCSSF,phentolamine,adrenergic receptor antagonist,2
+MTJHLONVHHPNSI,CYT-997,tubulin polymerization inhibitor,3
+MTMDXAIUENDNDL,MK-0812,CC chemokine receptor antagonist,4
+MUQNGPZZQDCDFT,halcinonide,glucocorticoid receptor agonist,3
+MUTNCGKQJGXKEM,tamibarotene,retinoid receptor agonist,3
+MVCOAUNKQVWQHZ,doramapimod,p38 MAPK inhibitor,1
+MXAYKZJJDUDWDS,ixazomib,proteasome inhibitor,1
+MXFWWQICDIZSOA,talinolol,adrenergic receptor antagonist,5
+MYSWGUAQZAJSOK,ciprofloxacin,bacterial DNA gyrase inhibitor,4
+MYXACKZCYFKMTE,tipranavir,HIV protease inhibitor,1
+NAUWTFJOPJWYOT,vanoxerine,dopamine reuptake inhibitor,1
+NAVMQTYZDKMPEU,bexarotene,retinoid receptor agonist,1
+NBRBXGKOEOGLOI,dasabuvir,HCV inhibitor,5
+NCDNCNXCDXHOMX,ritonavir,HIV protease inhibitor,3
+NCEXYHBECQHGNR,sulfasalazine,cyclooxygenase inhibitor,1
+NCNRHFGMJRPRSK,belinostat,HDAC inhibitor,5
+NDAUXUAQIAJITI,albuterol,adrenergic receptor agonist,5
+NNYBQONXHNTVIJ,etodolac,cyclooxygenase inhibitor,2
+NQDJXKOVJZTUJA,nevirapine,non-nucleoside reverse transcriptase inhibitor,2
+NQHNLNLJPDMBFN,otilonium,acetylcholine receptor antagonist,2
+NTCCRGGIJNDEAB,ORE1001,angiotensin converting enzyme inhibitor,1
+NTNWOCRCBQPEKQ,targinine,nitric oxide synthase inhibitor,2
+NUHPODZZKHQQET,siguazodan,phosphodiesterase inhibitor,2
+NUKYPUAOHBNCPY,dalfampridine,potassium channel blocker,1
+NVDBBGBUTKLRSN,oxiperomide,dopamine receptor antagonist,5
+NXLUTEDAEFXMQR,AV-608,tachykinin antagonist,1
+NYPIRLYMDJMKGW,PSI-6130,RNA polymerase inhibitor,3
+OAVGBZOFDPFGPJ,sotrastaurin,PKC inhibitor,1
+OBKXEAXTFZPCHS,phenylbutyrate,HDAC inhibitor,3
+OBMNJSNZOWALQB,grazoprevir,HCV inhibitor,4
+OCAPBUJLXMYKEJ,bifonazole,sterol demethylase inhibitor,4
+OCKHRKSTDPOHEN,HMN-214,PLK inhibitor,5
+ODKNJVUHOIMIIZ,floxuridine,DNA synthesis inhibitor,5
+ODQWQRRAPPTVAG,doxepin,histamine receptor antagonist,2
+OELFLUMRDSZNSF,nateglinide,insulin secretagogue,2
+OEXHQOGQTVQTAT,ipratropium,acetylcholine receptor antagonist,4
+OFDNQWIFNXBECV,dolastatin-10,tubulin polymerization inhibitor,2
+OFEZSBMBBKLLBJ,cordycepin,DNA inhibitor,3
+OFPXSFXSNFPTHF,oxaprozin,cyclooxygenase inhibitor,3
+OGAKLTJNUQRZJU,diphenidol,acetylcholine receptor agonist,4
+OGHNVEJMJSYVRP,carvedilol,adrenergic receptor antagonist,3
+OGJPXUAPXNRGGI,norfloxacin,bacterial DNA gyrase inhibitor,3
+OGQICQVSFDPSEI,tazarotene,retinoid receptor agonist,2
+OHRURASPPZQGQM,romidepsin,HDAC inhibitor,5
+OJPLJFIFUQPSJR,RG4733,gamma secretase inhibitor,1
+OKFDRAHPFKMAJH,oglemilast,phosphodiesterase inhibitor,4
+OMZCMEYTWSXEPZ,canertinib,EGFR inhibitor,2
+ONNOFKFOZAJDHT,amineptine,dopamine receptor agonist,2
+OPQRBXUBWHDHPQ,etazolate,phosphodiesterase inhibitor,5
+OPXLLQIJSORQAM,mebendazole,tubulin polymerization inhibitor,4
+OQDPVLVUJFGPGQ,piribedil,dopamine receptor agonist,2
+ORYDPOVDJJZGHQ,tirapazamine,DNA inhibitor,1
+OTBXOEAOVRKTNQ,anagrelide,phosphodiesterase inhibitor,4
+OUPZKGBUJRBPGC,teroxirone,DNA inhibitor,2
+OVPNQJVDAFNBDN,AT-7519,CDK inhibitor,3
+OWQUZNMMYNAXSL,diphenylpyraline,dopamine reuptake inhibitor,4
+OZOMQRBLCMDCEG,dantrolene,calcium channel blocker,2
+OZVBMTJYIDMWIL,bromocriptine,dopamine receptor agonist,4
+OZWKMVRBQXNZKK,ketorolac,cyclooxygenase inhibitor,5
+PAFKTGFSEFKSQG,galeterone,androgen receptor modulator,4
+PAWIYAYFNXQGAP,JNJ-26481585,HDAC inhibitor,1
+PCSWXVJAIHCTMO,dequalinium,PKC inhibitor,2
+PCVSIMQAFWRUEC,SDZ-NKT-343,tachykinin antagonist,2
+PDOQBOJDRPLBQU,AZD1480,JAK inhibitor,5
+PDTYLGXVBIWRIM,SB-242235,p38 MAPK inhibitor,3
+PFGVNLZDWRZPJW,otamixaban,coagulation factor inhibitor,2
+PIMQWRZWLQKKBJ,dinaciclib,CDK inhibitor,5
+PKXWXXPNHIWQHW,semagacestat,gamma secretase inhibitor,2
+PLDUPXSUYLZYBN,fluphenazine,dopamine receptor antagonist,5
+POPFMWWJOGLOIF,fludroxycortide,glucocorticoid receptor agonist,2
+PROQIPRRNZUXQM,estriol,estrogen receptor agonist,4
+PSGAAPLEWMOORI,medroxyprogesterone-acetate,progesterone receptor agonist,2
+PSIFNNKUMBGKDQ,losartan,angiotensin receptor antagonist,3
+PTKSEFOSCHHMPD,midodrine,adrenergic receptor agonist,3
+PUXBGTOOZJQSKH,carprofen,cyclooxygenase inhibitor,4
+PVHUJELLJLJGLN,nitrendipine,calcium channel blocker,3
+PVLJETXTTWAYEW,mizolastine,histamine receptor antagonist,1
+PWACSDKDOHSSQD,acrivastine,histamine receptor antagonist,5
+PWWDCRQZITYKDV,lerisetron,serotonin receptor antagonist,2
+PYGWGZALEOIKDF,etravirine,non-nucleoside reverse transcriptase inhibitor,1
+PYVFWTPEBMRKSR,tanaproget,progesterone receptor agonist,3
+PZRHRDRVRGEVNW,milrinone,phosphodiesterase inhibitor,3
+QAWBIEIZDDIEMW,adarotene,retinoid receptor agonist,2
+QCHFTSOMWOSFHM,pilocarpine,acetylcholine receptor agonist,2
+QDUIJCOKQCCXQY,cefozopran,bacterial cell wall synthesis inhibitor,1
+QEFAQIPZVLVERP,nepafenac,cyclooxygenase inhibitor,1
+QFJCIRLUMZQUOT,sirolimus,mTOR inhibitor,4
+QGJUIPDUBHWZPV,saxagliptin,dipeptidyl peptidase inhibitor,2
+QGPKADBNRMWEQR,clinafloxacin,bacterial DNA gyrase inhibitor,1
+QGZYDVAGYRLSKP,ACY-1215,HDAC inhibitor,1
+QHLVBNKYJGBCQJ,NMS-1286937,PLK inhibitor,3
+QHMWCHQXCUNUAK,flutrimazole,sterol demethylase inhibitor,5
+QIHLUZAFSSMXHQ,budipine,glutamate receptor antagonist,4
+QINPEPAQOBZPOF,pilaralisib,PI3K inhibitor,2
+QJERBBQXOMUURJ,benzotript,CCK receptor antagonist,4
+QMGUOJYZJKLOLH,GF109203X,PKC inhibitor,3
+QNQZBKQEIFTHFZ,dexloxiglumide,CCK receptor antagonist,1
+QNZCBYKSOIHPEH,apixaban,coagulation factor inhibitor,5
+QOYHHIBFXOOADH,fluspirilene,dopamine receptor antagonist,2
+QQQIECGTIMUVDS,itopride,dopamine receptor antagonist,1
+QRJJEGAJXVEBNE,oxiconazole,bacterial cell wall synthesis inhibitor,4
+QRZAKQDHEVVFRX,felbinac,cyclooxygenase inhibitor,3
+QTBWCSQGBMPECM,GSK1070916,Aurora kinase inhibitor,1
+QTTRZHGPGKRAFB,rimexolone,glucocorticoid receptor agonist,5
+QULDDKSCVCJTPV,BIIB021,HSP inhibitor,4
+QVYRGXJJSLMXQH,orphenadrine,acetylcholine receptor antagonist,5
+QWAXKHKRTORLEM,saquinavir,HIV protease inhibitor,5
+QWCRAEMEVRGPNT,buspirone,serotonin receptor agonist,1
+QXHHHPZILQDDPS,tioconazole,sterol demethylase inhibitor,3
+QXKHYNVANLEOEG,methoxsalen,DNA synthesis inhibitor,1
+QZZUEBNBZAPZLX,indacaterol,adrenergic receptor agonist,3
+RCINICONZNJXQF,paclitaxel,tubulin polymerization inhibitor,2
+RCLQNICOARASSR,TAK-733,MEK inhibitor,5
+RDSACQWTXKSHJT,refametinib,MEK inhibitor,3
+REQCZEXYDRLIBE,procainamide,sodium channel blocker,5
+REZGGXNDEMKIQB,zaprinast,phosphodiesterase inhibitor,3
+RFHAOTPXVQNOHP,fluconazole,sterol demethylase inhibitor,1
+RGLYKWWBQGJZGM,diethylstilbestrol,estrogen receptor agonist,1
+RGPDEAGGEXEMMM,nefopam,cyclooxygenase inhibitor,1
+RHAXSHUQNIEUEY,epirizole,cyclooxygenase inhibitor,4
+RHFUXPCCELGMFC,Y-27152,potassium channel activator,4
+RICZEKWVNZFTNZ,narlaprevir,HCV inhibitor,5
+RIJLVEAXPNLDTC,filgotinib,JAK inhibitor,3
+RJKFOVLPORLFTN,progesterone,progesterone receptor agonist,2
+RLAWWYSOJDYHDC,lisinopril,angiotensin converting enzyme inhibitor,4
+RMEDXOLNCUSCGS,droperidol,dopamine receptor antagonist,4
+RMHMFHUVIITRHF,pirenzepine,acetylcholine receptor antagonist,4
+RMMXLENWKUUMAY,telmisartan,angiotensin receptor antagonist,5
+RNLQIBCLLYYYFJ,amrinone,phosphodiesterase inhibitor,2
+ROWSTIYZUWEOMM,TAS-103,topoisomerase inhibitor,2
+RPXVIAFEQBNEAX,CNQX,glutamate receptor antagonist,4
+RRAFCDWBNXTKKO,eugenol,androgen receptor antagonist,4
+RRGUKTPIGVIEKM,cilostazol,phosphodiesterase inhibitor,4
+RRHJHSBDJDZUGL,lidamidine,adrenergic receptor agonist,1
+RRRUXBQSQLKHEL,piclamilast,phosphodiesterase inhibitor,1
+RTHCYVBBDHJXIQ,fluoxetine,selective serotonin reuptake inhibitor (SSRI),3
+RTXOFQZKPXMALH,cefdinir,bacterial cell wall synthesis inhibitor,4
+RUOKEQAAGRXIBM,rasagiline,monoamine oxidase inhibitor,4
+RUZYUOTYCVRMRZ,doxazosin,adrenergic receptor antagonist,4
+RVAQIUULWULRNW,ganetespib,HSP inhibitor,1
+RVGLGHVJXCETIO,lodoxamide,histamine receptor antagonist,4
+RVMBDLSFFNKKLG,ZD-7114,adrenergic receptor agonist,4
+RWEVIPRMPFNTLO,AZD8330,MEK inhibitor,4
+RWTNPBWLLIMQHL,fexofenadine,histamine receptor antagonist,2
+RXPRRQLKFXBCSJ,vincamine,adrenergic receptor antagonist,5
+RXQCGGRTAILOIN,mephentermine,adrenergic receptor agonist,3
+RXZBMPWDPOLZGW,roxithromycin,bacterial 50S ribosomal subunit inhibitor,1
+RYMZZMVNJRMUDD,simvastatin,HMGCR inhibitor,5
+RYYNGWLOYLRZLK,PF-03814735,Aurora kinase inhibitor,2
+RZEKVGVHFLEQIL,celecoxib,cyclooxygenase inhibitor,3
+RZTAMFZIAATZDJ,felodipine,calcium channel blocker,4
+RZVAJINKPMORJF,paracetamol,cyclooxygenase inhibitor,3
+SDUQYLNIPVEERB,gemcitabine,ribonucleotide reductase inhibitor,3
+SECKRCOLJRRGGV,vardenafil,phosphodiesterase inhibitor,1
+SFOVDSLXFUGAIV,tecastemizole,histamine receptor antagonist,1
+SGTNSNPWRIOYBX,verapamil,calcium channel blocker,2
+SGUAFYQXFOLMHL,labetalol,adrenergic receptor antagonist,2
+SIQPXVQCUCHWDI,enprofylline,phosphodiesterase inhibitor,2
+SJFBTAPEPRWNKH,delanzomib,proteasome inhibitor,2
+SMYALUSCZJXWHG,altanserin,serotonin receptor antagonist,3
+SNICXCGAKADSCV,nicotine,acetylcholine receptor agonist,5
+SNPPWIUOZRMYNY,bupropion,dopamine reuptake inhibitor,3
+SNUDIPVBUUXCDG,tebipenem,bacterial cell wall synthesis inhibitor,3
+SOHCKWZVTCTQBG,donitriptan,serotonin receptor agonist,4
+SOLIIYNRSAWTSQ,indibulin,tubulin polymerization inhibitor,3
+SONNWYBIRXJNDC,phenylephrine,adrenergic receptor agonist,2
+SOYKEARSMXGVTM,chlorphenamine,histamine receptor antagonist,5
+SPIUTQOUKAMGCX,flavoxate,acetylcholine receptor antagonist,3
+SQSZANZGUXWJEA,LY2784544,JAK inhibitor,3
+SRZNHPXWXCNNDU,cefotetan,bacterial cell wall synthesis inhibitor,5
+SSRDSYXGYPJKRR,EVP-6124,acetylcholine receptor agonist,1
+STECJAGHUSJQJN,scopolamine,acetylcholine receptor antagonist,5
+STJMRWALKKWQGH,clenbuterol,adrenergic receptor agonist,1
+STZYTFJPGGDRJD,retapamulin,protein synthesis inhibitor,2
+SUDAHWBOROXANE,PD-0325901,MEK inhibitor,3
+SWLAMJPTOQZTAE,meglitinide,potassium channel blocker,4
+SWLMUYACZKCSHZ,butoconazole,bacterial cell wall synthesis inhibitor,3
+SWZXEVABPLUDIO,oprozomib,proteasome inhibitor,5
+SXNJFOWDRLKDSF,volasertib,PLK inhibitor,4
+TTZHDVOVKQGIBA,PSI-7976,HCV inhibitor,2
+TUZYXOIXSAXUGO,pravastatin,HMGCR inhibitor,2
+TVURRHSHRRELCG,fenoldopam,dopamine receptor agonist,3
+TXCGAZHTZHNUAI,clofibric-acid,PPAR receptor agonist,2
+TYZROVQLWOKYKF,linezolid,bacterial 50S ribosomal subunit inhibitor,5
+TZBJGXHYKVUXJN,genistein,tyrosine kinase inhibitor,4
+UCEQXRCJXIVODC,tivantinib,tyrosine kinase inhibitor,1
+UEQUQVLFIPOEMF,mianserin,serotonin receptor antagonist,4
+UGJMXCAKCUNAIE,gabapentin,calcium channel blocker,1
+UGJWRPJDTDGERK,TH-302,DNA alkylating agent,2
+UHDGCWIWMRVCDJ,cytarabine,ribonucleotide reductase inhibitor,2
+UHSKFQJFRQCDBE,ropinirole,dopamine receptor agonist,5
+UIAGMCDKSXEBJQ,nimodipine,calcium channel blocker,4
+UJCACMLMPLLRGW,sodium-tanshinone-II-A-sulfonate,potassium channel activator,1
+UJEWTUDSLQGTOA,piretanide,glucocorticoid receptor agonist,4
+UJIAQDJKSXQLIT,TG100-115,PI3K inhibitor,4
+UJLAWZDWDVHWOW,tofacitinib,JAK inhibitor,4
+UKTAZPQNNNJVKR,dolasetron,serotonin receptor antagonist,1
+ULDXWLCXEDXJGE,MK-2206,AKT inhibitor,1
+ULFRLSNUDGIQQP,rizatriptan,serotonin receptor agonist,3
+ULXXDDBFHOBEHA,afatinib,EGFR inhibitor,2
+UMQUQWCJKFOUGV,CGP-12177,adrenergic receptor agonist,2
+UPALIKSFLSVKIS,amonafide,topoisomerase inhibitor,4
+UPZWINBEAHDTLA,basimglurant,glutamate receptor antagonist,3
+UQGKUQLKSCSZGY,olmesartan-medoxomil,angiotensin receptor antagonist,1
+UUOJIACWOAYWEZ,bopindolol,adrenergic receptor antagonist,3
+UUVWYPNAQBNQJQ,altretamine,DNA synthesis inhibitor,4
+UVTNFZQICZKOEM,disopyramide,sodium channel blocker,3
+UWFYSQMTEOIJJG,cyproterone-acetate,androgen receptor antagonist,2
+UWKQSNNFCGGAFS,irinotecan,topoisomerase inhibitor,3
+UWXSAYUXVSFDBQ,ARRY-334543,EGFR inhibitor,3
+UXABARREKCJULM,imiloxan,adrenergic receptor antagonist,5
+VAOCPAMSLUNLGC,metronidazole,DNA inhibitor,1
+VAZAPHZUAVEOMC,tacedinaline,HDAC inhibitor,1
+VBHQKCBVWWUUKN,vernakalant,potassium channel blocker,5
+VDOSWXIDETXFET,afloqualone,acetylcholine receptor antagonist,2
+VDUWPHTZYNWKRN,cinoxacin,topoisomerase inhibitor,3
+VEQOALNAAJBPNY,phenazone,cyclooxygenase inhibitor,4
+VFCRKLWBYMDAED,PF-03084014,gamma secretase inhibitor,4
+VFFZWMWTUSXDCB,NVP-DPP728,dipeptidyl peptidase inhibitor,5
+VFUXSYAXEKYYMB,KW-2478,HSP inhibitor,2
+VGKDLMBJGBXTGI,sertraline,selective serotonin reuptake inhibitor (SSRI),4
+VGYFMXBACGZSIL,pitavastatin,HMGCR inhibitor,4
+VHFVKMTVMIZMIK,mCPP,serotonin receptor agonist,1
+VHRSUDSXCMQTMA,methylprednisolone,glucocorticoid receptor agonist,1
+VHVPQPYKVGDNFY,itraconazole,cytochrome P450 inhibitor,4
+VHYCDWMUTMEGQY,bisoprolol,adrenergic receptor antagonist,3
+VIKNJXKGJWUCNN,norethindrone,progesterone receptor agonist,5
+VIUAUNHCRHHYNE,AS-703026,MEK inhibitor,1
+VJJPUSNTGOMMGY,etoposide,topoisomerase inhibitor,5
+VKXWOLCNTHXCLF,balapiravir,RNA polymerase inhibitor,5
+VMWNQDUVQKEIOC,(R)-(-)-apomorphine,dopamine receptor agonist,1
+VMZUTJCNQWMAGF,etizolam,benzodiazepine receptor agonist,4
+VOPDXHFYDJAYNS,RG2833,HDAC inhibitor,2
+VOXZDWNPVJITMN,estradiol,estrogen receptor agonist,2
+VRTWBAAJJOHBQU,ledipasvir,HCV inhibitor,3
+VRYMTAVOXVTQEF,moxisylyte,adrenergic receptor antagonist,3
+VSJKWCGYPAHWDS,camptothecin,topoisomerase inhibitor,4
+VSNHCAURESNICA,hydroxyurea,ribonucleotide reductase inhibitor,5
+VWMJHAFYPMOMGF,MLN2480,RAF inhibitor,1
+VYFYYTLLBUKUHU,dopamine,dopamine receptor agonist,5
+WAOQONBSWFLFPE,raclopride,dopamine receptor antagonist,4
+WAXQNWCZJDTGBU,netupitant,tachykinin antagonist,5
+WCDWBPCFGJXFJZ,etanidazole,bacterial cell wall synthesis inhibitor,1
+WDDPHFBMKLOVOX,clofarabine,ribonucleotide reductase inhibitor,1
+WDZVGELJXXEGPV,guanaben-acetate,adrenergic receptor agonist,4
+WEAJZXNPAWBCOA,avanafil,phosphodiesterase inhibitor,3
+WGRQANOPCQRCME,teneligliptin,dipeptidyl peptidase inhibitor,1
+WHUWQSQEVISUMC,isbufylline,phosphodiesterase inhibitor,2
+WHWZLSFABNNENI,epinastine,histamine receptor antagonist,3
+WIGIZIANZCJQQY,glimepiride,insulin secretagogue,3
+WIIZWVCIJKGZOK,chloramphenicol,bacterial 50S ribosomal subunit inhibitor,3
+WIKYUJGCLQQFNW,prochlorperazine,dopamine receptor antagonist,3
+WJJYZXPHLSLMGE,xaliproden,serotonin receptor agonist,3
+WJOHZNCJWYWUJD,fluocinonide,glucocorticoid receptor agonist,4
+WJRRGYBTGDJBFX,AZD5438,CDK inhibitor,2
+WKGXYQFOCVYPAC,felbamate,glutamate receptor antagonist,2
+WMWTYOKRWGGJOA,fluticasone-propionate,glucocorticoid receptor agonist,5
+WOXKDUGGOYFFRN,tadalafil,phosphodiesterase inhibitor,3
+WPGGHFDDFPHPOB,mitiglinide,insulin secretagogue,5
+WPMJNLCLKAKMLA,VX-222,HCV inhibitor,4
+WPVVMKYQOMJPIN,SR-57227A,serotonin receptor agonist,2
+WQSACWZKKZPCHN,BTS-54505,dopamine reuptake inhibitor,2
+WQTKNBPCJKRYPA,AMG-487,CC chemokine receptor antagonist,5
+WREGKURFCTUGRC,zalcitabine,nucleoside reverse transcriptase inhibitor,2
+WSEQXVZVJXJVFP,citalopram,selective serotonin reuptake inhibitor (SSRI),1
+WSPOMRSOLSGNFJ,chlorprothixene,dopamine receptor antagonist,4
+WTDWVLJJJOTABN,nesbuvir,RNA polymerase inhibitor,5
+WUBBRNOQWQTFEX,aminosalicylate,cyclooxygenase inhibitor,2
+WUILNKCFCLNXOK,salirasib,mTOR inhibitor,4
+WVLHHLRVNDMIAR,AMD11070,CC chemokine receptor antagonist,2
+WVPSKSLAZQPAKQ,trovafloxacin,bacterial DNA gyrase inhibitor,5
+WVUNYSQLFKLYNI,pelitinib,EGFR inhibitor,4
+WVXRAFOPTSTNLL,dideoxyadenosine,nucleoside reverse transcriptase inhibitor,5
+WWVANQJRLPIHNS,2-iminobiotin,nitric oxide synthase inhibitor,3
+WXCXUHSOUPDCQV,enzalutamide,androgen receptor antagonist,3
+WYWIFABBXFUGLM,oxymetazoline,adrenergic receptor agonist,1
+XAGMUUZPGZWTRP,pazufloxacin,topoisomerase inhibitor,2
+XCGJIFAKUZNNOR,MK-0752,gamma secretase inhibitor,1
+XCPGHVQEEXUHNC,amsacrine,topoisomerase inhibitor,5
+XDBMBHVYXPBOPL,isofloxythepin,dopamine receptor antagonist,1
+XEAOPVUAMONVLA,avagacestat,gamma secretase inhibitor,3
+XFALPSLJIHVRKE,tedizolid,bacterial 50S ribosomal subunit inhibitor,5
+XFDJYSQDBULQSI,doxapram,potassium channel blocker,3
+XFYDIVBRZNQMJC,tizanidine,adrenergic receptor agonist,5
+XGALLCVXEZPNRQ,gefitinib,EGFR inhibitor,3
+XGPBJCHFROADCK,CX-5461,RNA polymerase inhibitor,1
+XHOLNRLADUSQLD,betrixaban,coagulation factor inhibitor,1
+XIESSJVMWNJCGZ,erteberel,estrogen receptor agonist,5
+XILVEPYQJIOVNB,etofenamate,cyclooxygenase inhibitor,3
+XIQVNETUBQGFHX,oxybutynin,acetylcholine receptor antagonist,1
+XKLMZUWKNUAPSZ,ranolazine,sodium channel blocker,2
+XMAYWYJOQHXEEK,ketoconazole,sterol demethylase inhibitor,3
+XMFCOYRWYYXZMY,sulmazole,adenosine receptor antagonist,4
+XOFYZVNMUHMLCC,prednisone,glucocorticoid receptor agonist,1
+XPCFTKFZXHTYIP,benazepril,angiotensin converting enzyme inhibitor,5
+XPOQHMRABVBWPR,efavirenz,HIV protease inhibitor,2
+XPPBBJCBDOEXDN,LY2228820,p38 MAPK inhibitor,2
+XQSPYNMVSIKCOC,emtricitabine,nucleoside reverse transcriptase inhibitor,1
+XQVVPGYIWAGRNI,BI-2536,PLK inhibitor,1
+XQYASZNUFDVMFH,ZK-811752,CC chemokine receptor antagonist,1
+XQYZDYMELSJDRZ,papaverine,phosphodiesterase inhibitor,5
+XSCGXQMFQXDFCW,triflupromazine,dopamine receptor antagonist,1
+XSDQTOBWRPYKKA,amiloride,sodium channel blocker,4
+XTKLTGBKIDQGQL,GSK2636771,PI3K inhibitor,5
+XUBOMFCQGDBHNK,gatifloxacin,bacterial DNA gyrase inhibitor,5
+XUFQPHANEAPEMJ,famotidine,histamine receptor antagonist,1
+XUFXOAAUWZOOIT,acarbose,glucosidase inhibitor,3
+XUKUURHRXDUEBC,atorvastatin,HMGCR inhibitor,3
+XUZMWHLSFXCVMG,baricitinib,JAK inhibitor,4
+XZAFZXJXZHRNAQ,voreloxin,topoisomerase inhibitor,1
+YAPQBXQYLJRXSA,theobromine,phosphodiesterase inhibitor,4
+YBAWYTYNMZWMMJ,idalopirdine,serotonin receptor antagonist,4
+YBBLVLTVTVSKRW,anastrozole,aromatase inhibitor,3
+YDGMGEXADBMOMJ,asymmetrical-dimethylarginine,nitric oxide synthase inhibitor,1
+YECBIJXISLIIDS,mepyramine,histamine receptor antagonist,4
+YEJCDKJIEMIWRQ,linopirdine,potassium channel blocker,1
+YFAGHNZHGGCZAX,dicloxacillin,bacterial cell wall synthesis inhibitor,5
+YHXISWVBGDMDLQ,moclobemide,monoamine oxidase inhibitor,2
+YIBOMRUWOWDFLG,rilpivirine,non-nucleoside reverse transcriptase inhibitor,3
+YJQPYGGHQPGBLI,novobiocin,bacterial DNA gyrase inhibitor,4
+YLFZHHDVRSYTKT,firategrast,integrin antagonist,3
+YMDXZJFXQJVXBF,fosfomycin,bacterial cell wall synthesis inhibitor,4
+YOSHYTLCDANDAN,irbesartan,angiotensin receptor antagonist,1
+YPFLFUJKZDAXRA,lirimilast,phosphodiesterase inhibitor,2
+YSEXMKHXIOCEJA,nicergoline,adrenergic receptor antagonist,4
+YSXKPIUOCJLQIE,biperiden,acetylcholine receptor antagonist,3
+YTAOBBFIOAEMLL,luliconazole,sterol demethylase inhibitor,2
+YTFHCXIPDIHOIA,palovarotene,retinoid receptor agonist,5
+YTKUWDBFDASYHO,bendamustine,DNA inhibitor,5
+YTXSYWAKVMZICI,ixazomib-citrate,proteasome inhibitor,4
+YVUQSNJEYSNKRX,pimozide,dopamine receptor antagonist,1
+YVXVTLGIDOACBJ,andarine,androgen receptor modulator,3
+YWGDOWXRIALTES,bepotastine,histamine receptor antagonist,2
+YXRDKMPIGHSVRX,rocuronium,acetylcholine receptor antagonist,3
+YXSLJKQTIDHPOT,atracurium,acetylcholine receptor antagonist,2
+YZFWTZACSRHJQD,ciglitazone,PPAR receptor agonist,1
+ZBBHBTPTTSWHBA,nicardipine,calcium channel blocker,3
+ZBIAKUMOEKILTF,lidoflazine,calcium channel blocker,5
+ZBMZVLHSJCTVON,sotalol,adrenergic receptor antagonist,5
+ZBRAJOQFSNYJMF,VT-464,cytochrome P450 inhibitor,3
+ZCGNOVWYSGBHAU,favipiravir,RNA polymerase inhibitor,2
+ZCGOMHNNNFPNMX,levocabastine,histamine receptor antagonist,1
+ZCIGNRJZKPOIKD,cobicistat,cytochrome P450 inhibitor,1
+ZCJYUTQZBAIHBS,fenticonazole,bacterial cell wall synthesis inhibitor,2
+ZDZOTLJHXYCWBA,docetaxel,tubulin polymerization inhibitor,4
+ZEWQUBUPAILYHI,trifluoperazine,dopamine receptor antagonist,5
+ZFVRYNYOPQZKDG,SNX-2112,HSP inhibitor,5
+ZFXYFBGIUFBOJW,aminophylline,adenosine receptor antagonist,2
+ZGBGPEDJXCYQPH,AZ-628,RAF inhibitor,5
+ZGLHBRQAEXKACO,ercalcitriol,vitamin D receptor agonist,5
+ZHJGWYRLJUCMRT,GSK461364,PLK inhibitor,2
+ZJDCGVDEEHWEIG,diclofensine,dopamine reuptake inhibitor,5
+ZKLPARSLTMPFCP,cetirizine,histamine receptor antagonist,5
+ZLHFILGSQDJULK,alisertib,Aurora kinase inhibitor,4
+ZMELOYOKMZBMRB,talmapimod,p38 MAPK inhibitor,1
+ZMEULISFKSVRLQ,formestane,aromatase inhibitor,5
+ZNSVOHSYDRPBGI,PF-04136309,CC chemokine receptor antagonist,5
+ZPEIMTDSQAKGNT,chlorpromazine,dopamine receptor antagonist,3
+ZQTNQVWKHCQYLQ,dronedarone,adrenergic receptor antagonist,5
+ZRCVYEYHRGVLOC,gemifloxacin,bacterial DNA gyrase inhibitor,2
+ZVGNESXIJDCBKN,fidaxomicin,RNA polymerase inhibitor,4
+ZVHNDZWQTBEVRY,cyt387,JAK inhibitor,1
+ZXFRFPSZAKNPQQ,LY215490,glutamate receptor antagonist,1
+ZXRVKCBLGJOCEE,gaboxadol,benzodiazepine receptor agonist,5
+ZYQXEVJIFYIBHZ,TAK-285,EGFR inhibitor,1
+ZZJYIKPMDIWRSN,butaclamol,dopamine receptor antagonist,2
+ZZZQXCUPAJFVBN,RS-127445,serotonin receptor antagonist,5

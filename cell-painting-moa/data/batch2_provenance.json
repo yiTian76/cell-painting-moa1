@@ -1,0 +1,35 @@
+{
+  "revision": "061870127481dcd73c29df85ebcfddeac2ed0828",
+  "source_license": "CC0 1.0",
+  "sources": {
+    "batch2.csv.gz": [
+      "https://media.githubusercontent.com/media/broadinstitute/lincs-cell-painting/061870127481dcd73c29df85ebcfddeac2ed0828/consensus/2017_12_05_Batch2/2017_12_05_Batch2_consensus_modz_dmso.csv.gz",
+      "c42146a5b2cdba919358f212291c71d25f59e804308e87b2a53aafe3dd22e617"
+    ],
+    "moa.tsv": [
+      "https://raw.githubusercontent.com/broadinstitute/lincs-cell-painting/061870127481dcd73c29df85ebcfddeac2ed0828/metadata/moa/repurposing_info.tsv",
+      "aa8d8f4e2a175ed3c6c0c97e18699f62eda7caf9fed445590f364d278e01dd2d"
+    ],
+    "resolved.tsv": [
+      "https://raw.githubusercontent.com/broadinstitute/lincs-cell-painting/061870127481dcd73c29df85ebcfddeac2ed0828/metadata/moa/repurposing_info_external_moa_map_resolved.tsv",
+      "fa06cb8310a5cf801f5f1ba39bf8176a1b4eefdb4a23d1739ba92be31632b6be"
+    ]
+  },
+  "filters": {
+    "all_rows": 10368,
+    "A549_48H": 1152,
+    "nominal_dose6": 360,
+    "exact_10uM": 320
+  },
+  "retained_features": 1609,
+  "output_compounds": 199,
+  "source_row_flow": {
+    "retained": 213,
+    "multiple_primary_moa": 64,
+    "absent_or_ambiguous_identity": 35,
+    "missing_connectivity": 4,
+    "unknown_primary_moa": 3,
+    "inconsistent_primary_moa": 1
+  },
+  "sha256": "b7986999d41a68edd31b33df0736666e086fee7a76759a7522db69d20ef79ba9"
+}

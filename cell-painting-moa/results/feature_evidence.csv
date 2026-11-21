@@ -1,0 +1,791 @@
+moa,support,feature,block,mean_true_minus_rival_contribution,mean_held_out_z,n_with_feature_retained
+AKT inhibitor,6,Nuclei_AreaShape_Zernike_2_0,shape_other,0.003135777438,-1.93482831,6
+AKT inhibitor,6,Nuclei_AreaShape_Zernike_4_4,shape_other,0.002548616293,-2.176985348,6
+AKT inhibitor,6,Nuclei_AreaShape_Zernike_6_6,shape_other,0.002302678996,-2.29542832,6
+AKT inhibitor,6,Nuclei_AreaShape_Zernike_0_0,shape_other,0.001981434061,2.231228677,6
+AKT inhibitor,6,Cells_RadialDistribution_RadialCV_DNA_1of4,DNA,0.001841664889,1.623020014,6
+AKT inhibitor,6,Cytoplasm_Correlation_Correlation_ER_AGP,cross_channel,0.001602021502,1.025218696,6
+AKT inhibitor,6,Cytoplasm_RadialDistribution_MeanFrac_AGP_3of4,AGP,0.001273205582,1.183140549,6
+AKT inhibitor,6,Cytoplasm_RadialDistribution_RadialCV_AGP_3of4,AGP,0.001186326978,1.257190711,6
+AKT inhibitor,6,Cells_RadialDistribution_RadialCV_AGP_3of4,AGP,0.001180073126,-0.7809293751,6
+AKT inhibitor,6,Nuclei_AreaShape_Zernike_8_8,shape_other,0.001170927623,-1.707613675,6
+Aurora kinase inhibitor,6,Nuclei_Granularity_7_DNA,DNA,0.00240098058,-3.390562786,6
+Aurora kinase inhibitor,6,Nuclei_AreaShape_Zernike_7_7,shape_other,0.002295605386,2.696398087,6
+Aurora kinase inhibitor,6,Cells_Intensity_IntegratedIntensityEdge_Mito,Mito,0.002139159143,3.929497035,6
+Aurora kinase inhibitor,6,Nuclei_Granularity_8_AGP,AGP,0.00196947908,-3.085344207,6
+Aurora kinase inhibitor,6,Nuclei_AreaShape_Zernike_5_5,shape_other,0.001967761464,2.249854748,6
+Aurora kinase inhibitor,6,Nuclei_AreaShape_Zernike_9_9,shape_other,0.001934910834,2.482204744,6
+Aurora kinase inhibitor,6,Nuclei_AreaShape_Zernike_6_6,shape_other,0.001840943543,2.724874493,6
+Aurora kinase inhibitor,6,Cytoplasm_Correlation_Correlation_DNA_AGP,cross_channel,0.001827209215,2.551800446,6
+Aurora kinase inhibitor,6,Nuclei_AreaShape_Area,shape_other,0.001699231783,3.693021919,6
+Aurora kinase inhibitor,6,Nuclei_AreaShape_MajorAxisLength,shape_other,0.001672892174,3.779367433,6
+CC chemokine receptor antagonist,8,Nuclei_Granularity_10_ER,ER,0.001611487866,0.9954050018,8
+CC chemokine receptor antagonist,8,Nuclei_Granularity_11_ER,ER,0.001506172829,1.082492404,8
+CC chemokine receptor antagonist,8,Nuclei_Texture_InfoMeas1_ER_20_0,ER,0.001497052884,-0.8453859448,8
+CC chemokine receptor antagonist,8,Cytoplasm_AreaShape_Zernike_6_2,shape_other,0.001215967135,0.6094075084,8
+CC chemokine receptor antagonist,8,Cells_RadialDistribution_MeanFrac_ER_1of4,ER,0.001130640585,0.9764222654,8
+CC chemokine receptor antagonist,8,Cytoplasm_RadialDistribution_RadialCV_ER_3of4,ER,0.001100045633,0.89108173,8
+CC chemokine receptor antagonist,8,Cells_RadialDistribution_RadialCV_DNA_1of4,DNA,0.001088926743,0.9582038372,8
+CC chemokine receptor antagonist,8,Nuclei_Texture_InfoMeas2_ER_20_0,ER,0.001062114446,0.6657415154,8
+CC chemokine receptor antagonist,8,Nuclei_Texture_Correlation_ER_20_0,ER,0.0009892074783,0.6983876384,8
+CC chemokine receptor antagonist,8,Cytoplasm_RadialDistribution_RadialCV_ER_2of4,ER,0.0009364874643,0.8060162882,8
+CCK receptor antagonist,5,Cytoplasm_AreaShape_Zernike_7_1,shape_other,0.001672800906,-0.7192477237,5
+CCK receptor antagonist,5,Cytoplasm_AreaShape_Zernike_3_1,shape_other,0.001386039527,0.7782507142,5
+CCK receptor antagonist,5,Nuclei_Texture_DifferenceEntropy_ER_5_0,ER,0.001352269096,-0.8750170195,5
+CCK receptor antagonist,5,Cells_Texture_InfoMeas2_DNA_10_0,DNA,0.001292581676,0.8234042011,5
+CCK receptor antagonist,5,Nuclei_Texture_InfoMeas1_ER_5_0,ER,0.001168470217,-0.9186117197,5
+CCK receptor antagonist,5,Cells_Texture_InfoMeas2_DNA_5_0,DNA,0.001147827653,0.8531930116,5
+CCK receptor antagonist,5,Nuclei_Texture_DifferenceVariance_ER_5_0,ER,0.001145621134,-0.8357659271,5
+CCK receptor antagonist,5,Cytoplasm_AreaShape_Zernike_8_4,shape_other,0.001136405549,0.6250882932,5
+CCK receptor antagonist,5,Nuclei_Texture_Contrast_ER_5_0,ER,0.0009769710503,-0.7795253011,5
+CCK receptor antagonist,5,Nuclei_Texture_InfoMeas1_ER_10_0,ER,0.0008960035134,-0.8532259018,5
+CDK inhibitor,8,Cells_Correlation_RWC_RNA_AGP,cross_channel,0.003075626012,-2.897401258,8
+CDK inhibitor,8,Cytoplasm_AreaShape_Zernike_1_1,shape_other,0.00271901233,1.940273462,8
+CDK inhibitor,8,Cells_Correlation_RWC_ER_AGP,cross_channel,0.001972821954,-2.497983227,8
+CDK inhibitor,8,Cytoplasm_Correlation_RWC_ER_RNA,cross_channel,0.001836831974,2.128228633,8
+CDK inhibitor,8,Nuclei_RadialDistribution_RadialCV_AGP_1of4,AGP,0.001815103761,3.611799945,8
+CDK inhibitor,8,Cells_AreaShape_Zernike_1_1,shape_other,0.001783499672,2.341862205,8
+CDK inhibitor,8,Nuclei_RadialDistribution_RadialCV_AGP_2of4,AGP,0.00178129403,2.961877943,8
+CDK inhibitor,8,Cells_Correlation_Correlation_RNA_AGP,cross_channel,0.001752387041,-2.55445593,8
+CDK inhibitor,8,Cells_Correlation_Overlap_RNA_AGP,cross_channel,0.001667002444,-3.099001812,8
+CDK inhibitor,8,Cells_AreaShape_Zernike_6_2,shape_other,0.001497671347,2.003512292,8
+DNA alkylating agent,5,Cells_RadialDistribution_RadialCV_DNA_4of4,DNA,0.001508535973,-2.002857181,5
+DNA alkylating agent,5,Cytoplasm_AreaShape_Zernike_6_0,shape_other,0.001468980659,1.4499741,5
+DNA alkylating agent,5,Nuclei_Correlation_Overlap_Mito_RNA,cross_channel,0.001297523376,-1.441274136,5
+DNA alkylating agent,5,Cells_Correlation_Overlap_ER_AGP,cross_channel,0.001112131881,-1.32575966,5
+DNA alkylating agent,5,Cells_Correlation_Overlap_Mito_AGP,cross_channel,0.001091250063,-1.229320749,5
+DNA alkylating agent,5,Cells_Correlation_Overlap_Mito_RNA,cross_channel,0.001067443219,-1.222049519,5
+DNA alkylating agent,5,Cytoplasm_AreaShape_Extent,shape_other,0.0009385052121,1.131271441,5
+DNA alkylating agent,5,Cells_Correlation_Correlation_DNA_AGP,cross_channel,0.0009145693817,1.2790723,5
+DNA alkylating agent,5,Cytoplasm_AreaShape_Zernike_0_0,shape_other,0.0008602018727,1.122379619,5
+DNA alkylating agent,5,Cells_RadialDistribution_RadialCV_RNA_1of4,RNA,0.0008542078257,1.81859737,5
+DNA inhibitor,8,Nuclei_AreaShape_Zernike_6_4,shape_other,0.0007990902954,0.7526250301,8
+DNA inhibitor,8,Nuclei_AreaShape_Zernike_6_6,shape_other,0.0007561371139,-0.8854069339,8
+DNA inhibitor,8,Nuclei_AreaShape_Zernike_8_8,shape_other,0.0007210587502,-0.7326298211,8
+DNA inhibitor,8,Nuclei_Texture_Gabor_Mito_20,Mito,0.0006720251242,-0.9226590934,8
+DNA inhibitor,8,Nuclei_AreaShape_Zernike_9_9,shape_other,0.0006064452287,-0.6684368499,8
+DNA inhibitor,8,Nuclei_AreaShape_Zernike_2_0,shape_other,0.0005790932755,-0.8294003697,8
+DNA inhibitor,8,Cells_RadialDistribution_RadialCV_ER_4of4,ER,0.0004912259588,-0.8248336023,8
+DNA inhibitor,8,Nuclei_Texture_DifferenceEntropy_ER_20_0,ER,0.0004551115554,-0.6213156266,8
+DNA inhibitor,8,Nuclei_AreaShape_Orientation,shape_other,0.0004458895763,0.2887260902,8
+DNA inhibitor,8,Nuclei_AreaShape_Zernike_7_7,shape_other,0.0004454740555,-0.7106796448,8
+DNA polymerase inhibitor,5,Cells_AreaShape_Zernike_8_0,shape_other,0.000545150761,-0.3896771754,5
+DNA polymerase inhibitor,5,Cytoplasm_AreaShape_Zernike_6_2,shape_other,0.0005220990491,0.5017724042,5
+DNA polymerase inhibitor,5,Cytoplasm_RadialDistribution_MeanFrac_DNA_1of4,DNA,0.0004938139731,-0.553300772,5
+DNA polymerase inhibitor,5,Cytoplasm_RadialDistribution_MeanFrac_DNA_2of4,DNA,0.0004663936685,-0.5520308294,5
+DNA polymerase inhibitor,5,Cytoplasm_AreaShape_Zernike_5_1,shape_other,0.0004551912098,0.5038215502,5
+DNA polymerase inhibitor,5,Cytoplasm_RadialDistribution_MeanFrac_DNA_3of4,DNA,0.0004367445906,-0.5172065443,5
+DNA polymerase inhibitor,5,Cells_AreaShape_Zernike_8_2,shape_other,0.0004103740858,-0.405262516,5
+DNA polymerase inhibitor,5,Cytoplasm_RadialDistribution_MeanFrac_DNA_4of4,DNA,0.0003422138735,0.5061765718,5
+DNA polymerase inhibitor,5,Cells_Neighbors_AngleBetweenNeighbors_10,shape_other,0.0003171573527,0.4381119869,5
+DNA polymerase inhibitor,5,Cells_Neighbors_AngleBetweenNeighbors_Adjacent,shape_other,0.0003171573527,0.4381119869,5
+DNA synthesis inhibitor,6,Nuclei_Granularity_7_DNA,DNA,0.0007926096057,1.467504996,6
+DNA synthesis inhibitor,6,Cells_RadialDistribution_RadialCV_RNA_4of4,RNA,0.0004151985373,-0.8389014006,6
+DNA synthesis inhibitor,6,Cells_RadialDistribution_RadialCV_ER_4of4,ER,0.0004128231921,-1.090982962,6
+DNA synthesis inhibitor,6,Cells_RadialDistribution_RadialCV_ER_3of4,ER,0.0003882727352,-0.5896164462,6
+DNA synthesis inhibitor,6,Nuclei_Texture_DifferenceEntropy_ER_20_0,ER,0.0003309442358,-1.034003533,6
+DNA synthesis inhibitor,6,Nuclei_Texture_DifferenceVariance_Mito_20_0,Mito,0.0003082997353,-0.5529763688,6
+DNA synthesis inhibitor,6,Cells_RadialDistribution_RadialCV_Mito_4of4,Mito,0.00028069388,-0.4976936027,6
+DNA synthesis inhibitor,6,Nuclei_RadialDistribution_MeanFrac_DNA_3of4,DNA,0.0002244984829,-0.6812797966,6
+DNA synthesis inhibitor,6,Nuclei_RadialDistribution_FracAtD_DNA_3of4,DNA,0.000220786727,-0.6780339037,6
+DNA synthesis inhibitor,6,Cells_RadialDistribution_RadialCV_Mito_3of4,Mito,0.000219752857,-0.3623719168,6
+EGFR inhibitor,15,Nuclei_Texture_DifferenceVariance_DNA_5_0,DNA,0.00104488912,1.43800197,15
+EGFR inhibitor,15,Nuclei_Texture_Correlation_Mito_20_0,Mito,0.0007788599874,-1.3614795,15
+EGFR inhibitor,15,Nuclei_Texture_DifferenceVariance_DNA_10_0,DNA,0.0006579769359,1.162364971,15
+EGFR inhibitor,15,Cells_RadialDistribution_RadialCV_ER_4of4,ER,0.0005333781792,1.357409097,15
+EGFR inhibitor,15,Cytoplasm_Texture_SumAverage_RNA_5_0,RNA,0.0004822307613,0.8748358715,15
+EGFR inhibitor,15,Cytoplasm_Texture_SumAverage_RNA_10_0,RNA,0.000475435607,0.8460857928,15
+EGFR inhibitor,15,Cytoplasm_Texture_Entropy_RNA_5_0,RNA,0.0004734380661,0.8867931534,15
+EGFR inhibitor,15,Nuclei_Texture_InfoMeas2_RNA_5_0,RNA,0.000446095597,-1.13185792,15
+EGFR inhibitor,15,Cytoplasm_AreaShape_Zernike_6_0,shape_other,0.0004393189159,-0.8212243261,15
+EGFR inhibitor,15,Cytoplasm_Texture_SumAverage_RNA_20_0,RNA,0.0004357354045,0.7981054763,15
+HCV inhibitor,9,Nuclei_RadialDistribution_FracAtD_DNA_3of4,DNA,0.0005231093431,0.9568830733,9
+HCV inhibitor,9,Cytoplasm_AreaShape_Zernike_7_1,shape_other,0.0004856273613,0.8885950734,9
+HCV inhibitor,9,Cells_AreaShape_Zernike_8_6,shape_other,0.000444661934,0.442172423,9
+HCV inhibitor,9,Cells_AreaShape_Zernike_6_2,shape_other,0.0004301766878,-0.240863191,9
+HCV inhibitor,9,Cytoplasm_RadialDistribution_MeanFrac_Mito_3of4,Mito,0.0004236479905,1.172876905,9
+HCV inhibitor,9,Cytoplasm_Correlation_Overlap_RNA_AGP,cross_channel,0.0004043217767,-0.7010797796,9
+HCV inhibitor,9,Cytoplasm_RadialDistribution_MeanFrac_RNA_3of4,RNA,0.0003922687502,0.5974427883,9
+HCV inhibitor,9,Cytoplasm_RadialDistribution_MeanFrac_RNA_4of4,RNA,0.0003801698087,-0.5727585371,9
+HCV inhibitor,9,Cells_AreaShape_Solidity,shape_other,0.0003780335969,-0.5230862012,9
+HCV inhibitor,9,Cytoplasm_AreaShape_Zernike_8_6,shape_other,0.0003710194311,0.4165288473,9
+HDAC inhibitor,12,Nuclei_Texture_Variance_DNA_20_0,DNA,0.001637393755,3.44581773,12
+HDAC inhibitor,12,Cells_Correlation_Overlap_DNA_RNA,cross_channel,0.001553712691,-2.189619909,12
+HDAC inhibitor,12,Nuclei_Texture_DifferenceVariance_DNA_20_0,DNA,0.00150512082,2.827906155,12
+HDAC inhibitor,12,Nuclei_Texture_Variance_DNA_10_0,DNA,0.001469971416,3.511952879,12
+HDAC inhibitor,12,Nuclei_Texture_Variance_DNA_5_0,DNA,0.001450936826,3.483493934,12
+HDAC inhibitor,12,Nuclei_Correlation_Overlap_DNA_RNA,cross_channel,0.00133880476,-2.740413716,12
+HDAC inhibitor,12,Nuclei_Correlation_Overlap_DNA_ER,cross_channel,0.001287974303,-2.046474533,12
+HDAC inhibitor,12,Nuclei_Texture_SumVariance_DNA_5_0,DNA,0.001222082575,3.36602389,12
+HDAC inhibitor,12,Nuclei_Texture_Contrast_DNA_20_0,DNA,0.001105689002,1.945138105,12
+HDAC inhibitor,12,Nuclei_Texture_SumEntropy_DNA_20_0,DNA,0.001101552454,2.828734048,12
+HIV protease inhibitor,7,Nuclei_AreaShape_Zernike_8_0,shape_other,0.0009929636955,-0.7103173071,7
+HIV protease inhibitor,7,Nuclei_Texture_Gabor_ER_10,ER,0.0008113301902,0.7326490424,7
+HIV protease inhibitor,7,Nuclei_Texture_Gabor_ER_5,ER,0.0007679920818,0.6914703872,7
+HIV protease inhibitor,7,Nuclei_Texture_Variance_Mito_5_0,Mito,0.0007239134819,-0.6119035027,7
+HIV protease inhibitor,7,Nuclei_Texture_InfoMeas1_ER_20_0,ER,0.0006887729415,0.4622596075,7
+HIV protease inhibitor,7,Nuclei_Texture_DifferenceEntropy_Mito_20_0,Mito,0.000668344778,-0.4474387471,7
+HIV protease inhibitor,7,Cytoplasm_Correlation_RWC_DNA_ER,cross_channel,0.0006214424051,0.6902331689,7
+HIV protease inhibitor,7,Cells_Correlation_K_Mito_DNA,cross_channel,0.00061825473,0.7423959531,7
+HIV protease inhibitor,7,Nuclei_Texture_Variance_Mito_20_0,Mito,0.0005688216297,-0.5574068695,7
+HIV protease inhibitor,7,Cytoplasm_AreaShape_Zernike_7_7,shape_other,0.00054568417,0.5852262045,7
+HMGCR inhibitor,6,Nuclei_Intensity_MaxIntensityEdge_ER,ER,0.001882486555,2.205588519,6
+HMGCR inhibitor,6,Cytoplasm_Intensity_MaxIntensityEdge_ER,ER,0.001856710175,2.204101198,6
+HMGCR inhibitor,6,Nuclei_Intensity_MaxIntensityEdge_RNA,RNA,0.001705129399,1.932307341,6
+HMGCR inhibitor,6,Cytoplasm_Intensity_MaxIntensityEdge_RNA,RNA,0.001704980469,1.91980413,6
+HMGCR inhibitor,6,Cells_AreaShape_Zernike_6_6,shape_other,0.00165034204,0.9879164379,6
+HMGCR inhibitor,6,Cytoplasm_Intensity_MaxIntensity_ER,ER,0.001618802044,2.032554613,6
+HMGCR inhibitor,6,Cytoplasm_Intensity_MaxIntensity_RNA,RNA,0.0016045641,1.833499826,6
+HMGCR inhibitor,6,Cells_AreaShape_Zernike_4_4,shape_other,0.001570985908,0.7802424105,6
+HMGCR inhibitor,6,Cells_AreaShape_FormFactor,shape_other,0.001551854506,1.107126098,6
+HMGCR inhibitor,6,Cells_Intensity_MaxIntensity_ER,ER,0.001520652652,2.150845773,6
+HSP inhibitor,7,Cytoplasm_Correlation_RWC_ER_RNA,cross_channel,0.00315815216,-3.637654005,7
+HSP inhibitor,7,Cytoplasm_Correlation_Manders_ER_RNA,cross_channel,0.00280835325,-3.67853342,7
+HSP inhibitor,7,Nuclei_Texture_AngularSecondMoment_RNA_20_0,RNA,0.002511054148,4.443124193,7
+HSP inhibitor,7,Nuclei_Texture_SumEntropy_RNA_5_0,RNA,0.002301241115,-4.531480807,7
+HSP inhibitor,7,Cells_Correlation_RWC_ER_RNA,cross_channel,0.002241701545,-3.705831652,7
+HSP inhibitor,7,Nuclei_Texture_AngularSecondMoment_RNA_5_0,RNA,0.002228672951,4.414204641,7
+HSP inhibitor,7,Nuclei_Texture_AngularSecondMoment_RNA_10_0,RNA,0.002185499547,4.337101548,7
+HSP inhibitor,7,Nuclei_AreaShape_Zernike_4_4,shape_other,0.001948034793,-2.559606919,7
+HSP inhibitor,7,Nuclei_Texture_Entropy_RNA_20_0,RNA,0.00188197613,-3.751229333,7
+HSP inhibitor,7,Nuclei_Texture_SumEntropy_RNA_20_0,RNA,0.001840685125,-4.01042924,7
+JAK inhibitor,7,Cells_RadialDistribution_RadialCV_Mito_4of4,Mito,0.001616085451,1.261374378,7
+JAK inhibitor,7,Nuclei_RadialDistribution_RadialCV_ER_2of4,ER,0.001558750572,1.715405033,7
+JAK inhibitor,7,Nuclei_AreaShape_Zernike_3_3,shape_other,0.001539677589,1.103462898,7
+JAK inhibitor,7,Cells_RadialDistribution_RadialCV_ER_4of4,ER,0.001499046722,1.250806578,7
+JAK inhibitor,7,Nuclei_RadialDistribution_RadialCV_RNA_3of4,RNA,0.001427127148,1.655127987,7
+JAK inhibitor,7,Nuclei_AreaShape_Zernike_1_1,shape_other,0.001404343129,1.06912775,7
+JAK inhibitor,7,Nuclei_RadialDistribution_RadialCV_ER_3of4,ER,0.001366094786,1.633620905,7
+JAK inhibitor,7,Cells_RadialDistribution_RadialCV_AGP_4of4,AGP,0.001338698468,1.31996794,7
+JAK inhibitor,7,Nuclei_RadialDistribution_RadialCV_RNA_4of4,RNA,0.001251215088,1.634848671,7
+JAK inhibitor,7,Nuclei_Correlation_Correlation_ER_RNA,cross_channel,0.00120243106,1.322568876,7
+MEK inhibitor,10,Nuclei_AreaShape_Zernike_6_2,shape_other,0.008174500809,2.754005455,10
+MEK inhibitor,10,Nuclei_Granularity_7_DNA,DNA,0.005808485326,2.732317605,10
+MEK inhibitor,10,Nuclei_AreaShape_Zernike_2_0,shape_other,0.004542467456,2.291916545,10
+MEK inhibitor,10,Nuclei_AreaShape_Zernike_7_1,shape_other,0.0040821849,-2.003803663,10
+MEK inhibitor,10,Nuclei_AreaShape_Zernike_9_1,shape_other,0.003475587072,-1.666233333,10
+MEK inhibitor,10,Nuclei_AreaShape_Zernike_5_5,shape_other,0.003454109609,-1.631310703,10
+MEK inhibitor,10,Nuclei_AreaShape_Zernike_3_1,shape_other,0.003424147011,-1.931326039,10
+MEK inhibitor,10,Nuclei_AreaShape_Zernike_3_3,shape_other,0.003049506558,-1.642868876,10
+MEK inhibitor,10,Nuclei_AreaShape_Zernike_1_1,shape_other,0.002810185573,-1.707541591,10
+MEK inhibitor,10,Cytoplasm_RadialDistribution_RadialCV_ER_1of4,ER,0.002764295593,1.939721463,10
+PARP inhibitor,5,Cells_AreaShape_Zernike_8_2,shape_other,0.0005560582574,-0.608238341,5
+PARP inhibitor,5,Cytoplasm_Intensity_MassDisplacement_DNA,DNA,0.0003907883541,0.03164270637,5
+PARP inhibitor,5,Cytoplasm_AreaShape_Zernike_9_3,shape_other,0.0003695632937,-0.7393342368,5
+PARP inhibitor,5,Cells_RadialDistribution_RadialCV_RNA_4of4,RNA,0.0003347826002,-0.5192336096,5
+PARP inhibitor,5,Cells_Texture_Entropy_AGP_20_0,AGP,0.0003263635619,-0.8584331636,5
+PARP inhibitor,5,Cells_Texture_SumEntropy_AGP_10_0,AGP,0.0003090667888,-0.8346331784,5
+PARP inhibitor,5,Cells_RadialDistribution_RadialCV_ER_4of4,ER,0.000306678265,-0.4924061798,5
+PARP inhibitor,5,Cells_Correlation_Costes_DNA_RNA,cross_channel,0.0003023208351,-0.5539790193,5
+PARP inhibitor,5,Cells_Texture_Entropy_AGP_5_0,AGP,0.000297389822,-0.8135181239,5
+PARP inhibitor,5,Cells_AreaShape_Zernike_6_2,shape_other,0.0002968021487,0.3795525577,5
+PI3K inhibitor,8,Nuclei_Texture_DifferenceVariance_DNA_5_0,DNA,0.001260441944,1.421482876,8
+PI3K inhibitor,8,Nuclei_Texture_InfoMeas2_ER_5_0,ER,0.001236556053,-1.909118207,8
+PI3K inhibitor,8,Nuclei_Texture_Correlation_AGP_10_0,AGP,0.001226266481,-1.958708105,8
+PI3K inhibitor,8,Nuclei_Texture_Correlation_AGP_5_0,AGP,0.001164468273,-1.754141083,8
+PI3K inhibitor,8,Nuclei_Texture_InfoMeas2_AGP_10_0,AGP,0.001105924043,-1.77289716,8
+PI3K inhibitor,8,Cells_Granularity_2_ER,ER,0.001085281404,1.729770802,8
+PI3K inhibitor,8,Nuclei_Texture_InfoMeas2_AGP_5_0,AGP,0.000985371681,-1.620807558,8
+PI3K inhibitor,8,Nuclei_Texture_InfoMeas2_ER_10_0,ER,0.0008903908452,-1.64222535,8
+PI3K inhibitor,8,Nuclei_Texture_DifferenceVariance_DNA_10_0,DNA,0.0008570928079,1.228396409,8
+PI3K inhibitor,8,Nuclei_Texture_InfoMeas1_ER_20_0,ER,0.0008047521099,1.223851808,8
+PKC inhibitor,5,Nuclei_Neighbors_NumberOfNeighbors_2,shape_other,0.002769516037,2.086673235,5
+PKC inhibitor,5,Cells_AreaShape_Zernike_6_4,shape_other,0.001854633645,1.281887445,5
+PKC inhibitor,5,Cells_AreaShape_Compactness,shape_other,0.001357182639,1.165579891,5
+PKC inhibitor,5,Nuclei_AreaShape_Zernike_2_0,shape_other,0.001256902377,0.8594985869,5
+PKC inhibitor,5,Cells_AreaShape_Eccentricity,shape_other,0.001142038477,1.137646222,5
+PKC inhibitor,5,Cells_AreaShape_Zernike_4_4,shape_other,0.00112692466,1.163947916,5
+PKC inhibitor,5,Cytoplasm_AreaShape_Zernike_6_4,shape_other,0.001089002607,1.023910047,5
+PKC inhibitor,5,Cells_Texture_InfoMeas2_DNA_20_0,DNA,0.001076460262,1.236526868,5
+PKC inhibitor,5,Cytoplasm_Granularity_5_Mito,Mito,0.001040770756,-0.8257163088,5
+PKC inhibitor,5,Cells_AreaShape_Zernike_8_6,shape_other,0.001018642153,0.9558221014,5
+PLK inhibitor,5,Cells_AreaShape_Eccentricity,shape_other,0.00210360154,-3.421085036,5
+PLK inhibitor,5,Cytoplasm_Granularity_5_Mito,Mito,0.001928898344,-3.851355735,5
+PLK inhibitor,5,Nuclei_Correlation_Overlap_DNA_RNA,cross_channel,0.001876299127,-2.853224723,5
+PLK inhibitor,5,Nuclei_Correlation_Overlap_DNA_AGP,cross_channel,0.001804597403,-2.869019912,5
+PLK inhibitor,5,Nuclei_AreaShape_MinFeretDiameter,shape_other,0.001602581199,4.675756854,5
+PLK inhibitor,5,Nuclei_AreaShape_Perimeter,shape_other,0.001513310231,4.526419902,5
+PLK inhibitor,5,Cytoplasm_AreaShape_Eccentricity,shape_other,0.001467614627,-2.917352543,5
+PLK inhibitor,5,Nuclei_AreaShape_Zernike_2_2,shape_other,0.001454883765,-4.652368956,5
+PLK inhibitor,5,Nuclei_AreaShape_MinorAxisLength,shape_other,0.001448370659,4.480749603,5
+PLK inhibitor,5,Cytoplasm_Granularity_4_Mito,Mito,0.001446343699,-3.390197675,5
+PPAR receptor agonist,5,Cells_Correlation_K_RNA_DNA,cross_channel,0.001620731995,0.8238268386,5
+PPAR receptor agonist,5,Nuclei_Correlation_K_RNA_DNA,cross_channel,0.001464690598,0.8417433705,5
+PPAR receptor agonist,5,Nuclei_Intensity_MADIntensity_DNA,DNA,0.00142771341,0.690109181,5
+PPAR receptor agonist,5,Cytoplasm_Correlation_K_RNA_DNA,cross_channel,0.00123302489,0.9408506991,5
+PPAR receptor agonist,5,Cells_AreaShape_Zernike_1_1,shape_other,0.000855216824,-0.5254660309,5
+PPAR receptor agonist,5,Cells_Correlation_RWC_RNA_ER,cross_channel,0.0008549646263,-0.8025982478,5
+PPAR receptor agonist,5,Cells_Correlation_K_ER_DNA,cross_channel,0.0008504513589,0.5681253627,5
+PPAR receptor agonist,5,Nuclei_Correlation_K_DNA_RNA,cross_channel,0.0008131630572,-0.6215779825,5
+PPAR receptor agonist,5,Cells_Correlation_K_DNA_RNA,cross_channel,0.0007704814326,-0.5896612324,5
+PPAR receptor agonist,5,Cytoplasm_Correlation_K_DNA_RNA,cross_channel,0.0007475241744,-0.7432152159,5
+RAF inhibitor,6,Cells_AreaShape_Zernike_8_8,shape_other,0.001868387242,1.364154499,6
+RAF inhibitor,6,Cells_AreaShape_Zernike_6_6,shape_other,0.001488330314,1.318019506,6
+RAF inhibitor,6,Cytoplasm_Correlation_Correlation_ER_RNA,cross_channel,0.001320875254,-1.432654659,6
+RAF inhibitor,6,Cytoplasm_AreaShape_Zernike_8_8,shape_other,0.00121930216,1.052858704,6
+RAF inhibitor,6,Cells_Intensity_MassDisplacement_DNA,DNA,0.001075283813,1.499609666,6
+RAF inhibitor,6,Cytoplasm_Intensity_MassDisplacement_DNA,DNA,0.001070810635,2.582664601,6
+RAF inhibitor,6,Cells_AreaShape_Zernike_4_4,shape_other,0.001047755205,1.473587676,6
+RAF inhibitor,6,Cytoplasm_AreaShape_Zernike_6_6,shape_other,0.001035466748,1.042506812,6
+RAF inhibitor,6,Cells_AreaShape_Zernike_8_6,shape_other,0.001005310112,1.241607422,6
+RAF inhibitor,6,Cells_AreaShape_Zernike_6_4,shape_other,0.0009510722052,1.359169657,6
+RNA polymerase inhibitor,7,Cytoplasm_AreaShape_Zernike_7_3,shape_other,0.001048019872,1.416220384,7
+RNA polymerase inhibitor,7,Cytoplasm_AreaShape_Zernike_6_2,shape_other,0.0009065321019,0.9257901509,7
+RNA polymerase inhibitor,7,Cytoplasm_Texture_DifferenceEntropy_Mito_20_0,Mito,0.0007474034951,1.093336605,7
+RNA polymerase inhibitor,7,Cells_AreaShape_Zernike_5_1,shape_other,0.0007304809235,0.5703996741,7
+RNA polymerase inhibitor,7,Cytoplasm_Texture_Contrast_Mito_20_0,Mito,0.0007183315247,1.164761633,7
+RNA polymerase inhibitor,7,Cytoplasm_Granularity_5_Mito,Mito,0.0006913791976,0.8538074086,7
+RNA polymerase inhibitor,7,Cytoplasm_Texture_DifferenceVariance_Mito_20_0,Mito,0.0006802377589,1.198046271,7
+RNA polymerase inhibitor,7,Cells_Texture_DifferenceEntropy_Mito_20_0,Mito,0.0006695077735,1.147852544,7
+RNA polymerase inhibitor,7,Cells_AreaShape_Zernike_1_1,shape_other,0.0006219350795,0.4001610323,7
+RNA polymerase inhibitor,7,Cells_Correlation_RWC_DNA_RNA,cross_channel,0.000599977357,-0.8342474558,7
+acetylcholine receptor agonist,8,Cells_AreaShape_Zernike_4_4,shape_other,0.0006790704102,0.5494091612,8
+acetylcholine receptor agonist,8,Cells_AreaShape_Zernike_8_8,shape_other,0.0005957498615,0.5745452596,8
+acetylcholine receptor agonist,8,Nuclei_Texture_DifferenceVariance_ER_10_0,ER,0.0004779067789,-0.4898337516,8
+acetylcholine receptor agonist,8,Cytoplasm_AreaShape_Zernike_8_8,shape_other,0.0004653935464,0.5225919489,8
+acetylcholine receptor agonist,8,Nuclei_Correlation_K_Mito_RNA,cross_channel,0.0004630859,0.8495133364,8
+acetylcholine receptor agonist,8,Nuclei_Texture_DifferenceEntropy_Mito_10_0,Mito,0.0004449947617,-0.4130822163,8
+acetylcholine receptor agonist,8,Cytoplasm_AreaShape_Zernike_4_4,shape_other,0.0004287660546,0.4202588574,8
+acetylcholine receptor agonist,8,Cells_AreaShape_Zernike_9_3,shape_other,0.0004107817685,-0.3684087676,8
+acetylcholine receptor agonist,8,Nuclei_Texture_DifferenceVariance_RNA_10_0,RNA,0.0003869731427,0.6314502582,8
+acetylcholine receptor agonist,8,Nuclei_Texture_DifferenceVariance_RNA_20_0,RNA,0.0003697149718,0.5592056583,8
+acetylcholine receptor antagonist,20,Nuclei_Neighbors_NumberOfNeighbors_2,shape_other,0.0003425935085,-0.291274042,20
+acetylcholine receptor antagonist,20,Cytoplasm_AreaShape_Zernike_7_3,shape_other,0.0003226422408,0.466145719,20
+acetylcholine receptor antagonist,20,Cells_AreaShape_Zernike_8_0,shape_other,0.0003184841374,-0.3108436145,20
+acetylcholine receptor antagonist,20,Nuclei_AreaShape_Zernike_9_3,shape_other,0.0003139204504,0.4748278265,20
+acetylcholine receptor antagonist,20,Cells_Neighbors_NumberOfNeighbors_10,shape_other,0.0002863363603,0.5666084173,20
+acetylcholine receptor antagonist,20,Cytoplasm_Correlation_Overlap_ER_RNA,cross_channel,0.0002545110899,-0.6162710492,20
+acetylcholine receptor antagonist,20,Cells_AreaShape_Zernike_9_3,shape_other,0.0002321468488,-0.1826509918,20
+acetylcholine receptor antagonist,20,Cells_RadialDistribution_RadialCV_Mito_3of4,Mito,0.0001967529698,-0.3724957828,20
+acetylcholine receptor antagonist,20,Cells_Granularity_2_Mito,Mito,0.0001743784673,-0.4635427697,20
+acetylcholine receptor antagonist,20,Cytoplasm_RadialDistribution_RadialCV_Mito_4of4,Mito,0.0001709069567,-0.5288289787,20
+adenosine receptor antagonist,5,Cells_AreaShape_Zernike_9_3,shape_other,0.001536979731,-0.6435248859,5
+adenosine receptor antagonist,5,Cytoplasm_Correlation_Correlation_ER_AGP,cross_channel,0.001012580165,-0.6598452788,5
+adenosine receptor antagonist,5,Cells_AreaShape_Zernike_8_2,shape_other,0.0007896442676,-0.6096766108,5
+adenosine receptor antagonist,5,Cytoplasm_Texture_Gabor_ER_20,ER,0.0005131895747,0.7084471074,5
+adenosine receptor antagonist,5,Cytoplasm_Texture_Gabor_AGP_20,AGP,0.0004973041378,0.7693483091,5
+adenosine receptor antagonist,5,Cytoplasm_Texture_Gabor_ER_10,ER,0.0004949080705,0.6832997284,5
+adenosine receptor antagonist,5,Cytoplasm_Texture_Gabor_ER_5,ER,0.0004381234526,0.667558611,5
+adenosine receptor antagonist,5,Cytoplasm_Texture_Gabor_AGP_10,AGP,0.0003895186385,0.711140466,5
+adenosine receptor antagonist,5,Cytoplasm_Correlation_Overlap_ER_AGP,cross_channel,0.0003286020944,-0.3776526952,5
+adenosine receptor antagonist,5,Cells_Intensity_MassDisplacement_ER,ER,0.0003280760703,-0.5150462785,5
+adrenergic receptor agonist,21,Nuclei_AreaShape_Orientation,shape_other,0.0009536399098,0.5362495638,21
+adrenergic receptor agonist,21,Cells_AreaShape_Orientation,shape_other,0.0007084536038,0.4142374807,21
+adrenergic receptor agonist,21,Cytoplasm_Correlation_Correlation_ER_RNA,cross_channel,0.0004505750097,-0.6021549552,21
+adrenergic receptor agonist,21,Cytoplasm_Correlation_Correlation_RNA_AGP,cross_channel,0.0003402712506,-0.629917632,21
+adrenergic receptor agonist,21,Cytoplasm_Correlation_Correlation_ER_AGP,cross_channel,0.0003268319051,-0.3690544211,21
+adrenergic receptor agonist,21,Cells_Neighbors_NumberOfNeighbors_10,shape_other,0.0003250587119,0.677510638,21
+adrenergic receptor agonist,21,Cells_Correlation_Correlation_ER_RNA,cross_channel,0.0003073922625,-0.5925676814,21
+adrenergic receptor agonist,21,Cells_AreaShape_Zernike_9_1,shape_other,0.0002427022093,-0.4583479628,21
+adrenergic receptor agonist,21,Cytoplasm_AreaShape_Orientation,shape_other,0.0002355284354,0.3302623388,21
+adrenergic receptor agonist,21,Cells_AreaShape_Zernike_9_5,shape_other,0.0002180512701,0.3945905344,21
+adrenergic receptor antagonist,31,Nuclei_Correlation_Costes_Mito_DNA,cross_channel,0.0006678735846,-0.5139457685,31
+adrenergic receptor antagonist,31,Cells_Neighbors_PercentTouching_Adjacent,shape_other,0.0001653585912,0.5111373287,31
+adrenergic receptor antagonist,31,Cytoplasm_Correlation_Overlap_ER_RNA,cross_channel,0.0001463574728,-0.5259521539,31
+adrenergic receptor antagonist,31,Cytoplasm_AreaShape_Orientation,shape_other,0.0001236055899,0.08851814449,31
+adrenergic receptor antagonist,31,Cells_AreaShape_Orientation,shape_other,0.0001152623504,0.003679590145,31
+adrenergic receptor antagonist,31,Cytoplasm_Correlation_Overlap_ER_AGP,cross_channel,0.0001146305356,-0.3528326013,31
+adrenergic receptor antagonist,31,Cytoplasm_AreaShape_Zernike_5_5,shape_other,0.0001054331741,0.4167830439,31
+adrenergic receptor antagonist,31,Cytoplasm_AreaShape_Zernike_9_3,shape_other,0.0001027529868,-0.1748819996,31
+adrenergic receptor antagonist,31,Cells_AreaShape_Zernike_5_5,shape_other,9.675501404e-05,0.4543787997,31
+adrenergic receptor antagonist,31,Cells_AreaShape_Zernike_8_4,shape_other,9.234486835e-05,0.2459454096,31
+androgen receptor antagonist,7,Cells_AreaShape_Orientation,shape_other,0.0009417507411,0.4861004189,7
+androgen receptor antagonist,7,Cytoplasm_AreaShape_Zernike_5_1,shape_other,0.0008109566384,0.5950431306,7
+androgen receptor antagonist,7,Cytoplasm_AreaShape_Zernike_6_2,shape_other,0.0007392790483,0.5810781806,7
+androgen receptor antagonist,7,Cytoplasm_Intensity_MassDisplacement_RNA,RNA,0.0006200859843,-0.6836463021,7
+androgen receptor antagonist,7,Cytoplasm_Intensity_MassDisplacement_AGP,AGP,0.0005858269053,-0.6260136532,7
+androgen receptor antagonist,7,Cells_AreaShape_Zernike_9_1,shape_other,0.0005435340532,-0.2767647307,7
+androgen receptor antagonist,7,Cells_RadialDistribution_RadialCV_RNA_4of4,RNA,0.0004207991399,-0.5430140976,7
+androgen receptor antagonist,7,Nuclei_Intensity_LowerQuartileIntensity_AGP,AGP,0.0004121950178,-0.5912995627,7
+androgen receptor antagonist,7,Cytoplasm_Texture_InfoMeas1_DNA_5_0,DNA,0.0003989683532,0.4818246314,7
+androgen receptor antagonist,7,Nuclei_Neighbors_NumberOfNeighbors_2,shape_other,0.0003921855946,-0.2922705603,7
+androgen receptor modulator,6,Cells_AreaShape_Zernike_1_1,shape_other,0.0004196376676,0.4906615375,6
+androgen receptor modulator,6,Nuclei_Correlation_Correlation_DNA_AGP,cross_channel,0.0004073521625,-0.7812864032,6
+androgen receptor modulator,6,Cells_Correlation_Correlation_ER_AGP,cross_channel,0.0003788803248,0.5008350078,6
+androgen receptor modulator,6,Cells_Correlation_Correlation_DNA_AGP,cross_channel,0.000368087793,-0.7717022887,6
+androgen receptor modulator,6,Cells_RadialDistribution_RadialCV_AGP_3of4,AGP,0.000348015362,-0.7415981264,6
+androgen receptor modulator,6,Nuclei_Intensity_MinIntensityEdge_AGP,AGP,0.0003319276256,-0.4731906767,6
+androgen receptor modulator,6,Nuclei_Intensity_MinIntensity_AGP,AGP,0.0003303733624,-0.4722855988,6
+androgen receptor modulator,6,Nuclei_Granularity_3_AGP,AGP,0.0003241642706,0.5566688267,6
+androgen receptor modulator,6,Nuclei_Intensity_MeanIntensityEdge_AGP,AGP,0.0002846014677,-0.5142297402,6
+androgen receptor modulator,6,Nuclei_Intensity_LowerQuartileIntensity_AGP,AGP,0.0002587358481,-0.6395340753,6
+angiotensin converting enzyme inhibitor,10,Cells_AreaShape_Zernike_7_1,shape_other,0.0006904833856,-0.6493252335,10
+angiotensin converting enzyme inhibitor,10,Nuclei_AreaShape_Zernike_3_1,shape_other,0.0006861551775,0.7399838073,10
+angiotensin converting enzyme inhibitor,10,Nuclei_Granularity_13_Mito,Mito,0.0006699206215,-0.7132223905,10
+angiotensin converting enzyme inhibitor,10,Nuclei_Granularity_13_ER,ER,0.000659812217,-0.9021263593,10
+angiotensin converting enzyme inhibitor,10,Nuclei_AreaShape_Zernike_5_3,shape_other,0.0005620138477,0.8009377885,10
+angiotensin converting enzyme inhibitor,10,Nuclei_AreaShape_Zernike_5_5,shape_other,0.000548967068,0.5598358181,10
+angiotensin converting enzyme inhibitor,10,Cells_Granularity_13_ER,ER,0.0005464516929,-0.8215070077,10
+angiotensin converting enzyme inhibitor,10,Nuclei_AreaShape_Zernike_9_7,shape_other,0.000544143944,0.6413330896,10
+angiotensin converting enzyme inhibitor,10,Nuclei_AreaShape_Zernike_1_1,shape_other,0.0005399916956,0.7025155696,10
+angiotensin converting enzyme inhibitor,10,Nuclei_AreaShape_Zernike_3_3,shape_other,0.0005352062124,0.6280550825,10
+angiotensin receptor antagonist,6,Cells_AreaShape_Orientation,shape_other,0.001468777238,0.5869059916,6
+angiotensin receptor antagonist,6,Cytoplasm_Texture_InfoMeas2_AGP_20_0,AGP,0.0007789882357,-0.5991243587,6
+angiotensin receptor antagonist,6,Cytoplasm_AreaShape_Orientation,shape_other,0.0007271905023,0.4520888812,6
+angiotensin receptor antagonist,6,Cytoplasm_Texture_InfoMeas2_AGP_10_0,AGP,0.0006605424121,-0.51890706,6
+angiotensin receptor antagonist,6,Cytoplasm_Texture_InfoMeas2_AGP_5_0,AGP,0.0005955509095,-0.5551162604,6
+angiotensin receptor antagonist,6,Cytoplasm_Texture_SumVariance_AGP_10_0,AGP,0.0005559603695,-0.5406210667,6
+angiotensin receptor antagonist,6,Cells_AreaShape_Zernike_9_3,shape_other,0.0004877964985,-0.5134319336,6
+angiotensin receptor antagonist,6,Cytoplasm_Texture_SumEntropy_AGP_20_0,AGP,0.0004809613779,-0.5398479626,6
+angiotensin receptor antagonist,6,Cytoplasm_Texture_SumVariance_AGP_5_0,AGP,0.0004738907626,-0.5029110232,6
+angiotensin receptor antagonist,6,Cytoplasm_Texture_SumVariance_AGP_20_0,AGP,0.0004664066564,-0.5151112221,6
+aromatase inhibitor,5,Cells_AreaShape_Zernike_9_1,shape_other,0.001763028136,-0.6036750319,5
+aromatase inhibitor,5,Cytoplasm_AreaShape_Zernike_6_2,shape_other,0.001305708513,0.7224926532,5
+aromatase inhibitor,5,Nuclei_Texture_Entropy_DNA_20_0,DNA,0.001183134416,0.6361511231,5
+aromatase inhibitor,5,Nuclei_Texture_SumEntropy_DNA_10_0,DNA,0.001064558504,0.5268777868,5
+aromatase inhibitor,5,Nuclei_Texture_AngularSecondMoment_DNA_20_0,DNA,0.001006756864,-0.5976532623,5
+aromatase inhibitor,5,Nuclei_Texture_InfoMeas2_DNA_20_0,DNA,0.0009890341033,0.6850919799,5
+aromatase inhibitor,5,Cytoplasm_Texture_InfoMeas2_AGP_20_0,AGP,0.0008999895516,-0.8463182447,5
+aromatase inhibitor,5,Cytoplasm_Texture_InfoMeas2_AGP_5_0,AGP,0.0008944588598,-0.8432488973,5
+aromatase inhibitor,5,Nuclei_Texture_SumEntropy_DNA_5_0,DNA,0.0007805883359,0.5440665761,5
+aromatase inhibitor,5,Cytoplasm_AreaShape_Zernike_5_1,shape_other,0.0007513198983,0.6460635047,5
+bacterial 50S ribosomal subunit inhibitor,6,Cytoplasm_AreaShape_Zernike_9_3,shape_other,0.001495062037,0.6820488198,6
+bacterial 50S ribosomal subunit inhibitor,6,Cells_AreaShape_Zernike_9_5,shape_other,0.0009576164182,0.6244039094,6
+bacterial 50S ribosomal subunit inhibitor,6,Nuclei_AreaShape_Orientation,shape_other,0.0007498651418,0.6066564692,6
+bacterial 50S ribosomal subunit inhibitor,6,Cytoplasm_AreaShape_Zernike_9_5,shape_other,0.0005516650833,0.4912718525,6
+bacterial 50S ribosomal subunit inhibitor,6,Cells_AreaShape_Zernike_8_8,shape_other,0.0005479105775,0.5751794429,6
+bacterial 50S ribosomal subunit inhibitor,6,Cytoplasm_AreaShape_Zernike_6_6,shape_other,0.000444083623,0.5461493861,6
+bacterial 50S ribosomal subunit inhibitor,6,Cytoplasm_Correlation_Correlation_ER_RNA,cross_channel,0.000434979579,-0.8279950505,6
+bacterial 50S ribosomal subunit inhibitor,6,Nuclei_AreaShape_Zernike_4_4,shape_other,0.0004247629452,0.5136728019,6
+bacterial 50S ribosomal subunit inhibitor,6,Cells_AreaShape_Zernike_6_0,shape_other,0.0004023352876,-0.3867197173,6
+bacterial 50S ribosomal subunit inhibitor,6,Cells_Correlation_Overlap_ER_AGP,cross_channel,0.0003629109006,0.5298299169,6
+bacterial DNA gyrase inhibitor,10,Cytoplasm_Texture_Variance_RNA_5_0,RNA,0.000775506946,-0.6178689256,10
+bacterial DNA gyrase inhibitor,10,Cytoplasm_Texture_Variance_RNA_10_0,RNA,0.0007322598276,-0.6261251893,10
+bacterial DNA gyrase inhibitor,10,Cytoplasm_Texture_Variance_RNA_20_0,RNA,0.00070459667,-0.6292670899,10
+bacterial DNA gyrase inhibitor,10,Cytoplasm_Texture_SumVariance_RNA_5_0,RNA,0.0006765530221,-0.5498723901,10
+bacterial DNA gyrase inhibitor,10,Cytoplasm_Texture_SumVariance_RNA_10_0,RNA,0.0006437680465,-0.5276437722,10
+bacterial DNA gyrase inhibitor,10,Cytoplasm_Texture_SumVariance_RNA_20_0,RNA,0.0005533832642,-0.5093818678,10
+bacterial DNA gyrase inhibitor,10,Cells_Correlation_Overlap_Mito_ER,cross_channel,0.0005390846416,-0.3367068676,10
+bacterial DNA gyrase inhibitor,10,Cytoplasm_Correlation_Overlap_Mito_ER,cross_channel,0.0005313392598,-0.291810286,10
+bacterial DNA gyrase inhibitor,10,Cytoplasm_Correlation_Correlation_Mito_RNA,cross_channel,0.0004646151107,-0.4507945958,10
+bacterial DNA gyrase inhibitor,10,Cytoplasm_AreaShape_Zernike_9_3,shape_other,0.000454399656,-0.2839118855,10
+bacterial cell wall synthesis inhibitor,14,Nuclei_Intensity_MeanIntensityEdge_AGP,AGP,0.0004746608257,-0.7516095882,14
+bacterial cell wall synthesis inhibitor,14,Cells_Intensity_MaxIntensity_AGP,AGP,0.0004418048433,-0.5719120407,14
+bacterial cell wall synthesis inhibitor,14,Nuclei_Intensity_MaxIntensity_AGP,AGP,0.0003908115697,-0.539970398,14
+bacterial cell wall synthesis inhibitor,14,Cells_Intensity_MeanIntensity_AGP,AGP,0.0002874658634,-0.5853907885,14
+bacterial cell wall synthesis inhibitor,14,Nuclei_Intensity_MeanIntensity_AGP,AGP,0.0002805201701,-0.6415711308,14
+bacterial cell wall synthesis inhibitor,14,Nuclei_Intensity_LowerQuartileIntensity_AGP,AGP,0.0002795765348,-0.6697620726,14
+bacterial cell wall synthesis inhibitor,14,Cells_Intensity_UpperQuartileIntensity_AGP,AGP,0.0002574358335,-0.5261255849,14
+bacterial cell wall synthesis inhibitor,14,Nuclei_Intensity_MinIntensity_AGP,AGP,0.0002478037027,-0.6053877626,14
+bacterial cell wall synthesis inhibitor,14,Nuclei_Intensity_IntegratedIntensityEdge_AGP,AGP,0.0002461613914,-0.6023202559,14
+bacterial cell wall synthesis inhibitor,14,Nuclei_Intensity_MinIntensityEdge_AGP,AGP,0.0002460984073,-0.6041903673,14
+benzodiazepine receptor agonist,6,Cytoplasm_AreaShape_Zernike_9_3,shape_other,0.0005373344709,0.882458794,6
+benzodiazepine receptor agonist,6,Nuclei_Granularity_2_AGP,AGP,0.0005170221512,0.5532820971,6
+benzodiazepine receptor agonist,6,Nuclei_Granularity_3_ER,ER,0.0004233644635,1.055999471,6
+benzodiazepine receptor agonist,6,Cytoplasm_Correlation_Overlap_ER_AGP,cross_channel,0.0003782352288,-0.4534087233,6
+benzodiazepine receptor agonist,6,Cytoplasm_Correlation_Correlation_Mito_ER,cross_channel,0.0003539419687,0.6730601341,6
+benzodiazepine receptor agonist,6,Cytoplasm_RadialDistribution_MeanFrac_Mito_3of4,Mito,0.0003119630474,0.5944344866,6
+benzodiazepine receptor agonist,6,Cells_Granularity_2_ER,ER,0.0002431899423,0.7873758566,6
+benzodiazepine receptor agonist,6,Nuclei_Granularity_3_AGP,AGP,0.0002299437544,0.6989116412,6
+benzodiazepine receptor agonist,6,Cells_Texture_InfoMeas2_DNA_20_0,DNA,0.0002270830787,-0.8145143611,6
+benzodiazepine receptor agonist,6,Cells_Texture_InfoMeas2_Mito_5_0,Mito,0.0001906598627,0.5763906488,6
+calcium channel blocker,16,Cells_AreaShape_Zernike_7_1,shape_other,0.000887183902,-0.496437117,16
+calcium channel blocker,16,Cells_AreaShape_Zernike_1_1,shape_other,0.0001235486564,-0.3029289322,16
+calcium channel blocker,16,Cells_AreaShape_Zernike_9_1,shape_other,0.0001156311581,-0.1637845892,16
+calcium channel blocker,16,Cytoplasm_Correlation_K_AGP_ER,cross_channel,8.594122091e-05,0.2354445985,16
+calcium channel blocker,16,Nuclei_Neighbors_PercentTouching_2,shape_other,7.491155328e-05,-0.1755306381,16
+calcium channel blocker,16,Cells_AreaShape_Zernike_9_3,shape_other,6.854603985e-05,-0.1680862279,16
+calcium channel blocker,16,Nuclei_Texture_DifferenceVariance_Mito_20_0,Mito,6.209674627e-05,-0.2555384617,16
+calcium channel blocker,16,Nuclei_Granularity_9_DNA,DNA,6.164390606e-05,-0.3820558012,16
+calcium channel blocker,16,Cytoplasm_AreaShape_Zernike_6_2,shape_other,6.114171755e-05,0.3468276156,16
+calcium channel blocker,16,Nuclei_Granularity_8_DNA,DNA,5.171947325e-05,-0.4047949618,16
+carbonic anhydrase inhibitor,6,Cells_AreaShape_Zernike_8_0,shape_other,0.001090346091,-0.6633709478,6
+carbonic anhydrase inhibitor,6,Nuclei_Intensity_MinIntensityEdge_DNA,DNA,0.0008494295229,0.9368313124,6
+carbonic anhydrase inhibitor,6,Nuclei_Intensity_MinIntensity_DNA,DNA,0.0008493924831,0.9367440168,6
+carbonic anhydrase inhibitor,6,Cells_Correlation_Correlation_DNA_AGP,cross_channel,0.0007529045901,-0.958645549,6
+carbonic anhydrase inhibitor,6,Cytoplasm_Intensity_StdIntensityEdge_DNA,DNA,0.0007258881807,0.9251731476,6
+carbonic anhydrase inhibitor,6,Cytoplasm_Intensity_MinIntensityEdge_Mito,Mito,0.000725651294,-0.5841793676,6
+carbonic anhydrase inhibitor,6,Nuclei_Texture_AngularSecondMoment_AGP_5_0,AGP,0.0006595031136,0.9698958139,6
+carbonic anhydrase inhibitor,6,Cells_Intensity_MinIntensityEdge_Mito,Mito,0.0006571981541,-0.5593761621,6
+carbonic anhydrase inhibitor,6,Cells_Correlation_K_Mito_DNA,cross_channel,0.0006546160532,1.054147451,6
+carbonic anhydrase inhibitor,6,Nuclei_Texture_AngularSecondMoment_AGP_20_0,AGP,0.0006488647045,0.9374345896,6
+coagulation factor inhibitor,5,Cells_AreaShape_Zernike_8_4,shape_other,0.000783384025,0.60536496,5
+coagulation factor inhibitor,5,Cytoplasm_Granularity_2_Mito,Mito,0.0006142562807,-0.6728080357,5
+coagulation factor inhibitor,5,Cells_Granularity_2_Mito,Mito,0.000551533574,-0.8114970764,5
+coagulation factor inhibitor,5,Nuclei_AreaShape_Zernike_7_1,shape_other,0.0005357264398,0.5071621594,5
+coagulation factor inhibitor,5,Nuclei_Correlation_Overlap_RNA_AGP,cross_channel,0.0005239866106,0.6785598477,5
+coagulation factor inhibitor,5,Cytoplasm_Correlation_Overlap_RNA_AGP,cross_channel,0.000493135814,0.8730769169,5
+coagulation factor inhibitor,5,Cells_Correlation_Overlap_RNA_AGP,cross_channel,0.0004682825736,0.6673413899,5
+coagulation factor inhibitor,5,Nuclei_Texture_InfoMeas2_Mito_20_0,Mito,0.0004647675071,0.4548043808,5
+coagulation factor inhibitor,5,Cytoplasm_Correlation_K_AGP_ER,cross_channel,0.0004360617901,0.7189443728,5
+coagulation factor inhibitor,5,Nuclei_Texture_Correlation_Mito_20_0,Mito,0.0004300290896,0.6028311765,5
+cyclooxygenase inhibitor,29,Nuclei_Neighbors_NumberOfNeighbors_2,shape_other,0.0004794572764,-0.2910668858,29
+cyclooxygenase inhibitor,29,Nuclei_Texture_DifferenceVariance_Mito_20_0,Mito,0.0002536403057,-0.3165649528,29
+cyclooxygenase inhibitor,29,Nuclei_Neighbors_AngleBetweenNeighbors_2,shape_other,0.0001967514187,0.4582315372,29
+cyclooxygenase inhibitor,29,Nuclei_Texture_DifferenceEntropy_Mito_20_0,Mito,0.0001742341284,-0.277744825,29
+cyclooxygenase inhibitor,29,Nuclei_Texture_InfoMeas2_AGP_20_0,AGP,0.0001648425269,-0.3978888273,29
+cyclooxygenase inhibitor,29,Cytoplasm_AreaShape_Zernike_5_1,shape_other,0.0001564079794,0.4487155424,29
+cyclooxygenase inhibitor,29,Nuclei_RadialDistribution_RadialCV_DNA_4of4,DNA,0.0001516323207,-0.3379710604,29
+cyclooxygenase inhibitor,29,Nuclei_Texture_DifferenceEntropy_ER_20_0,ER,0.0001388756325,-0.4446692695,29
+cyclooxygenase inhibitor,29,Cells_AreaShape_Zernike_9_5,shape_other,0.0001381147364,0.3239388677,29
+cyclooxygenase inhibitor,29,Cells_Neighbors_NumberOfNeighbors_10,shape_other,0.0001339847231,0.4732650676,29
+cytochrome P450 inhibitor,5,Cytoplasm_AreaShape_FormFactor,shape_other,0.002254803082,1.286097804,5
+cytochrome P450 inhibitor,5,Cells_AreaShape_FormFactor,shape_other,0.001628282405,0.965028415,5
+cytochrome P450 inhibitor,5,Cytoplasm_Intensity_MADIntensity_RNA,RNA,0.001035494259,1.267323169,5
+cytochrome P450 inhibitor,5,Cytoplasm_RadialDistribution_FracAtD_DNA_1of4,DNA,0.0009292688116,0.7332684194,5
+cytochrome P450 inhibitor,5,Cytoplasm_AreaShape_Zernike_6_6,shape_other,0.0008207550763,0.8723657385,5
+cytochrome P450 inhibitor,5,Cells_AreaShape_Zernike_6_6,shape_other,0.0007740497151,0.8772395334,5
+cytochrome P450 inhibitor,5,Cytoplasm_RadialDistribution_FracAtD_DNA_2of4,DNA,0.0007644373996,0.6694420385,5
+cytochrome P450 inhibitor,5,Cells_AreaShape_Zernike_4_4,shape_other,0.0007484767093,0.8874901638,5
+cytochrome P450 inhibitor,5,Nuclei_Granularity_5_DNA,DNA,0.0006864042672,1.280837592,5
+cytochrome P450 inhibitor,5,Cytoplasm_Intensity_StdIntensity_ER,ER,0.0006623902994,1.113615774,5
+dipeptidyl peptidase inhibitor,5,Cells_AreaShape_Zernike_8_4,shape_other,0.001146565796,0.4851216704,5
+dipeptidyl peptidase inhibitor,5,Cells_AreaShape_Zernike_9_1,shape_other,0.0006832279041,-0.3558661313,5
+dipeptidyl peptidase inhibitor,5,Nuclei_AreaShape_Zernike_9_3,shape_other,0.0006194901088,0.6096901949,5
+dipeptidyl peptidase inhibitor,5,Nuclei_Texture_InverseDifferenceMoment_Mito_5_0,Mito,0.0005518213268,0.5096696977,5
+dipeptidyl peptidase inhibitor,5,Nuclei_AreaShape_Zernike_5_1,shape_other,0.0004613755642,0.6113253142,5
+dipeptidyl peptidase inhibitor,5,Nuclei_Texture_Entropy_Mito_5_0,Mito,0.0003953013707,-0.4402898141,5
+dipeptidyl peptidase inhibitor,5,Cytoplasm_AreaShape_Eccentricity,shape_other,0.0003865626369,0.282594616,5
+dipeptidyl peptidase inhibitor,5,Cytoplasm_AreaShape_Zernike_8_4,shape_other,0.0003735165924,0.3312276606,5
+dipeptidyl peptidase inhibitor,5,Cytoplasm_AreaShape_Zernike_9_3,shape_other,0.0003713291637,0.2906513508,5
+dipeptidyl peptidase inhibitor,5,Nuclei_Texture_Variance_Mito_20_0,Mito,0.0003185055203,-0.4220243169,5
+dopamine receptor agonist,12,Cells_AreaShape_Zernike_8_0,shape_other,0.0002610687338,-0.4833774545,12
+dopamine receptor agonist,12,Nuclei_Intensity_MinIntensity_ER,ER,0.0002265423629,0.8423315273,12
+dopamine receptor agonist,12,Nuclei_Texture_Gabor_AGP_5,AGP,0.0002086909643,0.7768241204,12
+dopamine receptor agonist,12,Cytoplasm_RadialDistribution_RadialCV_DNA_3of4,DNA,0.0002062849339,-0.6855288258,12
+dopamine receptor agonist,12,Cytoplasm_RadialDistribution_MeanFrac_AGP_2of4,AGP,0.0001921215202,-0.5400205913,12
+dopamine receptor agonist,12,Cytoplasm_RadialDistribution_MeanFrac_AGP_1of4,AGP,0.0001840226792,-0.5214171097,12
+dopamine receptor agonist,12,Cytoplasm_RadialDistribution_RadialCV_DNA_2of4,DNA,0.0001413231074,-0.6865251686,12
+dopamine receptor agonist,12,Nuclei_Texture_InfoMeas2_AGP_20_0,AGP,0.0001394298737,-0.374919015,12
+dopamine receptor agonist,12,Cytoplasm_Texture_InfoMeas2_AGP_20_0,AGP,0.0001391694476,-0.3349978971,12
+dopamine receptor agonist,12,Cells_RadialDistribution_FracAtD_AGP_3of4,AGP,0.0001390115029,-0.456961743,12
+dopamine receptor antagonist,22,Cytoplasm_AreaShape_FormFactor,shape_other,0.0008516224294,0.8389508316,22
+dopamine receptor antagonist,22,Nuclei_AreaShape_Zernike_6_4,shape_other,0.0005661935961,0.7913580172,22
+dopamine receptor antagonist,22,Cells_RadialDistribution_RadialCV_DNA_1of4,DNA,0.0004999453965,0.6643300306,22
+dopamine receptor antagonist,22,Nuclei_AreaShape_Zernike_8_8,shape_other,0.0004816270307,-0.657733651,22
+dopamine receptor antagonist,22,Nuclei_Granularity_6_DNA,DNA,0.0004398203242,0.6129031907,22
+dopamine receptor antagonist,22,Nuclei_AreaShape_Zernike_7_7,shape_other,0.0004391259723,-0.6258518698,22
+dopamine receptor antagonist,22,Nuclei_AreaShape_Zernike_6_6,shape_other,0.0004382248037,-0.6325594521,22
+dopamine receptor antagonist,22,Cells_RadialDistribution_RadialCV_DNA_2of4,DNA,0.0004078733682,0.5950714084,22
+dopamine receptor antagonist,22,Cytoplasm_RadialDistribution_RadialCV_ER_1of4,ER,0.0003691464574,1.007614009,22
+dopamine receptor antagonist,22,Nuclei_AreaShape_Zernike_9_9,shape_other,0.0003584759839,-0.5810881326,22
+dopamine reuptake inhibitor,5,Nuclei_Texture_DifferenceVariance_Mito_10_0,Mito,0.0007694780321,-0.7099157796,5
+dopamine reuptake inhibitor,5,Cells_AreaShape_Zernike_7_1,shape_other,0.000696242315,0.615341703,5
+dopamine reuptake inhibitor,5,Cytoplasm_AreaShape_Zernike_8_4,shape_other,0.0006721779324,-0.5506769628,5
+dopamine reuptake inhibitor,5,Cytoplasm_AreaShape_Zernike_6_6,shape_other,0.00061508918,0.7151931297,5
+dopamine reuptake inhibitor,5,Cells_AreaShape_Zernike_8_8,shape_other,0.0006103028063,0.6736085263,5
+dopamine reuptake inhibitor,5,Cells_AreaShape_Zernike_9_3,shape_other,0.0005214774124,-0.1009772788,5
+dopamine reuptake inhibitor,5,Cells_Texture_Contrast_Mito_5_0,Mito,0.000504562526,-0.5195989082,5
+dopamine reuptake inhibitor,5,Cytoplasm_Texture_DifferenceVariance_Mito_10_0,Mito,0.0004730538366,-0.6628266494,5
+dopamine reuptake inhibitor,5,Cells_Texture_DifferenceEntropy_Mito_5_0,Mito,0.0004637176579,-0.5293719905,5
+dopamine reuptake inhibitor,5,Nuclei_Texture_Gabor_DNA_5,DNA,0.0004477384839,0.4823668539,5
+estrogen receptor agonist,7,Nuclei_AreaShape_Zernike_6_6,shape_other,0.001869571787,-0.6622489729,7
+estrogen receptor agonist,7,Nuclei_Texture_Gabor_Mito_20,Mito,0.001387746334,-0.8905785302,7
+estrogen receptor agonist,7,Nuclei_AreaShape_Zernike_8_8,shape_other,0.001124564057,-0.5321402502,7
+estrogen receptor agonist,7,Nuclei_Texture_Gabor_ER_20,ER,0.000942025511,-0.7133447754,7
+estrogen receptor agonist,7,Nuclei_RadialDistribution_RadialCV_DNA_4of4,DNA,0.0008449630422,-0.7595000127,7
+estrogen receptor agonist,7,Nuclei_AreaShape_FormFactor,shape_other,0.000841158287,0.5219742886,7
+estrogen receptor agonist,7,Nuclei_AreaShape_Zernike_7_7,shape_other,0.0006804848909,-0.4662373382,7
+estrogen receptor agonist,7,Nuclei_AreaShape_Zernike_2_0,shape_other,0.0006565425077,-0.5050894416,7
+estrogen receptor agonist,7,Cells_RadialDistribution_RadialCV_AGP_4of4,AGP,0.0006358716352,-0.5547649113,7
+estrogen receptor agonist,7,Cells_RadialDistribution_RadialCV_ER_4of4,ER,0.000604019114,-0.6098073721,7
+gamma secretase inhibitor,7,Nuclei_AreaShape_Zernike_6_4,shape_other,0.003316758032,1.061018102,7
+gamma secretase inhibitor,7,Nuclei_Intensity_MADIntensity_DNA,DNA,0.002667566543,-1.31494192,7
+gamma secretase inhibitor,7,Nuclei_AreaShape_Zernike_6_6,shape_other,0.002403881168,-0.8670992536,7
+gamma secretase inhibitor,7,Nuclei_AreaShape_Zernike_8_8,shape_other,0.002273949368,-0.8734963549,7
+gamma secretase inhibitor,7,Nuclei_AreaShape_Zernike_4_2,shape_other,0.002151418473,-0.839131572,7
+gamma secretase inhibitor,7,Nuclei_RadialDistribution_RadialCV_DNA_4of4,DNA,0.001640895052,-0.9775944307,7
+gamma secretase inhibitor,7,Nuclei_AreaShape_Zernike_7_7,shape_other,0.001588217134,-0.6791575036,7
+gamma secretase inhibitor,7,Nuclei_Intensity_StdIntensity_DNA,DNA,0.001525846694,-1.154791309,7
+gamma secretase inhibitor,7,Cells_Correlation_K_RNA_DNA,cross_channel,0.001412745909,-1.314098829,7
+gamma secretase inhibitor,7,Nuclei_Texture_InfoMeas1_DNA_20_0,DNA,0.00112042684,0.5895947469,7
+glucocorticoid receptor agonist,17,Nuclei_Texture_Contrast_Mito_5_0,Mito,0.003267616207,1.871199107,17
+glucocorticoid receptor agonist,17,Nuclei_Texture_InverseDifferenceMoment_Mito_5_0,Mito,0.003157048625,-1.822625623,17
+glucocorticoid receptor agonist,17,Nuclei_AreaShape_Zernike_5_1,shape_other,0.003104269968,-1.476424309,17
+glucocorticoid receptor agonist,17,Cytoplasm_AreaShape_Zernike_8_2,shape_other,0.0028786052,1.632480441,17
+glucocorticoid receptor agonist,17,Nuclei_Texture_DifferenceEntropy_Mito_5_0,Mito,0.002846262515,1.750477982,17
+glucocorticoid receptor agonist,17,Nuclei_AreaShape_Zernike_3_3,shape_other,0.002576216734,-1.466891476,17
+glucocorticoid receptor agonist,17,Nuclei_AreaShape_Zernike_9_7,shape_other,0.002326882823,-1.396191548,17
+glucocorticoid receptor agonist,17,Nuclei_AreaShape_Zernike_7_5,shape_other,0.002227919754,-1.368978726,17
+glucocorticoid receptor agonist,17,Cells_Correlation_RWC_RNA_ER,cross_channel,0.002197462236,1.425738128,17
+glucocorticoid receptor agonist,17,Nuclei_AreaShape_Zernike_1_1,shape_other,0.002187183578,-1.34059125,17
+glucosidase inhibitor,5,Cytoplasm_Intensity_LowerQuartileIntensity_AGP,AGP,0.001091262286,0.9251126435,5
+glucosidase inhibitor,5,Cells_Intensity_MeanIntensityEdge_AGP,AGP,0.001082128123,0.9494940013,5
+glucosidase inhibitor,5,Cytoplasm_Intensity_MeanIntensityEdge_AGP,AGP,0.001049280827,0.8229610573,5
+glucosidase inhibitor,5,Cytoplasm_Intensity_MeanIntensityEdge_RNA,RNA,0.001046563595,1.055482004,5
+glucosidase inhibitor,5,Cells_Correlation_Correlation_ER_RNA,cross_channel,0.001021046885,-0.8416297397,5
+glucosidase inhibitor,5,Cells_Intensity_LowerQuartileIntensity_AGP,AGP,0.00099461141,0.8485468389,5
+glucosidase inhibitor,5,Cells_Intensity_MedianIntensity_RNA,RNA,0.0009031166007,0.9757861583,5
+glucosidase inhibitor,5,Cells_Intensity_MeanIntensityEdge_RNA,RNA,0.0008741889938,1.053853828,5
+glucosidase inhibitor,5,Cytoplasm_Intensity_MedianIntensity_RNA,RNA,0.000845041051,1.053455023,5
+glucosidase inhibitor,5,Cells_Intensity_MeanIntensity_RNA,RNA,0.0008027891971,0.8421441724,5
+glutamate receptor antagonist,7,Nuclei_AreaShape_Orientation,shape_other,0.0008816946389,-0.2192450905,7
+glutamate receptor antagonist,7,Cytoplasm_AreaShape_Zernike_7_3,shape_other,0.0005942710625,0.5351723438,7
+glutamate receptor antagonist,7,Cytoplasm_AreaShape_Orientation,shape_other,0.0004462183108,-0.1175488795,7
+glutamate receptor antagonist,7,Cytoplasm_Correlation_Overlap_ER_AGP,cross_channel,0.0003651811758,-0.566434726,7
+glutamate receptor antagonist,7,Cytoplasm_Correlation_Overlap_DNA_Mito,cross_channel,0.0002964883575,-0.5949386559,7
+glutamate receptor antagonist,7,Cytoplasm_Correlation_K_ER_AGP,cross_channel,0.0002356920544,-0.2941124792,7
+glutamate receptor antagonist,7,Cytoplasm_Correlation_RWC_Mito_DNA,cross_channel,0.0002273746386,-0.5043522317,7
+glutamate receptor antagonist,7,Cytoplasm_AreaShape_Zernike_9_5,shape_other,0.0002261435662,0.3307848268,7
+glutamate receptor antagonist,7,Cells_Intensity_MaxIntensity_AGP,AGP,0.000214744238,-0.3664777485,7
+glutamate receptor antagonist,7,Cytoplasm_Intensity_StdIntensityEdge_AGP,AGP,0.0002031055604,-0.4457290301,7
+histamine receptor antagonist,25,Cytoplasm_RadialDistribution_MeanFrac_ER_3of4,ER,0.0003940573946,0.419330044,25
+histamine receptor antagonist,25,Cytoplasm_RadialDistribution_MeanFrac_ER_4of4,ER,0.0003547495324,-0.4664209573,25
+histamine receptor antagonist,25,Nuclei_AreaShape_Zernike_2_0,shape_other,0.0003308238869,-0.3927535397,25
+histamine receptor antagonist,25,Cytoplasm_RadialDistribution_RadialCV_Mito_4of4,Mito,0.0002493463226,-0.5937745498,25
+histamine receptor antagonist,25,Cells_RadialDistribution_RadialCV_Mito_4of4,Mito,0.0002399373557,-0.4948816995,25
+histamine receptor antagonist,25,Cells_RadialDistribution_RadialCV_Mito_3of4,Mito,0.0002218667442,-0.4322142117,25
+histamine receptor antagonist,25,Cells_Intensity_MassDisplacement_Mito,Mito,0.0002111637069,-0.5339451965,25
+histamine receptor antagonist,25,Cytoplasm_Intensity_MassDisplacement_Mito,Mito,0.000191839761,-0.5533778485,25
+histamine receptor antagonist,25,Cells_Correlation_Overlap_ER_RNA,cross_channel,0.0001696828811,-0.447547529,25
+histamine receptor antagonist,25,Cytoplasm_AreaShape_Zernike_5_1,shape_other,0.0001551937986,0.4878468892,25
+insulin secretagogue,5,Nuclei_AreaShape_Zernike_2_0,shape_other,0.0006832074973,-0.4738428225,5
+insulin secretagogue,5,Cytoplasm_Correlation_RWC_AGP_DNA,cross_channel,0.0003622222485,0.801497413,5
+insulin secretagogue,5,Nuclei_AreaShape_Zernike_8_8,shape_other,0.0003497962375,-0.3974386242,5
+insulin secretagogue,5,Nuclei_Texture_DifferenceVariance_Mito_20_0,Mito,0.0002515888032,-0.5333174845,5
+insulin secretagogue,5,Cells_AreaShape_Zernike_9_1,shape_other,0.000250756364,0.322845253,5
+insulin secretagogue,5,Nuclei_AreaShape_Zernike_9_9,shape_other,0.0002188374857,-0.3243131283,5
+insulin secretagogue,5,Cells_Texture_InfoMeas2_Mito_5_0,Mito,0.0001952257634,0.6879675536,5
+insulin secretagogue,5,Cells_AreaShape_Zernike_8_4,shape_other,0.0001933168057,-0.03888644083,5
+insulin secretagogue,5,Cells_Texture_InfoMeas2_Mito_10_0,Mito,0.0001814347998,0.8698941065,5
+insulin secretagogue,5,Cytoplasm_Texture_SumVariance_RNA_10_0,RNA,0.0001661587679,0.2145751854,5
+integrin antagonist,5,Cells_Intensity_StdIntensityEdge_RNA,RNA,0.001246826954,1.59590649,5
+integrin antagonist,5,Cells_Intensity_MaxIntensityEdge_RNA,RNA,0.001020922883,1.598539454,5
+integrin antagonist,5,Cells_Intensity_MaxIntensityEdge_AGP,AGP,0.0009535316129,1.596606431,5
+integrin antagonist,5,Cytoplasm_AreaShape_Zernike_8_0,shape_other,0.0008324335376,-1.282711847,5
+integrin antagonist,5,Nuclei_Correlation_K_ER_DNA,cross_channel,0.0007845731298,-0.758575672,5
+integrin antagonist,5,Cytoplasm_RadialDistribution_RadialCV_DNA_4of4,DNA,0.0007714252835,1.381545801,5
+integrin antagonist,5,Cells_Intensity_StdIntensityEdge_ER,ER,0.0007463888379,1.504515507,5
+integrin antagonist,5,Cells_RadialDistribution_RadialCV_DNA_4of4,DNA,0.0007412619175,1.228446185,5
+integrin antagonist,5,Cells_AreaShape_Zernike_7_1,shape_other,0.00071397479,0.438806056,5
+integrin antagonist,5,Nuclei_AreaShape_Zernike_5_1,shape_other,0.0006542547088,1.008195671,5
+mTOR inhibitor,8,Nuclei_AreaShape_Zernike_6_2,shape_other,0.002762005029,1.696555019,8
+mTOR inhibitor,8,Nuclei_Texture_InfoMeas2_AGP_10_0,AGP,0.002597539146,-2.913575181,8
+mTOR inhibitor,8,Nuclei_AreaShape_Zernike_2_0,shape_other,0.002187585029,1.943844875,8
+mTOR inhibitor,8,Nuclei_Texture_Correlation_AGP_10_0,AGP,0.002118735946,-2.704479004,8
+mTOR inhibitor,8,Nuclei_Texture_InfoMeas1_AGP_10_0,AGP,0.002074128047,2.560006651,8
+mTOR inhibitor,8,Nuclei_Texture_InfoMeas1_AGP_5_0,AGP,0.002073439515,2.688285573,8
+mTOR inhibitor,8,Nuclei_Texture_InfoMeas2_AGP_5_0,AGP,0.002026660909,-2.822243063,8
+mTOR inhibitor,8,Nuclei_Texture_Correlation_AGP_5_0,AGP,0.001829617731,-2.670247788,8
+mTOR inhibitor,8,Cytoplasm_AreaShape_Zernike_9_3,shape_other,0.001673495803,1.03893617,8
+mTOR inhibitor,8,Nuclei_AreaShape_Zernike_9_1,shape_other,0.00155680857,-1.670953181,8
+monoamine oxidase inhibitor,6,Cytoplasm_AreaShape_Zernike_9_5,shape_other,0.001346698125,0.6982880329,6
+monoamine oxidase inhibitor,6,Cytoplasm_AreaShape_FormFactor,shape_other,0.0008007430978,0.3701209193,6
+monoamine oxidase inhibitor,6,Cytoplasm_RadialDistribution_FracAtD_AGP_1of4,AGP,0.0007719750148,0.8837034285,6
+monoamine oxidase inhibitor,6,Cytoplasm_RadialDistribution_FracAtD_AGP_2of4,AGP,0.0006949350106,0.8122125322,6
+monoamine oxidase inhibitor,6,Cytoplasm_Texture_SumEntropy_Mito_5_0,Mito,0.0006231889184,0.6625694131,6
+monoamine oxidase inhibitor,6,Cytoplasm_AreaShape_Zernike_5_5,shape_other,0.0006160502841,0.5387929906,6
+monoamine oxidase inhibitor,6,Cells_AreaShape_FormFactor,shape_other,0.0006080374135,0.6500494489,6
+monoamine oxidase inhibitor,6,Cytoplasm_Texture_SumEntropy_Mito_10_0,Mito,0.0005947692651,0.6615637913,6
+monoamine oxidase inhibitor,6,Cytoplasm_Intensity_MedianIntensity_AGP,AGP,0.000565496075,0.7978571908,6
+monoamine oxidase inhibitor,6,Cells_AreaShape_Zernike_9_1,shape_other,0.0005591877245,-0.6762600255,6
+nitric oxide synthase inhibitor,5,Cells_AreaShape_Zernike_9_1,shape_other,0.001640423259,0.4201447404,5
+nitric oxide synthase inhibitor,5,Cells_Correlation_RWC_AGP_ER,cross_channel,0.0008785891164,-0.5435684129,5
+nitric oxide synthase inhibitor,5,Cells_Correlation_RWC_RNA_ER,cross_channel,0.0007157959432,-0.4625764643,5
+nitric oxide synthase inhibitor,5,Cytoplasm_AreaShape_Orientation,shape_other,0.0007082755728,-0.3970747897,5
+nitric oxide synthase inhibitor,5,Nuclei_Texture_Correlation_Mito_20_0,Mito,0.0007065884655,0.5737641478,5
+nitric oxide synthase inhibitor,5,Cytoplasm_Texture_Variance_RNA_20_0,RNA,0.0006636069316,-0.6551561763,5
+nitric oxide synthase inhibitor,5,Cytoplasm_Texture_SumVariance_RNA_20_0,RNA,0.0006443669614,-0.5550540008,5
+nitric oxide synthase inhibitor,5,Nuclei_Texture_Correlation_Mito_10_0,Mito,0.0005843955002,0.4763786247,5
+nitric oxide synthase inhibitor,5,Nuclei_Texture_DifferenceVariance_ER_5_0,ER,0.0005764168851,-0.5178720842,5
+nitric oxide synthase inhibitor,5,Nuclei_Intensity_LowerQuartileIntensity_ER,ER,0.0005470558085,-0.6105906042,5
+non-nucleoside reverse transcriptase inhibitor,5,Cells_AreaShape_Zernike_1_1,shape_other,0.001331681664,1.091572074,5
+non-nucleoside reverse transcriptase inhibitor,5,Nuclei_AreaShape_Zernike_4_4,shape_other,0.001230832331,-0.837594412,5
+non-nucleoside reverse transcriptase inhibitor,5,Cytoplasm_Correlation_Correlation_ER_RNA,cross_channel,0.001086956431,0.6338137401,5
+non-nucleoside reverse transcriptase inhibitor,5,Cells_AreaShape_Zernike_9_1,shape_other,0.001061211118,0.5479902918,5
+non-nucleoside reverse transcriptase inhibitor,5,Nuclei_AreaShape_Zernike_6_6,shape_other,0.0009264425978,-0.6632795952,5
+non-nucleoside reverse transcriptase inhibitor,5,Nuclei_AreaShape_Zernike_0_0,shape_other,0.0008666847734,0.8104497575,5
+non-nucleoside reverse transcriptase inhibitor,5,Nuclei_AreaShape_Compactness,shape_other,0.0006541374709,-0.8227460375,5
+non-nucleoside reverse transcriptase inhibitor,5,Nuclei_Texture_DifferenceVariance_DNA_20_0,DNA,0.0006076325487,0.5784697484,5
+non-nucleoside reverse transcriptase inhibitor,5,Cytoplasm_Intensity_MinIntensityEdge_AGP,AGP,0.0005596312085,-0.9539581743,5
+non-nucleoside reverse transcriptase inhibitor,5,Cells_Intensity_MinIntensityEdge_AGP,AGP,0.0005595389252,-0.9539084413,5
+nucleoside reverse transcriptase inhibitor,6,Cells_AreaShape_Zernike_5_1,shape_other,0.0004736458978,-0.3975490999,6
+nucleoside reverse transcriptase inhibitor,6,Cells_AreaShape_Zernike_9_3,shape_other,0.0004567013646,-0.490287222,6
+nucleoside reverse transcriptase inhibitor,6,Cells_AreaShape_Zernike_6_0,shape_other,0.0004210152928,-0.3623247455,6
+nucleoside reverse transcriptase inhibitor,6,Nuclei_Texture_InfoMeas1_AGP_10_0,AGP,0.0004149067839,-0.5734485051,6
+nucleoside reverse transcriptase inhibitor,6,Nuclei_Texture_InfoMeas1_AGP_5_0,AGP,0.0003898811554,-0.5968574307,6
+nucleoside reverse transcriptase inhibitor,6,Nuclei_Neighbors_NumberOfNeighbors_2,shape_other,0.000387608236,-0.292275297,6
+nucleoside reverse transcriptase inhibitor,6,Nuclei_Texture_InverseDifferenceMoment_AGP_5_0,AGP,0.0003556337853,0.6590010367,6
+nucleoside reverse transcriptase inhibitor,6,Nuclei_Texture_DifferenceEntropy_AGP_5_0,AGP,0.0003524362535,-0.6934996213,6
+nucleoside reverse transcriptase inhibitor,6,Nuclei_Intensity_UpperQuartileIntensity_DNA,DNA,0.000339781754,0.5436043277,6
+nucleoside reverse transcriptase inhibitor,6,Nuclei_Correlation_Correlation_Mito_AGP,cross_channel,0.000339346771,0.5817020085,6
+p38 MAPK inhibitor,7,Cytoplasm_Correlation_Correlation_Mito_ER,cross_channel,0.00196615176,-0.9165523433,7
+p38 MAPK inhibitor,7,Cells_Correlation_Correlation_Mito_ER,cross_channel,0.001920705463,-0.8840911806,7
+p38 MAPK inhibitor,7,Cytoplasm_Correlation_Overlap_Mito_ER,cross_channel,0.001815316732,-0.8977148957,7
+p38 MAPK inhibitor,7,Cells_AreaShape_Zernike_4_4,shape_other,0.001721364686,0.9119555579,7
+p38 MAPK inhibitor,7,Cells_AreaShape_Zernike_9_3,shape_other,0.001540392792,0.4704091316,7
+p38 MAPK inhibitor,7,Cells_Correlation_Correlation_Mito_AGP,cross_channel,0.00139678446,-0.7843656593,7
+p38 MAPK inhibitor,7,Cells_Correlation_Overlap_Mito_ER,cross_channel,0.001369277009,-0.8242420486,7
+p38 MAPK inhibitor,7,Cytoplasm_Correlation_Correlation_Mito_RNA,cross_channel,0.001320937592,-0.7647998155,7
+p38 MAPK inhibitor,7,Cytoplasm_AreaShape_Zernike_6_4,shape_other,0.001284004602,0.7647045584,7
+p38 MAPK inhibitor,7,Cells_AreaShape_Zernike_6_4,shape_other,0.001274783219,0.7206488935,7
+phosphodiesterase inhibitor,35,Cytoplasm_AreaShape_Zernike_5_1,shape_other,0.0002406075467,0.5124855697,35
+phosphodiesterase inhibitor,35,Cytoplasm_RadialDistribution_MeanFrac_ER_3of4,ER,0.0002067862327,0.4025271025,35
+phosphodiesterase inhibitor,35,Nuclei_Texture_AngularSecondMoment_RNA_5_0,RNA,0.0001982658174,-0.4569866308,35
+phosphodiesterase inhibitor,35,Cytoplasm_RadialDistribution_MeanFrac_ER_4of4,ER,0.0001946978752,-0.4034287608,35
+phosphodiesterase inhibitor,35,Cells_Texture_InfoMeas2_DNA_20_0,DNA,0.0001319579455,-0.2081844683,35
+phosphodiesterase inhibitor,35,Nuclei_Texture_AngularSecondMoment_RNA_10_0,RNA,0.0001224259089,-0.4001588377,35
+phosphodiesterase inhibitor,35,Cytoplasm_Correlation_Overlap_ER_AGP,cross_channel,0.0001150666845,-0.3585480445,35
+phosphodiesterase inhibitor,35,Cells_Texture_SumEntropy_RNA_20_0,RNA,0.0001147504641,0.3286370555,35
+phosphodiesterase inhibitor,35,Cells_AreaShape_Zernike_9_5,shape_other,0.0001125879937,0.2804600435,35
+phosphodiesterase inhibitor,35,Nuclei_Texture_AngularSecondMoment_RNA_20_0,RNA,0.0001060159784,-0.3321984496,35
+potassium channel activator,5,Cytoplasm_RadialDistribution_RadialCV_Mito_1of4,Mito,0.0009282893179,-1.164850167,5
+potassium channel activator,5,Nuclei_Correlation_Overlap_DNA_Mito,cross_channel,0.000811501784,1.180789823,5
+potassium channel activator,5,Cells_Texture_SumAverage_Mito_20_0,Mito,0.0007519701581,1.14921542,5
+potassium channel activator,5,Cells_Texture_SumAverage_Mito_10_0,Mito,0.0007346794693,1.114533929,5
+potassium channel activator,5,Cells_Correlation_Overlap_Mito_AGP,cross_channel,0.000725325408,1.050451387,5
+potassium channel activator,5,Nuclei_AreaShape_Eccentricity,shape_other,0.000724887635,0.7522390372,5
+potassium channel activator,5,Cells_AreaShape_Orientation,shape_other,0.0007185277169,0.7916425799,5
+potassium channel activator,5,Cells_Texture_SumAverage_Mito_5_0,Mito,0.0007160281664,1.088116913,5
+potassium channel activator,5,Cells_RadialDistribution_RadialCV_Mito_1of4,Mito,0.0007157909902,-0.954050044,5
+potassium channel activator,5,Cytoplasm_RadialDistribution_RadialCV_Mito_3of4,Mito,0.0006525934729,-0.9155358502,5
+potassium channel blocker,7,Nuclei_AreaShape_Orientation,shape_other,0.001102809183,0.4745267792,7
+potassium channel blocker,7,Cytoplasm_AreaShape_Zernike_1_1,shape_other,0.0006308938374,0.6057365005,7
+potassium channel blocker,7,Cells_AreaShape_Zernike_6_2,shape_other,0.0005495089471,0.3041321927,7
+potassium channel blocker,7,Cells_Texture_Gabor_AGP_5,AGP,0.0005176926317,0.9182361181,7
+potassium channel blocker,7,Cytoplasm_RadialDistribution_MeanFrac_DNA_1of4,DNA,0.0003023821017,-0.6823200614,7
+potassium channel blocker,7,Cytoplasm_RadialDistribution_RadialCV_DNA_2of4,DNA,0.0002759042434,-0.6508983738,7
+potassium channel blocker,7,Cytoplasm_RadialDistribution_RadialCV_DNA_1of4,DNA,0.0002724635218,-0.6194462978,7
+potassium channel blocker,7,Cytoplasm_RadialDistribution_RadialCV_DNA_3of4,DNA,0.0002509828684,-0.5959490018,7
+potassium channel blocker,7,Cytoplasm_RadialDistribution_MeanFrac_DNA_2of4,DNA,0.0002112548022,-0.6633543995,7
+potassium channel blocker,7,Cytoplasm_Texture_InfoMeas2_Mito_20_0,Mito,0.0001955424317,0.5612182926,7
+progesterone receptor agonist,7,Cells_AreaShape_Zernike_9_3,shape_other,0.002274298075,0.7331648686,7
+progesterone receptor agonist,7,Nuclei_AreaShape_Zernike_8_6,shape_other,0.001082370497,0.6856157997,7
+progesterone receptor agonist,7,Cytoplasm_Correlation_Correlation_Mito_ER,cross_channel,0.0009594784306,-0.7190908978,7
+progesterone receptor agonist,7,Nuclei_AreaShape_Zernike_2_2,shape_other,0.0009333010328,0.6077503008,7
+progesterone receptor agonist,7,Cells_Correlation_Correlation_Mito_ER,cross_channel,0.0007882909139,-0.6938184372,7
+progesterone receptor agonist,7,Cytoplasm_AreaShape_Zernike_2_0,shape_other,0.0007267221245,0.7787179868,7
+progesterone receptor agonist,7,Cytoplasm_Texture_InfoMeas2_AGP_5_0,AGP,0.0007112603969,-0.9114372588,7
+progesterone receptor agonist,7,Cells_Texture_InfoMeas2_AGP_5_0,AGP,0.0005740559354,-0.7594029442,7
+progesterone receptor agonist,7,Nuclei_AreaShape_Zernike_6_4,shape_other,0.0005483845982,0.6348998191,7
+progesterone receptor agonist,7,Cytoplasm_Texture_InfoMeas2_AGP_10_0,AGP,0.0005285283338,-0.7387681809,7
+proteasome inhibitor,5,Nuclei_Granularity_7_RNA,RNA,0.002930313425,4.709857684,5
+proteasome inhibitor,5,Cells_AreaShape_Zernike_1_1,shape_other,0.0028422345,-3.955356886,5
+proteasome inhibitor,5,Nuclei_Correlation_Overlap_Mito_RNA,cross_channel,0.002625329964,-4.574725556,5
+proteasome inhibitor,5,Nuclei_Granularity_8_RNA,RNA,0.00254330111,4.676108796,5
+proteasome inhibitor,5,Cytoplasm_Correlation_Manders_ER_Mito,cross_channel,0.002425605168,-5,5
+proteasome inhibitor,5,Cytoplasm_Correlation_Manders_DNA_Mito,cross_channel,0.002374200469,-5,5
+proteasome inhibitor,5,Nuclei_Neighbors_FirstClosestDistance_2,shape_other,0.002303918066,4.473924281,5
+proteasome inhibitor,5,Cells_Correlation_Manders_ER_Mito,cross_channel,0.002244275059,-5,5
+proteasome inhibitor,5,Nuclei_Granularity_6_RNA,RNA,0.002150091796,4.056439778,5
+proteasome inhibitor,5,Cells_Correlation_Overlap_Mito_RNA,cross_channel,0.002149311423,-3.729556198,5
+protein synthesis inhibitor,5,Cytoplasm_AreaShape_Zernike_9_3,shape_other,0.00264229006,1.91905913,5
+protein synthesis inhibitor,5,Cells_Texture_Gabor_DNA_5,DNA,0.001433686868,2.43294368,5
+protein synthesis inhibitor,5,Cells_Texture_Gabor_DNA_10,DNA,0.001373144274,2.05032254,5
+protein synthesis inhibitor,5,Cells_Correlation_Overlap_DNA_Mito,cross_channel,0.001290053857,1.359582495,5
+protein synthesis inhibitor,5,Cells_AreaShape_Zernike_9_3,shape_other,0.001223252603,0.8794908989,5
+protein synthesis inhibitor,5,Cells_Texture_Gabor_DNA_20,DNA,0.001043827819,1.648722855,5
+protein synthesis inhibitor,5,Cells_Texture_Gabor_Mito_10,Mito,0.001011371758,1.884839645,5
+protein synthesis inhibitor,5,Cells_AreaShape_Zernike_2_2,shape_other,0.0009071893045,1.230152414,5
+protein synthesis inhibitor,5,Cytoplasm_RadialDistribution_RadialCV_DNA_4of4,DNA,0.0008955729448,1.361111042,5
+protein synthesis inhibitor,5,Cells_Texture_Contrast_Mito_5_0,Mito,0.0008892604735,1.606588772,5
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_6_6,shape_other,0.003926160567,1.375650466,7
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_8_8,shape_other,0.00303686213,1.215242373,7
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_4_4,shape_other,0.002831328954,1.208682083,7
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_2_0,shape_other,0.001748953349,0.7812225347,7
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_6_4,shape_other,0.001698615867,-1.144067931,7
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_0_0,shape_other,0.001551015785,-0.941439707,7
+retinoid receptor agonist,7,Cytoplasm_Correlation_Overlap_DNA_Mito,cross_channel,0.00139002155,-1.045111903,7
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_9_9,shape_other,0.001280841667,0.7839644758,7
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_7_7,shape_other,0.001249372016,0.7845094491,7
+retinoid receptor agonist,7,Nuclei_AreaShape_Zernike_4_2,shape_other,0.00105099804,0.7872612365,7
+ribonucleotide reductase inhibitor,5,Nuclei_Texture_Gabor_ER_5,ER,0.001217213712,-1.935724421,5
+ribonucleotide reductase inhibitor,5,Nuclei_Texture_DifferenceVariance_DNA_5_0,DNA,0.001187301507,-2.180137906,5
+ribonucleotide reductase inhibitor,5,Nuclei_Intensity_MassDisplacement_ER,ER,0.001089912022,1.732932312,5
+ribonucleotide reductase inhibitor,5,Nuclei_RadialDistribution_RadialCV_RNA_2of4,RNA,0.001008420783,1.312160029,5
+ribonucleotide reductase inhibitor,5,Nuclei_Texture_Contrast_Mito_5_0,Mito,0.000957014191,-1.33119742,5
+ribonucleotide reductase inhibitor,5,Nuclei_Texture_Gabor_ER_10,ER,0.0009400789491,-1.756642305,5
+ribonucleotide reductase inhibitor,5,Nuclei_Texture_DifferenceVariance_ER_5_0,ER,0.0009077846918,-1.275381329,5
+ribonucleotide reductase inhibitor,5,Nuclei_Texture_Correlation_Mito_5_0,Mito,0.0008082746952,1.131252317,5
+ribonucleotide reductase inhibitor,5,Nuclei_Texture_DifferenceVariance_DNA_10_0,DNA,0.0007902666255,-2.063607056,5
+ribonucleotide reductase inhibitor,5,Nuclei_Texture_DifferenceVariance_Mito_5_0,Mito,0.0007852359935,-1.290610537,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_MeanFrac_ER_4of4,ER,0.003853723097,-1.416631978,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_FracAtD_ER_1of4,ER,0.002568658806,1.212234585,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_MeanFrac_ER_3of4,ER,0.002440368767,1.108441269,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_MeanFrac_ER_2of4,ER,0.002321061725,1.053005673,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_FracAtD_ER_2of4,ER,0.002282501682,1.164705947,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_FracAtD_AGP_1of4,AGP,0.002192195571,1.137099285,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_FracAtD_Mito_1of4,Mito,0.001812702347,1.00928259,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_RadialCV_AGP_3of4,AGP,0.001721361693,1.028347003,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_FracAtD_AGP_2of4,AGP,0.001614838049,1.014322573,5
+selective serotonin reuptake inhibitor (SSRI),5,Cytoplasm_RadialDistribution_MeanFrac_ER_1of4,ER,0.001609607186,0.9428619892,5
+serotonin receptor agonist,10,Cells_AreaShape_Orientation,shape_other,0.0004442870394,0.3525419024,10
+serotonin receptor agonist,10,Cytoplasm_AreaShape_Orientation,shape_other,0.0003347456778,0.2330301855,10
+serotonin receptor agonist,10,Cytoplasm_Granularity_2_Mito,Mito,0.0002000836557,-0.3917844102,10
+serotonin receptor agonist,10,Cells_AreaShape_Zernike_9_1,shape_other,0.0001926702062,-0.3621937951,10
+serotonin receptor agonist,10,Cytoplasm_AreaShape_Zernike_8_4,shape_other,0.0001910581751,0.3786386112,10
+serotonin receptor agonist,10,Nuclei_Texture_DifferenceVariance_ER_10_0,ER,0.0001662675905,-0.5469367369,10
+serotonin receptor agonist,10,Cells_AreaShape_Zernike_8_0,shape_other,0.0001629640058,-0.3662356258,10
+serotonin receptor agonist,10,Cells_AreaShape_Zernike_8_4,shape_other,0.0001355027852,0.338594324,10
+serotonin receptor agonist,10,Nuclei_Correlation_K_Mito_RNA,cross_channel,0.0001210076396,0.6382181838,10
+serotonin receptor agonist,10,Cytoplasm_Correlation_K_RNA_ER,cross_channel,0.000112454528,-0.6676566002,10
+serotonin receptor antagonist,14,Cytoplasm_RadialDistribution_MeanFrac_ER_4of4,ER,0.0002788788751,-0.4567081796,14
+serotonin receptor antagonist,14,Cells_Correlation_Overlap_ER_RNA,cross_channel,0.0002446345802,-0.5433023906,14
+serotonin receptor antagonist,14,Cytoplasm_AreaShape_Zernike_5_5,shape_other,0.0002375577794,0.5057452512,14
+serotonin receptor antagonist,14,Cytoplasm_AreaShape_Zernike_9_9,shape_other,0.0002253329342,0.6010712995,14
+serotonin receptor antagonist,14,Cytoplasm_RadialDistribution_FracAtD_ER_2of4,ER,0.0002219106665,0.4388925766,14
+serotonin receptor antagonist,14,Cytoplasm_RadialDistribution_FracAtD_ER_3of4,ER,0.0002174761925,0.4205797227,14
+serotonin receptor antagonist,14,Cells_AreaShape_Zernike_1_1,shape_other,0.0002166098529,0.06686650314,14
+serotonin receptor antagonist,14,Cytoplasm_RadialDistribution_MeanFrac_ER_3of4,ER,0.0002125122666,0.4231142421,14
+serotonin receptor antagonist,14,Cytoplasm_RadialDistribution_FracAtD_ER_4of4,ER,0.0002071176625,-0.4211116119,14
+serotonin receptor antagonist,14,Cytoplasm_RadialDistribution_RadialCV_DNA_1of4,DNA,0.000207115361,-0.5098555703,14
+sodium channel blocker,12,Cells_Correlation_Correlation_Mito_ER,cross_channel,0.0004531154388,-0.6114114006,12
+sodium channel blocker,12,Nuclei_AreaShape_Orientation,shape_other,0.0004029078975,0.5061712646,12
+sodium channel blocker,12,Cytoplasm_Correlation_Correlation_RNA_AGP,cross_channel,0.0003771051888,-0.7005420188,12
+sodium channel blocker,12,Cytoplasm_Correlation_Correlation_Mito_RNA,cross_channel,0.0003686316091,-0.5929352396,12
+sodium channel blocker,12,Nuclei_Texture_InfoMeas2_AGP_20_0,AGP,0.0003430652137,-0.4537998559,12
+sodium channel blocker,12,Cytoplasm_Correlation_Correlation_Mito_AGP,cross_channel,0.0003262925032,-0.6829033815,12
+sodium channel blocker,12,Cells_Texture_Correlation_Mito_20_0,Mito,0.0003074726511,-0.4430219453,12
+sodium channel blocker,12,Cells_Texture_Correlation_Mito_10_0,Mito,0.0003022090829,-0.544916744,12
+sodium channel blocker,12,Cells_Texture_InfoMeas1_Mito_20_0,Mito,0.0003012190258,0.3987890571,12
+sodium channel blocker,12,Nuclei_Granularity_7_DNA,DNA,0.0002922964521,0.3672760933,12
+sterol demethylase inhibitor,7,Cytoplasm_Correlation_Overlap_Mito_AGP,cross_channel,0.001321880246,-1.210962948,7
+sterol demethylase inhibitor,7,Cytoplasm_Correlation_Overlap_Mito_RNA,cross_channel,0.001121805003,-1.014107985,7
+sterol demethylase inhibitor,7,Cells_RadialDistribution_RadialCV_DNA_1of4,DNA,0.0009238142345,0.7413518445,7
+sterol demethylase inhibitor,7,Nuclei_Texture_AngularSecondMoment_Mito_5_0,Mito,0.0005388451305,0.5786376899,7
+sterol demethylase inhibitor,7,Cytoplasm_Granularity_2_Mito,Mito,0.0005388062031,0.798227672,7
+sterol demethylase inhibitor,7,Nuclei_AreaShape_Orientation,shape_other,0.0005315897909,0.38141241,7
+sterol demethylase inhibitor,7,Nuclei_Texture_InverseDifferenceMoment_Mito_10_0,Mito,0.0004613434022,0.4684014535,7
+sterol demethylase inhibitor,7,Nuclei_Texture_AngularSecondMoment_Mito_10_0,Mito,0.0004525590446,0.5392173767,7
+sterol demethylase inhibitor,7,Cells_Texture_Gabor_Mito_10,Mito,0.0004427841885,0.6311802979,7
+sterol demethylase inhibitor,7,Nuclei_Texture_InverseDifferenceMoment_Mito_5_0,Mito,0.0004147747214,0.4111663867,7
+tachykinin antagonist,6,Cytoplasm_RadialDistribution_FracAtD_DNA_1of4,DNA,0.001275708426,0.9560740344,6
+tachykinin antagonist,6,Cytoplasm_Granularity_16_RNA,RNA,0.001152771911,1.059867835,6
+tachykinin antagonist,6,Cytoplasm_RadialDistribution_FracAtD_DNA_2of4,DNA,0.001148485067,0.9355142747,6
+tachykinin antagonist,6,Nuclei_Correlation_Overlap_Mito_ER,cross_channel,0.0009515210322,0.9653453187,6
+tachykinin antagonist,6,Nuclei_AreaShape_Zernike_6_6,shape_other,0.0008940384977,-1.271299815,6
+tachykinin antagonist,6,Cells_AreaShape_Zernike_9_3,shape_other,0.0008790831427,0.5900281882,6
+tachykinin antagonist,6,Nuclei_AreaShape_Zernike_8_8,shape_other,0.0008623497265,-1.160508472,6
+tachykinin antagonist,6,Cytoplasm_RadialDistribution_FracAtD_DNA_3of4,DNA,0.0008353717338,0.8437257578,6
+tachykinin antagonist,6,Nuclei_AreaShape_Zernike_6_4,shape_other,0.0008257778208,1.17210427,6
+tachykinin antagonist,6,Cytoplasm_RadialDistribution_FracAtD_DNA_4of4,DNA,0.0008199773072,-0.832747178,6
+topoisomerase inhibitor,16,Cytoplasm_AreaShape_Eccentricity,shape_other,0.0007759939882,-1.786438714,16
+topoisomerase inhibitor,16,Cells_AreaShape_Compactness,shape_other,0.0007535946836,-1.505890397,16
+topoisomerase inhibitor,16,Cells_AreaShape_Eccentricity,shape_other,0.0007114673824,-1.52503738,16
+topoisomerase inhibitor,16,Cells_AreaShape_Zernike_0_0,shape_other,0.0006781112264,1.455399011,16
+topoisomerase inhibitor,16,Cytoplasm_Correlation_RWC_DNA_ER,cross_channel,0.0005934178261,-1.986413458,16
+topoisomerase inhibitor,16,Nuclei_Correlation_Correlation_DNA_RNA,cross_channel,0.0005787964019,-1.298078273,16
+topoisomerase inhibitor,16,Cytoplasm_RadialDistribution_MeanFrac_RNA_3of4,RNA,0.000495627855,1.895738575,16
+topoisomerase inhibitor,16,Cytoplasm_RadialDistribution_MeanFrac_RNA_2of4,RNA,0.0004819436205,1.868264062,16
+topoisomerase inhibitor,16,Cytoplasm_RadialDistribution_RadialCV_AGP_3of4,AGP,0.0004423753974,1.643284541,16
+topoisomerase inhibitor,16,Cytoplasm_RadialDistribution_MeanFrac_RNA_1of4,RNA,0.0004314839057,1.68334743,16
+tubulin polymerization inhibitor,10,Nuclei_Correlation_Correlation_Mito_AGP,cross_channel,0.001504815987,-2.450564774,10
+tubulin polymerization inhibitor,10,Cells_RadialDistribution_FracAtD_Mito_3of4,Mito,0.001428868643,3.365430004,10
+tubulin polymerization inhibitor,10,Nuclei_Correlation_Correlation_Mito_ER,cross_channel,0.001351606451,-2.304859742,10
+tubulin polymerization inhibitor,10,Cells_RadialDistribution_MeanFrac_DNA_3of4,DNA,0.001119381095,-3.016110164,10
+tubulin polymerization inhibitor,10,Cytoplasm_AreaShape_Zernike_4_0,shape_other,0.001111314017,2.804944739,10
+tubulin polymerization inhibitor,10,Cells_RadialDistribution_MeanFrac_DNA_1of4,DNA,0.001026872691,3.164223904,10
+tubulin polymerization inhibitor,10,Cells_RadialDistribution_FracAtD_DNA_3of4,DNA,0.0009965740262,-2.831127251,10
+tubulin polymerization inhibitor,10,Nuclei_Texture_SumEntropy_DNA_20_0,DNA,0.0009229085438,2.037255624,10
+tubulin polymerization inhibitor,10,Nuclei_Correlation_Correlation_ER_AGP,cross_channel,0.0008876767888,-2.592978452,10
+tubulin polymerization inhibitor,10,Nuclei_Texture_InfoMeas2_ER_20_0,ER,0.0008678910567,-2.465613545,10
+tyrosine kinase inhibitor,5,Nuclei_Intensity_MinIntensityEdge_AGP,AGP,0.0008548884076,1.506170878,5
+tyrosine kinase inhibitor,5,Nuclei_Intensity_MinIntensity_AGP,AGP,0.0008512337382,1.50339024,5
+tyrosine kinase inhibitor,5,Cytoplasm_AreaShape_Orientation,shape_other,0.0003877671373,-0.6465283502,5
+tyrosine kinase inhibitor,5,Nuclei_AreaShape_Orientation,shape_other,0.0003691474717,-0.8148435251,5
+tyrosine kinase inhibitor,5,Cells_AreaShape_Zernike_6_2,shape_other,0.0003502064632,0.5657117254,5
+tyrosine kinase inhibitor,5,Nuclei_Intensity_StdIntensityEdge_ER,ER,0.0003118223143,-1.245119817,5
+tyrosine kinase inhibitor,5,Cytoplasm_Texture_Variance_ER_20_0,ER,0.0003067950155,0.316792919,5
+tyrosine kinase inhibitor,5,Cytoplasm_Correlation_Overlap_ER_AGP,cross_channel,0.0002954656251,0.5375873104,5
+tyrosine kinase inhibitor,5,Cytoplasm_Texture_InfoMeas2_AGP_5_0,AGP,0.0002871260827,0.9827633684,5
+tyrosine kinase inhibitor,5,Nuclei_Intensity_MaxIntensity_ER,ER,0.0002861931102,-0.5164888924,5
+vitamin D receptor agonist,6,Cells_AreaShape_Zernike_6_2,shape_other,0.002055498316,-0.7245563914,6
+vitamin D receptor agonist,6,Cells_AreaShape_Zernike_5_3,shape_other,0.002054146291,0.7736806659,6
+vitamin D receptor agonist,6,Cytoplasm_Correlation_Correlation_Mito_ER,cross_channel,0.001951188976,-1.071229102,6
+vitamin D receptor agonist,6,Cells_Correlation_Correlation_Mito_ER,cross_channel,0.001901892276,-1.105725293,6
+vitamin D receptor agonist,6,Nuclei_AreaShape_Zernike_6_2,shape_other,0.001686491519,0.5738377943,6
+vitamin D receptor agonist,6,Nuclei_Texture_DifferenceVariance_Mito_5_0,Mito,0.001495443875,0.7958928546,6
+vitamin D receptor agonist,6,Cells_AreaShape_Zernike_6_4,shape_other,0.001473786417,0.6519901541,6
+vitamin D receptor agonist,6,Nuclei_AreaShape_Orientation,shape_other,0.001391392777,0.7276344929,6
+vitamin D receptor agonist,6,Cells_AreaShape_Zernike_7_5,shape_other,0.001372129305,0.6291708324,6
+vitamin D receptor agonist,6,Cytoplasm_AreaShape_Zernike_7_7,shape_other,0.001324809085,0.6941384757,6

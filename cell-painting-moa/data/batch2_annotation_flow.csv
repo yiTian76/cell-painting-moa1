@@ -1,0 +1,321 @@
+material,profile_moa,decision,key,name,moa,match
+BRD-A01320529-104-07-7,unknown,absent_or_ambiguous_identity,,,,
+BRD-A03506276-001-01-5,HSP inhibitor,retained,LHGWWAFKVCIILM,XL888,HSP inhibitor,exact_material
+BRD-A07780951-001-06-3,unknown,absent_or_ambiguous_identity,,,,
+BRD-A11990600-001-03-4,unknown,unknown_primary_moa,,,,
+BRD-A12230535-001-10-9,unknown,retained,BDUHCSBCVGXTJM,nutlin-3,MDM inhibitor,unambiguous_broad_parent
+BRD-A13084692-001-08-2,unknown,multiple_primary_moa,,,,
+BRD-A22032524-074-03-2,unknown,retained,HTIQEAQVCYTUBX,amlodipine,calcium channel blocker,unambiguous_broad_parent
+BRD-A22684332-001-01-9,unknown,absent_or_ambiguous_identity,,,,
+BRD-A35869383-001-03-5,unknown,absent_or_ambiguous_identity,,,,
+BRD-A37630846-001-02-2,unknown,absent_or_ambiguous_identity,,,,
+BRD-A48237631-001-04-8,DNA alkylating agent|DNA synthesis inhibitor,multiple_primary_moa,,,,
+BRD-A64933752-001-02-8,unknown,absent_or_ambiguous_identity,,,,
+BRD-A74980173-001-06-9,unknown,retained,XUBOMFCQGDBHNK,gatifloxacin,bacterial DNA gyrase inhibitor,unambiguous_broad_parent
+BRD-A81866333-001-01-9,unknown,absent_or_ambiguous_identity,,,,
+BRD-A82307304-001-01-8,unknown,absent_or_ambiguous_identity,,,,
+BRD-A84481105-003-18-0,unknown,retained,KLBQZWRITKRQQV,thioridazine,dopamine receptor antagonist,unambiguous_broad_parent
+BRD-A88080608-001-03-4,unknown,retained,WKRLQDKEXYKHJB,equilin,estrogen receptor agonist,unambiguous_broad_parent
+BRD-A91452556-001-03-2,unknown,absent_or_ambiguous_identity,,,,
+BRD-A93236127-001-04-5,unknown,absent_or_ambiguous_identity,,,,
+BRD-K00317371-001-07-9,unknown,retained,KZENBFUSKMWCJF,RITA,MDM inhibitor,unambiguous_broad_parent
+BRD-K02113016-001-02-2,unknown,retained,FDLYAMZZIXQODN,olaparib,PARP inhibitor,unambiguous_broad_parent
+BRD-K02130563-001-07-2,unknown,retained,FPOHNWQLNRZRFC,panobinostat,HDAC inhibitor,unambiguous_broad_parent
+BRD-K02407574-001-04-8,unknown,retained,YRWLZFXJFBZBEY,parbendazole,tubulin polymerization inhibitor,unambiguous_broad_parent
+BRD-K03067624-001-02-3,unknown,retained,AUVVAXYIELKVAI,emetine,protein synthesis inhibitor,exact_material
+BRD-K04548931-003-08-2,unknown,retained,AOJJSUZBOXZQNB,epirubicin,topoisomerase inhibitor,exact_material
+BRD-K05653692-001-03-3,unknown,absent_or_ambiguous_identity,,,,
+BRD-K06854232-001-07-4,unknown,retained,SZWKGOZKRMMLAJ,AM-580,retinoid receptor agonist,unambiguous_broad_parent
+BRD-K07691486-001-07-2,unknown,retained,BTIHMVBBUGXLCJ,roscovitine,CDK inhibitor,unambiguous_broad_parent
+BRD-K09951645-001-10-0,unknown,retained,BFSMGDJOXZAERB,dabrafenib,RAF inhibitor,unambiguous_broad_parent
+BRD-K11267252-001-05-1,unknown,retained,KDGFLJKFZUIJMX,alectinib,ALK tyrosine kinase receptor inhibitor,unambiguous_broad_parent
+BRD-K11636097-001-01-5,unknown,retained,KDKUVYLMPJIGKA,JNJ-7706621,CDK inhibitor,unambiguous_broad_parent
+BRD-K12184916-001-02-2,unknown,multiple_primary_moa,,,,
+BRD-K12343256-001-17-0,unknown,retained,LIRYPHYGHXZJBZ,trametinib,MEK inhibitor,unambiguous_broad_parent
+BRD-K12539581-001-12-0,unknown,retained,KYRVNWMVYQXFEU,nocodazole,tubulin polymerization inhibitor,unambiguous_broad_parent
+BRD-K14880289-001-01-4,unknown,retained,YDBLKRPLXZNVNB,GW-501516,PPAR receptor agonist,unambiguous_broad_parent
+BRD-K15600710-066-01-7,unknown,retained,RFTSSZJZXOSICM,obatoclax,BCL inhibitor,unambiguous_broad_parent
+BRD-K19687926-001-05-8,unknown,retained,BCFGMOOMADDAQU,lapatinib,EGFR inhibitor,unambiguous_broad_parent
+BRD-K20285085-074-03-7,unknown,retained,NHHQJBCNYHBUSI,R406,SYK inhibitor,exact_material
+BRD-K20986251-001-07-2,unknown,multiple_primary_moa,,,,
+BRD-K21680192-300-10-2,unknown,retained,KKZJGLLVHKMTCM,mitoxantrone,topoisomerase inhibitor,unambiguous_broad_parent
+BRD-K22134346-001-08-2,unknown,retained,RYMZZMVNJRMUDD,simvastatin,HMGCR inhibitor,unambiguous_broad_parent
+BRD-K23478508-001-15-1,unknown,absent_or_ambiguous_identity,,,,
+BRD-K23984367-075-05-3,unknown,multiple_primary_moa,,,,
+BRD-K24681473-004-01-4,unknown,absent_or_ambiguous_identity,,,,
+BRD-K27305650-001-09-1,unknown,multiple_primary_moa,,,,
+BRD-K27316855-001-06-7,unknown,retained,GMRQFYUYWCNGIN,calcitriol,vitamin D receptor agonist,unambiguous_broad_parent
+BRD-K29905972-001-01-4,unknown,multiple_primary_moa,,,,
+BRD-K32107296-001-06-0,unknown,retained,BPEGJWRSRHCHSN,temozolomide,DNA alkylating agent,unambiguous_broad_parent
+BRD-K32821942-001-20-5,unknown,retained,LMEKQMALGUDUQG,azathioprine,dehydrogenase inhibitor,exact_material
+BRD-K32828673-001-02-3,unknown,absent_or_ambiguous_identity,,,,
+BRD-K33226500-001-01-0,HIV protease inhibitor,retained,CBVCZFGXHXORBI,indinavir,HIV protease inhibitor,exact_material
+BRD-K36627727-001-01-3,unknown,retained,MUTNCGKQJGXKEM,tamibarotene,retinoid receptor agonist,unambiguous_broad_parent
+BRD-K37890730-001-11-0,unknown,retained,VSJKWCGYPAHWDS,camptothecin,topoisomerase inhibitor,unambiguous_broad_parent
+BRD-K41213548-001-01-2,unknown,retained,VFUXSYAXEKYYMB,KW-2478,HSP inhibitor,unambiguous_broad_parent
+BRD-K41859756-001-09-2,unknown,retained,NDAZATDQFDPQBD,NVP-AUY922,HSP inhibitor,exact_material
+BRD-K41895714-001-01-4,unknown,missing_connectivity,,,,
+BRD-K43449605-001-01-0,unknown,retained,ZDRQMXCSSAPUMM,oncrasin-1,apoptosis stimulant,exact_material
+BRD-K44227013-001-06-4,unknown,multiple_primary_moa,,,,
+BRD-K44844162-001-01-6,PI3K inhibitor,retained,BEUQXVWXFDOSAQ,taselisib,PI3K inhibitor,exact_material
+BRD-K44876623-001-03-7,unknown,unknown_primary_moa,,,,
+BRD-K45724504-001-01-6,unknown,retained,AUGQEEXBDZWUJY,anguidine,protein synthesis inhibitor,exact_material
+BRD-K47832606-001-13-7,unknown,retained,ODKNJVUHOIMIIZ,floxuridine,DNA synthesis inhibitor,unambiguous_broad_parent
+BRD-K49049886-001-08-7,unknown,retained,MSJODEOZODDVGW,CGS-15943,adenosine receptor antagonist,exact_material
+BRD-K49328571-001-03-6,unknown,multiple_primary_moa,,,,
+BRD-K49865102-001-09-2,unknown,retained,SUDAHWBOROXANE,PD-0325901,MEK inhibitor,unambiguous_broad_parent
+BRD-K51313569-001-06-0,unknown,retained,AHJRHEGDXFFMBM,palbociclib,CDK inhibitor,unambiguous_broad_parent
+BRD-K51544265-001-04-2,RET tyrosine kinase inhibitor|VEGFR inhibitor,multiple_primary_moa,,,,
+BRD-K51671335-001-04-9,unknown,retained,BGRJTUBHPOOWDU,levosulpiride,dopamine receptor antagonist,unambiguous_broad_parent
+BRD-K52233191-001-01-6,unknown,retained,JRNJNYBQQYBCLE,R547,CDK inhibitor,unambiguous_broad_parent
+BRD-K56301217-001-10-8,unknown,retained,HPLNQCPCUACXLM,ABT-737,BCL inhibitor,exact_material
+BRD-K56343971-001-08-0,unknown,retained,GPXBXXGIAQBQNI,vemurafenib,RAF inhibitor,unambiguous_broad_parent
+BRD-K56429665-001-09-6,unknown,retained,LWQQLNNNIPYSNX,calcipotriol,vitamin D receptor agonist,exact_material
+BRD-K57080016-001-03-5,unknown,retained,CYOHGALHFOKKQC,selumetinib,MEK inhibitor,unambiguous_broad_parent
+BRD-K59369769-001-21-1,unknown,multiple_primary_moa,,,,
+BRD-K61033289-001-01-2,unknown,absent_or_ambiguous_identity,,,,
+BRD-K62200014-003-08-9,unknown,retained,OTBXOEAOVRKTNQ,anagrelide,phosphodiesterase inhibitor,unambiguous_broad_parent
+BRD-K62391742-001-08-9,unknown,retained,LQBVNQSMGBZMKD,venetoclax,BCL inhibitor,exact_material
+BRD-K62858456-300-01-4,unknown,retained,JQSAYKKFZOSZGJ,lomerizine,calcium channel blocker,exact_material
+BRD-K63750851-001-18-1,unknown,multiple_primary_moa,,,,
+BRD-K63828191-003-07-3,unknown,multiple_primary_moa,,,,
+BRD-K64052750-001-04-3,unknown,retained,XGALLCVXEZPNRQ,gefitinib,EGFR inhibitor,unambiguous_broad_parent
+BRD-K64890080-001-05-4,unknown,retained,XQVVPGYIWAGRNI,BI-2536,PLK inhibitor,unambiguous_broad_parent
+BRD-K64925568-001-01-8,MDM inhibitor,retained,DRLCSJFKKILATL,AMG-232,MDM inhibitor,exact_material
+BRD-K66175015-001-01-7,unknown,retained,ULXXDDBFHOBEHA,afatinib,EGFR inhibitor,unambiguous_broad_parent
+BRD-K66615216-001-01-9,unknown,retained,FABPRXSRWADJSP,moxifloxacin,bacterial DNA gyrase inhibitor,unambiguous_broad_parent
+BRD-K66788707-001-07-7,unknown,retained,HBUBKKRHXORPQB,fludarabine,ribonucleotide reductase inhibitor,unambiguous_broad_parent
+BRD-K67566344-001-01-8,unknown,retained,RFSMUFRPPYDYRD,KU-0063794,mTOR inhibitor,unambiguous_broad_parent
+BRD-K67868012-001-07-6,mTOR inhibitor|PI3K inhibitor,multiple_primary_moa,,,,
+BRD-K69932463-001-10-6,unknown,retained,KVLFRAWTRWDEDF,AZD8055,mTOR inhibitor,exact_material
+BRD-K70401845-001-09-0,unknown,retained,AAKJLRGGTJKAMG,erlotinib,EGFR inhibitor,exact_material
+BRD-K71035033-001-01-4,unknown,multiple_primary_moa,,,,
+BRD-K71221037-001-02-4,unknown,retained,PKWRMUKBEYJEIX,birinapant,XIAP inhibitor,exact_material
+BRD-K71926323-001-12-0,unknown,retained,BPFYOAJNDMUVBL,marbofloxacin,bacterial DNA gyrase inhibitor,exact_material
+BRD-K74117820-066-10-8,unknown,retained,QAGYKUNXZHXKMR,nelfinavir,HIV protease inhibitor,exact_material
+BRD-K76674262-001-03-3,protein synthesis inhibitor,retained,HYFHYPWGAURHIV,homoharringtonine,protein synthesis inhibitor,exact_material
+BRD-K77625799-001-07-7,EGFR inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,multiple_primary_moa,,,,
+BRD-K77908580-001-05-4,unknown,retained,INVTYAOGFAGBOE,entinostat,HDAC inhibitor,unambiguous_broad_parent
+BRD-K78431006-001-01-1,unknown,inconsistent_primary_moa,,,,
+BRD-K78659596-001-03-9,proteasome inhibitor,retained,MXAYKZJJDUDWDS,ixazomib,proteasome inhibitor,exact_material
+BRD-K81418486-001-52-5,unknown,retained,WAEXFXRVDQXREF,vorinostat,HDAC inhibitor,unambiguous_broad_parent
+BRD-K87909389-001-01-2,unknown,retained,BIIVYFLTOXDAOV,alvocidib,CDK inhibitor,unambiguous_broad_parent
+BRD-K89162000-001-01-5,unknown,multiple_primary_moa,,,,
+BRD-K89732114-001-03-4,unknown,retained,ZEWQUBUPAILYHI,trifluoperazine,dopamine receptor antagonist,unambiguous_broad_parent
+BRD-K92723993-001-07-5,unknown,multiple_primary_moa,,,,
+BRD-K93918653-001-06-3,unknown,retained,CVWXJKQAOSCOAB,quizartinib,FLT3 inhibitor,unambiguous_broad_parent
+BRD-K95309561-001-24-7,unknown,retained,NFDFQCUYFHCNBW,dienestrol,estrogen receptor agonist,exact_material
+BRD-K99023089-001-01-1,unknown,retained,JDUBGYFRJFOXQC,AZD5363,AKT inhibitor,unambiguous_broad_parent
+BRD-K99451608-001-02-4,unknown,retained,KJHKTHWMRKYKJE,lopinavir,HIV protease inhibitor,unambiguous_broad_parent
+BRD-A03249105-001-01-9,estrogen receptor antagonist,retained,VWUXBMIQPBEWFH,fulvestrant,estrogen receptor antagonist,exact_material
+BRD-A06935312-001-03-5,unknown,retained,IECPWNUMDGFDKC,fusidic-acid,bacterial 30S ribosomal subunit inhibitor,unambiguous_broad_parent
+BRD-A08545410-311-03-4,unknown,multiple_primary_moa,,,,
+BRD-A26503646-001-14-1,unknown,retained,ZMEULISFKSVRLQ,formestane,aromatase inhibitor,unambiguous_broad_parent
+BRD-A30051119-315-02-2,unknown,retained,LKCWBDHBTVXHDL,amikacin,bacterial 30S ribosomal subunit inhibitor,unambiguous_broad_parent
+BRD-A31159102-003-13-0,unknown,retained,RTHCYVBBDHJXIQ,fluoxetine,selective serotonin reuptake inhibitor (SSRI),unambiguous_broad_parent
+BRD-A36331462-001-01-3,unknown,retained,SWZXEVABPLUDIO,oprozomib,proteasome inhibitor,unambiguous_broad_parent
+BRD-A50998626-001-01-3,unknown,multiple_primary_moa,,,,
+BRD-A62025033-001-02-6,unknown,missing_connectivity,,,,
+BRD-A73741725-001-01-0,unknown,retained,BFYIZQONLCFLEV,exemestane,aromatase inhibitor,unambiguous_broad_parent
+BRD-A78195072-001-06-2,apoptosis stimulant|ribonucleotide reductase inhibitor,multiple_primary_moa,,,,
+BRD-A78723049-001-01-2,bacterial cell wall synthesis inhibitor,retained,SRZNHPXWXCNNDU,cefotetan,bacterial cell wall synthesis inhibitor,exact_material
+BRD-A79768653-001-13-8,unknown,retained,QFJCIRLUMZQUOT,sirolimus,mTOR inhibitor,unambiguous_broad_parent
+BRD-A81513827-001-03-6,unknown,absent_or_ambiguous_identity,,,,
+BRD-A87130939-001-07-9,lipoxygenase inhibitor,retained,HCZKYJDFEPMADG,masoprocol,lipoxygenase inhibitor,exact_material
+BRD-A92537424-001-03-9,unknown,multiple_primary_moa,,,,
+BRD-K03390685-001-01-7,MEK inhibitor,retained,BSMCAPRUBJMWDF,cobimetinib,MEK inhibitor,exact_material
+BRD-K03449891-001-06-0,unknown,retained,CXQHYVUVSFXTMY,foretinib,VEGFR inhibitor,exact_material
+BRD-K04887706-001-10-7,unknown,missing_connectivity,,,,
+BRD-K05104363-001-02-7,unknown,retained,GFMMXOIFOQCCGU,PD-184352,MEK inhibitor,unambiguous_broad_parent
+BRD-K05619559-001-12-7,unknown,retained,NLVFBUXFDBBNBW,tobramycin,bacterial 30S ribosomal subunit inhibitor,exact_material
+BRD-K05804044-001-12-8,unknown,retained,ZGBGPEDJXCYQPH,AZ-628,RAF inhibitor,exact_material
+BRD-K07572174-001-17-0,cyclooxygenase inhibitor|histone acetyltransferase inhibitor|lipoxygenase inhibitor|NFkB pathway inhibitor,multiple_primary_moa,,,,
+BRD-K07691486-001-10-6,unknown,retained,BTIHMVBBUGXLCJ,roscovitine,CDK inhibitor,unambiguous_broad_parent
+BRD-K07857022-002-01-1,opioid receptor antagonist,retained,UPNUIXSCZBYVBB,alvimopan,opioid receptor antagonist,exact_material
+BRD-K08832567-001-10-7,unknown,multiple_primary_moa,,,,
+BRD-K09078998-001-01-4,mTOR inhibitor,retained,BUROJSBIWGDYCN,deforolimus,mTOR inhibitor,exact_material
+BRD-K09951645-001-11-8,unknown,retained,BFSMGDJOXZAERB,dabrafenib,RAF inhibitor,exact_material
+BRD-K11717138-001-16-2,unknown,retained,WHQCHUCQKNIQEC,benzbromarone,chloride channel blocker,unambiguous_broad_parent
+BRD-K12184916-001-01-4,unknown,multiple_primary_moa,,,,
+BRD-K12867552-001-04-7,HDAC inhibitor,retained,MAUCONCHVWBMHK,PCI-24781,HDAC inhibitor,exact_material
+BRD-K13154216-001-02-1,unknown,retained,HKVAMNSJSFKALM,everolimus,mTOR inhibitor,unambiguous_broad_parent
+BRD-K13390322-001-04-8,unknown,retained,OVPNQJVDAFNBDN,AT-7519,CDK inhibitor,unambiguous_broad_parent
+BRD-K13662825-001-02-6,unknown,retained,PIMQWRZWLQKKBJ,dinaciclib,CDK inhibitor,unambiguous_broad_parent
+BRD-K16730910-001-02-4,unknown,multiple_primary_moa,,,,
+BRD-K16803204-001-01-6,JAK inhibitor,retained,RIJLVEAXPNLDTC,filgotinib,JAK inhibitor,exact_material
+BRD-K17075857-001-15-0,unknown,retained,WDFKMLRRRCGAKS,chloroxine,opioid receptor antagonist,unambiguous_broad_parent
+BRD-K17555800-001-01-9,unknown,retained,ZMELOYOKMZBMRB,talmapimod,p38 MAPK inhibitor,exact_material
+BRD-K17705806-003-05-1,unknown,retained,VTGBZWHPJFMTKS,JTC-801,opioid receptor antagonist,unambiguous_broad_parent
+BRD-K17743125-001-07-6,unknown,retained,NCNRHFGMJRPRSK,belinostat,HDAC inhibitor,unambiguous_broad_parent
+BRD-K17894950-001-13-5,unknown,multiple_primary_moa,,,,
+BRD-K27182532-001-01-5,unknown,retained,PDYXPCKITKHFOZ,metatinib,Bcr-Abl kinase inhibitor,unambiguous_broad_parent
+BRD-K28456624-001-02-9,unknown,retained,LVLLALCJVJNGQQ,seocalcitol,vitamin D receptor agonist,exact_material
+BRD-K29950728-048-18-2,unknown,retained,GKIRPKYJQBWNGO,clomifene,estrogen receptor antagonist,exact_material
+BRD-K31342827-001-10-4,unknown,retained,QMGUOJYZJKLOLH,GF109203X,PKC inhibitor,unambiguous_broad_parent
+BRD-K33732501-004-01-0,opioid receptor antagonist,retained,JVLBPIPGETUEET,methylnaltrexone,opioid receptor antagonist,exact_material
+BRD-K34022604-001-04-1,unknown,retained,WDDPHFBMKLOVOX,clofarabine,ribonucleotide reductase inhibitor,unambiguous_broad_parent
+BRD-K35189033-001-30-3,unknown,multiple_primary_moa,,,,
+BRD-K36280065-001-01-1,unknown,retained,UJLAWZDWDVHWOW,tofacitinib,JAK inhibitor,unambiguous_broad_parent
+BRD-K37687095-001-04-4,unknown,retained,RWEVIPRMPFNTLO,AZD8330,MEK inhibitor,unambiguous_broad_parent
+BRD-K37991163-050-05-1,unknown,retained,AHOUBRCZNHFOSL,paroxetine,selective serotonin reuptake inhibitor (SSRI),unambiguous_broad_parent
+BRD-K41260949-001-01-8,unknown,multiple_primary_moa,,,,
+BRD-K41410256-304-02-2,cyclooxygenase inhibitor,retained,IPOKCKJONYRRHP,balsalazide,cyclooxygenase inhibitor,exact_material
+BRD-K41895714-001-01-4,unknown,missing_connectivity,,,,
+BRD-K42417338-045-01-9,unknown,unknown_primary_moa,,,,
+BRD-K43966364-237-03-0,unknown,retained,BPLBGHOLXOTWMN,penicillin-v-potassium,bacterial cell wall synthesis inhibitor,unambiguous_broad_parent
+BRD-K44844162-001-01-6,PI3K inhibitor,retained,BEUQXVWXFDOSAQ,taselisib,PI3K inhibitor,exact_material
+BRD-K45158365-001-09-8,unknown,retained,ACWBQPMHZXGDFX,valsartan,angiotensin receptor antagonist,unambiguous_broad_parent
+BRD-K45542189-048-15-5,unknown,retained,RCKMWOKWVGPNJF,diethylcarbamazine,lipoxygenase inhibitor,unambiguous_broad_parent
+BRD-K47554101-001-01-2,bacterial 30S ribosomal subunit inhibitor,retained,SIMWTRCFFSTNMG,eperezolid,bacterial 30S ribosomal subunit inhibitor,exact_material
+BRD-K48068743-001-01-6,dipeptidyl peptidase inhibitor,retained,WGRQANOPCQRCME,teneligliptin,dipeptidyl peptidase inhibitor,exact_material
+BRD-K49328571-001-27-5,unknown,multiple_primary_moa,,,,
+BRD-K49456274-001-01-9,PI3K inhibitor,retained,QINPEPAQOBZPOF,pilaralisib,PI3K inhibitor,exact_material
+BRD-K49807096-003-13-0,unknown,retained,XPCFTKFZXHTYIP,benazepril,angiotensin converting enzyme inhibitor,unambiguous_broad_parent
+BRD-K49865102-001-01-9,unknown,retained,SUDAHWBOROXANE,PD-0325901,MEK inhibitor,unambiguous_broad_parent
+BRD-K51313569-001-10-2,unknown,retained,AHJRHEGDXFFMBM,palbociclib,CDK inhibitor,unambiguous_broad_parent
+BRD-K51544265-044-03-4,unknown,multiple_primary_moa,,,,
+BRD-K51747290-001-15-6,unknown,retained,VSNHCAURESNICA,hydroxyurea,ribonucleotide reductase inhibitor,exact_material
+BRD-K52313696-001-08-1,unknown,retained,VAZAPHZUAVEOMC,tacedinaline,HDAC inhibitor,unambiguous_broad_parent
+BRD-K52751261-001-04-6,unknown,retained,HEKAIDKUDLCBRU,TAK-715,p38 MAPK inhibitor,unambiguous_broad_parent
+BRD-K53517854-050-16-4,unknown,retained,CJOFXWAVKWHTFT,fluvoxamine,selective serotonin reuptake inhibitor (SSRI),unambiguous_broad_parent
+BRD-K56195681-001-01-0,p38 MAPK inhibitor,retained,KKYABQBFGDZVNQ,losmapimod,p38 MAPK inhibitor,exact_material
+BRD-K56343971-001-12-2,unknown,retained,GPXBXXGIAQBQNI,vemurafenib,RAF inhibitor,exact_material
+BRD-K56957086-001-05-5,unknown,retained,BWDQBBCUWLSASG,dacinostat,HDAC inhibitor,unambiguous_broad_parent
+BRD-K57080016-001-19-1,unknown,retained,CYOHGALHFOKKQC,selumetinib,MEK inhibitor,exact_material
+BRD-K60866521-001-06-3,unknown,retained,IFSDAJWBUCMOAH,idelalisib,PI3K inhibitor,unambiguous_broad_parent
+BRD-K61397605-001-03-4,HDAC inhibitor,retained,OHRURASPPZQGQM,romidepsin,HDAC inhibitor,exact_material
+BRD-K63828191-003-28-9,unknown,multiple_primary_moa,,,,
+BRD-K64800655-001-02-5,unknown,retained,HUXYBQXJVXOMKX,PHA-793887,CDK inhibitor,unambiguous_broad_parent
+BRD-K66404838-310-01-1,opioid receptor agonist|opioid receptor antagonist,multiple_primary_moa,,,,
+BRD-K66538826-001-05-6,unknown,multiple_primary_moa,,,,
+BRD-K67102207-236-04-4,unknown,retained,OBKXEAXTFZPCHS,phenylbutyrate,HDAC inhibitor,unambiguous_broad_parent
+BRD-K68065987-300-02-6,unknown,retained,ULDXWLCXEDXJGE,MK-2206,AKT inhibitor,unambiguous_broad_parent
+BRD-K68870568-066-01-5,Bcr-Abl kinase inhibitor,retained,BJCJYEYYYGBROF,flumatinib,Bcr-Abl kinase inhibitor,exact_material
+BRD-K69726595-001-01-2,HCV inhibitor,retained,MLESJYFEMSJZLZ,mericitabine,HCV inhibitor,exact_material
+BRD-K70301876-034-06-1,unknown,retained,WSEQXVZVJXJVFP,citalopram|escitalopram,selective serotonin reuptake inhibitor (SSRI),unambiguous_broad_parent
+BRD-K70511574-001-01-0,unknown,retained,OCKHRKSTDPOHEN,HMN-214,PLK inhibitor,unambiguous_broad_parent
+BRD-K72414522-001-04-2,unknown,retained,WJRRGYBTGDJBFX,AZD5438,CDK inhibitor,exact_material
+BRD-K73237276-001-01-0,vitamin D receptor agonist,retained,BJYLYJCXYAMOFT,tacalcitol,vitamin D receptor agonist,exact_material
+BRD-K73999723-001-10-5,unknown,retained,RMMXLENWKUUMAY,telmisartan,angiotensin receptor antagonist,exact_material
+BRD-K76197012-001-01-2,progesterone receptor antagonist,retained,OOLLAFOLCSJHRE,ulipristal,progesterone receptor antagonist,exact_material
+BRD-K77625799-001-07-7,EGFR inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,multiple_primary_moa,,,,
+BRD-K77908580-001-05-4,unknown,retained,INVTYAOGFAGBOE,entinostat,HDAC inhibitor,unambiguous_broad_parent
+BRD-K78485176-001-05-2,unknown,retained,UQGKUQLKSCSZGY,olmesartan-medoxomil,angiotensin receptor antagonist,unambiguous_broad_parent
+BRD-K78659596-001-04-7,unknown,retained,MXAYKZJJDUDWDS,ixazomib,proteasome inhibitor,unambiguous_broad_parent
+BRD-K81528515-001-06-2,unknown,multiple_primary_moa,,,,
+BRD-K83837640-001-04-8,HDAC inhibitor,retained,PAWIYAYFNXQGAP,JNJ-26481585,HDAC inhibitor,exact_material
+BRD-K84091759-001-05-5,unknown,retained,HTQMVQVXFRQIKW,candesartan,angiotensin receptor antagonist,unambiguous_broad_parent
+BRD-K84163249-001-02-7,unknown,retained,ZGLHBRQAEXKACO,ercalcitriol,vitamin D receptor agonist,unambiguous_broad_parent
+BRD-K84683831-001-01-0,bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor,multiple_primary_moa,,,,
+BRD-K85751432-001-03-3,MEK inhibitor,retained,RDSACQWTXKSHJT,refametinib,MEK inhibitor,exact_material
+BRD-K87909389-001-03-8,unknown,retained,BIIVYFLTOXDAOV,alvocidib,CDK inhibitor,unambiguous_broad_parent
+BRD-K88510285-001-18-6,unknown,multiple_primary_moa,,,,
+BRD-K92723993-001-12-5,unknown,multiple_primary_moa,,,,
+BRD-K93034159-001-23-3,unknown,multiple_primary_moa,,,,
+BRD-K93754473-001-06-0,unknown,multiple_primary_moa,,,,
+BRD-K95901403-001-03-7,unknown,retained,MQMKRQLTIWPEDM,XL147,PI3K inhibitor,unambiguous_broad_parent
+BRD-K97472745-001-01-8,progesterone receptor antagonist,retained,BJJXHLWLUDYTGC,gestrinone,progesterone receptor antagonist,exact_material
+BRD-K98493452-001-01-6,unknown,retained,FVYXIJYOAGAUQK,honokiol,AKT inhibitor,unambiguous_broad_parent
+BRD-K99792991-001-35-6,unknown,retained,ACGUYXCXAPNIKK,hexachlorophene,potassium channel activator,unambiguous_broad_parent
+BRD-K99964838-001-06-9,unknown,multiple_primary_moa,,,,
+BRD-A02006392-001-16-4,unknown,retained,PVHUJELLJLJGLN,nitrendipine,calcium channel blocker,exact_material
+BRD-A02367930-001-02-9,unknown,multiple_primary_moa,,,,
+BRD-A13964793-001-02-6,unknown,absent_or_ambiguous_identity,,,,
+BRD-A20527803-001-01-2,unknown,absent_or_ambiguous_identity,,,,
+BRD-A30655177-001-14-0,unknown,retained,BQLDGDMKDYAGNE,LFM-A13,Bruton's tyrosine kinase (BTK) inhibitor,exact_material
+BRD-A30984645-001-02-3,unknown,retained,CDOOFZZILLRUQH,GDC-0834,Bruton's tyrosine kinase (BTK) inhibitor,exact_material
+BRD-A44780397-001-01-1,unknown,absent_or_ambiguous_identity,,,,
+BRD-A48430263-001-06-9,unknown,multiple_primary_moa,,,,
+BRD-A64808605-003-01-9,unknown,retained,HSVZQQYIMKLNLN,AH11110,adrenergic receptor ligand,unambiguous_broad_parent
+BRD-A68281735-001-02-0,unknown,multiple_primary_moa,,,,
+BRD-A84465106-001-04-6,unknown,retained,VKQFCGNPDRICFG,nisoldipine,calcium channel blocker,unambiguous_broad_parent
+BRD-A94523291-304-01-9,unknown,absent_or_ambiguous_identity,,,,
+BRD-A97437073-001-04-9,unknown,multiple_primary_moa,,,,
+BRD-K00521308-019-03-5,unknown,retained,MMHDBUJXLOFTLC,ATN-161,integrin antagonist,exact_material
+BRD-K02404261-001-16-7,adenosine receptor antagonist|phosphodiesterase inhibitor,multiple_primary_moa,,,,
+BRD-K03243820-001-22-0,unknown,multiple_primary_moa,,,,
+BRD-K07691486-001-10-6,unknown,retained,BTIHMVBBUGXLCJ,roscovitine,CDK inhibitor,unambiguous_broad_parent
+BRD-K08273968-001-16-6,unknown,retained,DDUHZTYCFQRHIY,griseofulvin,tubulin polymerization inhibitor,exact_material
+BRD-K12184916-001-01-4,unknown,multiple_primary_moa,,,,
+BRD-K12906202-001-06-2,unknown,multiple_primary_moa,,,,
+BRD-K13646352-001-03-8,FLT3 inhibitor|KIT inhibitor|PKC inhibitor,multiple_primary_moa,,,,
+BRD-K15236393-001-01-1,unknown,absent_or_ambiguous_identity,,,,
+BRD-K15567136-003-03-3,unknown,retained,XQYZDYMELSJDRZ,papaverine,phosphodiesterase inhibitor,unambiguous_broad_parent
+BRD-K15574380-001-01-0,unknown,absent_or_ambiguous_identity,,,,
+BRD-K17513304-001-01-9,integrin antagonist,retained,YLFZHHDVRSYTKT,firategrast,integrin antagonist,exact_material
+BRD-K17953908-001-01-7,beta-secretase inhibitor,retained,NIDRNVHMMDAAIK,LY2886721,beta-secretase inhibitor,exact_material
+BRD-K18834913-001-01-1,unknown,retained,GUUIRIMAQGOLHT,LB42708,farnesyltransferase inhibitor,exact_material
+BRD-K19034817-001-04-8,unknown,multiple_primary_moa,,,,
+BRD-K19295594-015-11-9,unknown,multiple_primary_moa,,,,
+BRD-K19352500-070-05-8,unknown,retained,WIKYUJGCLQQFNW,prochlorperazine,dopamine receptor antagonist,unambiguous_broad_parent
+BRD-K19416115-001-05-3,dipeptidyl peptidase inhibitor,retained,MFFMDFFZMYYVKS,sitagliptin,dipeptidyl peptidase inhibitor,exact_material
+BRD-K20505391-001-01-4,unknown,absent_or_ambiguous_identity,,,,
+BRD-K24576554-001-02-2,unknown,multiple_primary_moa,,,,
+BRD-K24844714-001-25-2,unknown,retained,GHASVSINZRGABV,5-fluorouracil,thymidylate synthase inhibitor,exact_material
+BRD-K24968862-001-01-0,integrin antagonist,retained,DRSJLVGDSNWQBI,SB-683698,integrin antagonist,exact_material
+BRD-K25630527-001-02-0,unknown,retained,SQSZANZGUXWJEA,LY2784544,JAK inhibitor,exact_material
+BRD-K29905972-001-10-5,unknown,multiple_primary_moa,,,,
+BRD-K31447894-236-01-0,HMGCR inhibitor,retained,TUZYXOIXSAXUGO,pravastatin,HMGCR inhibitor,exact_material
+BRD-K32842773-434-01-8,unknown,multiple_primary_moa,,,,
+BRD-K33245965-001-03-4,unknown,retained,KLRRGBHZCJLIEL,BMS-833923,smoothened receptor antagonist,exact_material
+BRD-K33277808-001-01-2,unknown,retained,LPMXVESGRSUGHW,ouabain,ATPase inhibitor,exact_material
+BRD-K33551950-001-01-6,unknown,absent_or_ambiguous_identity,,,,
+BRD-K33586289-003-02-8,unknown,retained,QMDKVNSQXPVCRD,EPZ020411,protein arginine N-methyltransferase inhibitor,exact_material
+BRD-K35240538-001-25-4,unknown,retained,VHRSUDSXCMQTMA,methylprednisolone,glucocorticoid receptor agonist,exact_material
+BRD-K35483542-001-04-9,unknown,absent_or_ambiguous_identity,,,,
+BRD-K38852836-001-01-3,unknown,retained,RVAQIUULWULRNW,ganetespib,HSP inhibitor,unambiguous_broad_parent
+BRD-K38985961-001-09-1,unknown,absent_or_ambiguous_identity,,,,
+BRD-K40302533-001-02-9,unknown,retained,BBVNTTZIOTWDSV,PF-5274857,smoothened receptor antagonist,exact_material
+BRD-K40870905-001-01-7,integrin antagonist,retained,KYHVWHYLKOHLKA,CT-7758,integrin antagonist,exact_material
+BRD-K41599323-001-01-5,unknown,retained,DHMTURDWPRKSOA,lonafarnib,farnesyltransferase inhibitor,unambiguous_broad_parent
+BRD-K43586850-001-02-9,calcium channel blocker,retained,GKQPCPXONLDCMU,lacidipine,calcium channel blocker,exact_material
+BRD-K45192137-001-01-1,unknown,absent_or_ambiguous_identity,,,,
+BRD-K48443249-001-01-0,unknown,retained,VVLHQJDAUIPZFH,CNX-774,Bruton's tyrosine kinase (BTK) inhibitor,exact_material
+BRD-K50168500-001-05-3,unknown,retained,OMZCMEYTWSXEPZ,canertinib,EGFR inhibitor,unambiguous_broad_parent
+BRD-K50498985-001-03-3,smoothened receptor antagonist,retained,SZBGQDXLNMELTB,taladegib,smoothened receptor antagonist,exact_material
+BRD-K51318897-001-13-8,unknown,retained,HDDSHPAODJUKPD,fenbendazole,tubulin polymerization inhibitor,unambiguous_broad_parent
+BRD-K53414658-001-08-2,VEGFR inhibitor,retained,SPMVMDHWKHCIDT,tivozanib,VEGFR inhibitor,exact_material
+BRD-K55026842-001-01-4,DNA methyltransferase inhibitor,retained,NMUSYJAQQFHJEW,azacitidine,DNA methyltransferase inhibitor,exact_material
+BRD-K57080016-001-19-1,unknown,retained,CYOHGALHFOKKQC,selumetinib,MEK inhibitor,exact_material
+BRD-K57252450-001-02-5,integrin antagonist,retained,AMLYAMJWYAIXIA,cilengitide,integrin antagonist,exact_material
+BRD-K57569181-001-27-5,phosphodiesterase inhibitor,retained,BYPFEZZEUUWMEJ,pentoxifylline,phosphodiesterase inhibitor,exact_material
+BRD-K59875992-001-01-8,cyclooxygenase inhibitor|lipoxygenase inhibitor,multiple_primary_moa,,,,
+BRD-K60633875-001-01-0,unknown,absent_or_ambiguous_identity,,,,
+BRD-K61468417-003-01-1,unknown,absent_or_ambiguous_identity,,,,
+BRD-K62014504-001-02-8,unknown,absent_or_ambiguous_identity,,,,
+BRD-K62581435-001-02-0,unknown,retained,AQASGOHUMGAWJJ,3-MPPI,adrenergic receptor ligand,unambiguous_broad_parent
+BRD-K62734952-001-01-0,farnesyltransferase inhibitor,retained,UVJYAKBJSGRTHA,arglabin,farnesyltransferase inhibitor,exact_material
+BRD-K63195589-001-02-2,unknown,absent_or_ambiguous_identity,,,,
+BRD-K63504947-001-16-2,unknown,retained,WUWDLXZGHZSWQZ,semaxanib,VEGFR inhibitor,exact_material
+BRD-K63828191-003-28-9,unknown,multiple_primary_moa,,,,
+BRD-K65781196-001-02-2,unknown,retained,WEAJZXNPAWBCOA,avanafil,phosphodiesterase inhibitor,unambiguous_broad_parent
+BRD-K66538826-001-07-2,FLT3 inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAD51 inhibitor|RET tyrosine kinase inhibitor,multiple_primary_moa,,,,
+BRD-K68488863-001-04-9,Aurora kinase inhibitor|FLT3 inhibitor|VEGFR inhibitor,multiple_primary_moa,,,,
+BRD-K70446295-001-01-7,unknown,retained,ZKXZLIFRWWKZRY,EPZ015666,protein arginine N-methyltransferase inhibitor,exact_material
+BRD-K71480163-001-01-4,AKT inhibitor,retained,GRZXWCHAXNAUHY,GDC-0068,AKT inhibitor,exact_material
+BRD-K72827473-001-01-0,ALK tyrosine kinase receptor inhibitor,retained,BCSHRERPHLTPEE,CEP-37440,ALK tyrosine kinase receptor inhibitor,exact_material
+BRD-K74514084-001-02-1,unknown,multiple_primary_moa,,,,
+BRD-K75295174-001-05-0,Aurora kinase inhibitor,retained,ZLHFILGSQDJULK,alisertib,Aurora kinase inhibitor,exact_material
+BRD-K77908580-001-05-4,unknown,retained,INVTYAOGFAGBOE,entinostat,HDAC inhibitor,unambiguous_broad_parent
+BRD-K77987382-001-06-6,unknown,retained,OPXLLQIJSORQAM,mebendazole,tubulin polymerization inhibitor,unambiguous_broad_parent
+BRD-K79131256-001-08-8,unknown,retained,HXHWSAZORRCQMX,albendazole,tubulin polymerization inhibitor,unambiguous_broad_parent
+BRD-K79254416-001-13-5,unknown,retained,XAUDJQYHKZQPEU,decitabine,DNA methyltransferase inhibitor,unambiguous_broad_parent
+BRD-K81709173-001-09-5,unknown,retained,MUQNGPZZQDCDFT,halcinonide,glucocorticoid receptor agonist,exact_material
+BRD-K82746043-001-03-7,unknown,retained,JLYAXFNOILIKPP,navitoclax,BCL inhibitor,unambiguous_broad_parent
+BRD-K82941592-238-02-9,unknown,retained,BPRHUIZQVSMCRT,rosuvastatin,HMGCR inhibitor,unambiguous_broad_parent
+BRD-K83003151-001-01-4,unknown,retained,ZSBOMTDTBDDKMP,alogliptin,dipeptidyl peptidase inhibitor,unambiguous_broad_parent
+BRD-K86718786-001-02-5,unknown,retained,DMIDPTCQPIJYFE,SGC-707,protein arginine N-methyltransferase inhibitor,unambiguous_broad_parent
+BRD-K86930074-001-05-0,KIT inhibitor|VEGFR inhibitor,multiple_primary_moa,,,,
+BRD-K87782578-001-01-4,Bruton's tyrosine kinase (BTK) inhibitor,retained,KXBDTLQSDKGAEB,AVL-292,Bruton's tyrosine kinase (BTK) inhibitor,exact_material
+BRD-K87909389-001-03-8,unknown,retained,BIIVYFLTOXDAOV,alvocidib,CDK inhibitor,unambiguous_broad_parent
+BRD-K88025533-003-01-7,unknown,multiple_primary_moa,,,,
+BRD-K89692698-001-01-8,unknown,absent_or_ambiguous_identity,,,,
+BRD-K89839824-001-04-6,unknown,absent_or_ambiguous_identity,,,,
+BRD-K90382497-001-05-7,unknown,retained,JSKUWFIZUALZLX,GW-843682X,PLK inhibitor,unambiguous_broad_parent
+BRD-K91966436-003-02-3,unknown,absent_or_ambiguous_identity,,,,
+BRD-K92042497-001-01-4,unknown,absent_or_ambiguous_identity,,,,
+BRD-K94534639-001-02-5,beta-secretase inhibitor,retained,MJQMRGWYPNIERM,LY2811376,beta-secretase inhibitor,exact_material
+BRD-K95412502-003-01-5,ATPase inhibitor,retained,MPYLDWFDPHRTEG,istaroxime,ATPase inhibitor,exact_material
+BRD-K99383816-001-01-9,unknown,retained,WFWLQNSHRPWKFK,ftorafur,thymidylate synthase inhibitor,unambiguous_broad_parent
+BRD-K99741577-001-01-7,unknown,retained,FOORCIAZMIWALX,SANT-1,smoothened receptor antagonist,exact_material
+BRD-K99749624-001-05-4,unknown,multiple_primary_moa,,,,

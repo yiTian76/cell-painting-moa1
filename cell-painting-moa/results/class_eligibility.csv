@@ -1,0 +1,425 @@
+moa,n_compounds,eligible
+11-beta hydroxysteroid dehydrogenase inhibitor,1,False
+3-ketoacyl CoA thiolase inhibitor,1,False
+3beta-hydroxy-delta5-steroid dehydrogenase inhibitor,1,False
+5 alpha reductase inhibitor,3,False
+ACAT inhibitor,3,False
+AGE inhibitor,1,False
+AKT inhibitor,6,True
+ALK tyrosine kinase receptor inhibitor,3,False
+AMPK activator,1,False
+AP inhibitor,1,False
+ATP channel blocker,3,False
+ATPase inhibitor,4,False
+AXL kinase inhibitor,1,False
+Aurora kinase inhibitor,6,True
+BCL inhibitor,3,False
+Bcr-Abl kinase inhibitor,2,False
+Bruton's tyrosine kinase (BTK) inhibitor,3,False
+CC chemokine receptor antagonist,8,True
+CCK receptor antagonist,5,True
+CD antagonist,1,False
+CDK inhibitor,8,True
+CFTR channel agonist,2,False
+CFTR channel antagonist,1,False
+CFTR channel potentiator,1,False
+CHK inhibitor,1,False
+CMV terminase inhibitor,1,False
+CRTH receptor antagonist,1,False
+D-amino acid oxidase Inhibitor,1,False
+DNA alkylating agent,5,True
+DNA directed DNA polymerase inhibitor,3,False
+DNA inhibitor,8,True
+DNA methyltransferase inhibitor,3,False
+DNA polymerase inhibitor,5,True
+DNA synthesis inhibitor,6,True
+DeltaF508-CFTR Correctors,1,False
+EGFR inhibitor,15,True
+FAAH inhibitor,1,False
+FABI inhibitor,1,False
+FGFR antagonist,1,False
+FGFR inhibitor,1,False
+FLT3 inhibitor,1,False
+FXR agonist,1,False
+G protein-coupled receptor agonist,1,False
+GABA benzodiazepine site receptor partial agonist,1,False
+GABA receptor antagonist,2,False
+GABA receptor modulator,4,False
+GABA uptake inhibitor,1,False
+GAT inhibitor,1,False
+GK0582 inhibitor,1,False
+HCN channel blocker,1,False
+HCV inhibitor,9,True
+HDAC inhibitor,12,True
+HIV capsid assembly inhibitor,1,False
+HIV integrase inhibitor,4,False
+HIV protease inhibitor,7,True
+HMGCR inhibitor,6,True
+HSP inhibitor,7,True
+IGF-1 inhibitor,1,False
+JAK inhibitor,7,True
+JNK inhibitor,2,False
+L-type calcium channel blocker,1,False
+LDL receptor activator,1,False
+LXR agonist,1,False
+MALT1 inhibitor (JH),1,False
+MAP kinase inhibitor,1,False
+MDM inhibitor,3,False
+MEK inhibitor,10,True
+MET inhibitor,1,False
+N-type calcium channel blocker,1,False
+NADPH inhibitor,1,False
+NADPH oxidase inhibitor,1,False
+NFkB pathway inhibitor,4,False
+O6-alkylguanine-DNA alkyltransferase inhibitor,2,False
+P glycoprotein inhibitor,2,False
+PARP inhibitor,5,True
+PDGFR tyrosine kinase receptor inhibitor,1,False
+PI3K inhibitor,8,True
+PKC activator,1,False
+PKC inhibitor,5,True
+PLK inhibitor,5,True
+PPAR receptor agonist,5,True
+PPAR receptor antagonist,1,False
+Pim kinase inhibitor,2,False
+RAF inhibitor,6,True
+RNA polymerase inhibitor,7,True
+RNA synthesis inhibitor,2,False
+SIRT inhibitor,1,False
+SRC activator,1,False
+SRC inhibitor,1,False
+STAT inhibitor,1,False
+SYK inhibitor,1,False
+T-type calcium channel blocker,3,False
+TGF beta receptor inhibitor,3,False
+TRPA1 channel blocker,1,False
+TRPV agonist,1,False
+TRPV antagonist,2,False
+VEGFR inhibitor,4,False
+WEE1 kinase inhibitor,1,False
+XIAP inhibitor,3,False
+acetylcholine precursor,1,False
+acetylcholine receptor agonist,8,True
+acetylcholine receptor antagonist,20,True
+acetylcholine release enhancer,2,False
+acetylcholinesterase inhibitor,3,False
+adenosine receptor agonist,2,False
+adenosine receptor antagonist,5,True
+adenosine reuptake inhibitor,1,False
+adenosylhomocysteinase inhibitor,1,False
+adenylyl cyclase activator,2,False
+adrenergic inhibitor,2,False
+adrenergic receptor agonist,21,True
+adrenergic receptor antagonist,31,True
+alcohol dehydrogenase inhibitor,2,False
+aldose reductase inhibitor,2,False
+androgen biosynthesis inhibitor,1,False
+androgen receptor agonist,1,False
+androgen receptor antagonist,7,True
+androgen receptor enhancer,1,False
+androgen receptor modulator,6,True
+angiogenesis inhibitor,4,False
+angiotensin antagonist,1,False
+angiotensin converting enzyme activator,1,False
+angiotensin converting enzyme inhibitor,10,True
+angiotensin receptor agonist,1,False
+angiotensin receptor antagonist,6,True
+antacid,1,False
+anthelmintic agent,2,False
+anti-pneumocystis agent,1,False
+antiamyloidogenic agent,1,False
+antiarrhythmic,1,False
+antibacterial agent,1,False
+anticancer agent,1,False
+antihistamine,1,False
+antimalarial agent,2,False
+antimetabolite,1,False
+antioxidant,2,False
+antiprotozoal agent,1,False
+antithyroid agent,2,False
+antiviral,1,False
+apolipoprotein expression enhancer,1,False
+apoptosis stimulant,1,False
+aromatase inhibitor,5,True
+atherogenesis inhibitor,1,False
+bacterial 30S ribosomal subunit inhibitor,4,False
+bacterial 50S ribosomal subunit inhibitor,6,True
+bacterial DNA gyrase inhibitor,10,True
+bacterial antifolate,2,False
+bacterial cell wall synthesis inhibitor,14,True
+bacterial permeability inducer,1,False
+benzodiazepine receptor agonist,6,True
+benzodiazepine receptor antagonist,3,False
+benzodiazepine receptor ligand,1,False
+beta amyloid antagonist,1,False
+beta amyloid protein neurotoxicity inhibitor,1,False
+beta glucuronidase inhibitor,1,False
+beta lactamase inhibitor,2,False
+beta-secretase inhibitor,2,False
+bile acid,1,False
+bone resorption inhibitor,1,False
+breast cancer resistance protein inhibitor,1,False
+bromodomain inhibitor,1,False
+c-Met inhibitor,2,False
+cadherin antagonist,1,False
+calcineurin inhibitor,3,False
+calcitonin antagonist,3,False
+calcium channel activator,1,False
+calcium channel blocker,16,True
+calcium channel modulator,1,False
+calcium sensitizer,1,False
+calmodulin antagonist,1,False
+cannabinoid receptor agonist,3,False
+cannabinoid receptor antagonist,2,False
+cannabinoid receptor inverse agonist,2,False
+carbamoyl phosphate synthase activator,1,False
+carbonic anhydrase inhibitor,6,True
+carboxamide antiepileptic,1,False
+cardiac myosin activator,1,False
+carnitine palmitoyltransferase inhibitor,2,False
+casein kinase inhibitor,1,False
+caspase inhibitor,1,False
+catechol O methyltransferase inhibitor,1,False
+cathepsin inhibitor,2,False
+centromere associated protein inhibitor,1,False
+chelating agent,4,False
+chemoreceptor agonist,1,False
+chloride channel antagonist,1,False
+chloride channel blocker,1,False
+cholesterol inhibitor,4,False
+cholesteryl ester transfer protein inhibitor,2,False
+cholinergic receptor agonist,1,False
+cholinesterase inhibitor,1,False
+coagulation factor inhibitor,5,True
+constitutive androstane receptor (CAR) agonist,1,False
+cyclooxygenase inhibitor,29,True
+cytidine deaminase inhibitor,1,False
+cytochrome P450 inhibitor,5,True
+dehydrogenase inhibitor,1,False
+diacylglycerol O acyltransferase inhibitor,3,False
+dihydrofolate reductase inhibitor,4,False
+dihydroorotate dehydrogenase inhibitor,3,False
+dihydropteroate synthase inhibitor,1,False
+dihydropyrimidine dehydrogenase inhibitor,1,False
+dipeptidyl peptidase inhibitor,5,True
+diuretic,2,False
+dopamine receptor agonist,12,True
+dopamine receptor antagonist,22,True
+dopamine receptor partial agonist,1,False
+dopamine reuptake inhibitor,5,True
+elastase inhibitor,2,False
+endothelin receptor antagonist,4,False
+enkephalinase inhibitor,1,False
+enzyme inducer,1,False
+estrogen receptor agonist,7,True
+estrogen receptor antagonist,2,False
+exportin antagonist,1,False
+farnesyltransferase inhibitor,3,False
+fatty acid synthase inhibitor,2,False
+flavanone glycoside,1,False
+focal adhesion kinase inhibitor,2,False
+folate receptor ligand,1,False
+free fatty acid receptor agonist,1,False
+free radical scavenger,4,False
+"fungal 1,3-beta-D-glucan synthase inhibitor",1,False
+fungal lanosterol demethylase inhibitor,1,False
+fungal squalene epoxidase inhibitor,4,False
+gamma secretase inhibitor,7,True
+gamma secretase modulator,1,False
+gap junction modulator,2,False
+glucagon receptor antagonist,1,False
+glucocorticoid receptor agonist,17,True
+glucocorticoid receptor antagonist,1,False
+glucokinase inhibitor,1,False
+gluconeogenesis inhibitor,1,False
+glucose dependent insulinotropic receptor agonist,3,False
+glucosidase inhibitor,5,True
+glutamate inhibitor,1,False
+glutamate receptor agonist,4,False
+glutamate receptor antagonist,7,True
+glutamate receptor modulator,4,False
+glutamate receptor negative allosteric modulator,1,False
+glycine transporter inhibitor,3,False
+glycogen synthase kinase inhibitor,1,False
+glycosyl transferase inhibitor,1,False
+glycosylation inhibitor,1,False
+gonadotropin releasing factor hormone receptor agonist,2,False
+growth hormone secretagogue receptor agonist,2,False
+guanylate cyclase activator,1,False
+guanylate cyclase stimulant,2,False
+hedgehog pathway inhibitor,1,False
+helicase primase inhibitor,1,False
+hemoglobin oxygen release stimulant,1,False
+hepatocyte growth factor receptor inhibitor,2,False
+histamine receptor agonist,3,False
+histamine receptor antagonist,25,True
+histamine receptor modulator,2,False
+hydantoin antiepileptic,1,False
+hydroxy radical formation stimulant,1,False
+hypoxia inducible factor inhibitor,2,False
+imidazoline receptor agonist,1,False
+immunostimulant,2,False
+immunosuppressant,2,False
+"indoleamine 2,3-dioxygenase inhibitor",1,False
+inosine monophosphate dehydrogenase inhibitor,2,False
+inositol monophosphatase inhibitor,1,False
+insulin secretagogue,5,True
+insulin sensitizer,2,False
+integrin antagonist,5,True
+interferon inducer,1,False
+interleukin inhibitor,1,False
+interleukin receptor agonist,1,False
+interleukin synthesis inhibitor,1,False
+intermediate conductance potassium channel blocker,1,False
+ion channel antagonist,1,False
+isocitrate dehydrogenase inhibitor,2,False
+kainate receptor antagonist,1,False
+kinesin-like spindle protein inhibitor,1,False
+lactamase inhibitor,1,False
+laxative,1,False
+leukotriene receptor antagonist,4,False
+leukotriene synthesis inhibitor,2,False
+lipase clearing factor inhibitor,1,False
+lipase inhibitor,2,False
+lipid peroxidase inhibitor,2,False
+lipoprotein lipase activator,1,False
+lipoxygenase inhibitor,3,False
+local anesthetic,1,False
+mTOR inhibitor,8,True
+maternal embryonic leucine zipper kinase inhibitor,1,False
+matrix metalloprotease inhibitor,3,False
+mediator release inhibitor,1,False
+melanin inhibitor,1,False
+melatonin receptor agonist,1,False
+membrane integrity inhibitor,2,False
+membrane permeability inhibitor,2,False
+metalloproteinase inhibitor,1,False
+microsomal trigylceride transfer protein inhibitor,1,False
+microtubule inhibitor,3,False
+microtubule stabilizing agent,1,False
+mineralocorticoid receptor antagonist,3,False
+mitochondrial electron transport inhibitor,1,False
+monoamine oxidase inhibitor,6,True
+motilin receptor agonist,1,False
+mucolytic agent,2,False
+mucus protecting agent,1,False
+muscle relaxant,1,False
+nedd activating enzyme inhibitor,1,False
+nematocide,1,False
+neprilysin inhibitor,2,False
+neuraminidase inhibitor,1,False
+neurotransmitter agonist,1,False
+neurotrophic agent,2,False
+niacinamide phosphoribosyltransferase inhibitor,1,False
+nitric oxide donor,2,False
+nitric oxide stimulant,2,False
+nitric oxide synthase inhibitor,5,True
+non-nucleoside reverse transcriptase inhibitor,5,True
+norepinephrine reputake inhibitor,1,False
+norepinephrine reuptake inhibitor,1,False
+norepinephrine transporter inhibitor,1,False
+nucleoside reverse transcriptase inhibitor,6,True
+opioid receptor agonist,4,False
+opioid receptor antagonist,4,False
+orexin receptor antagonist,1,False
+ornithine decarboxylase inhibitor,1,False
+other antibiotic,1,False
+oxidative stress inducer,1,False
+oxidizing agent,1,False
+p21 activated kinase inhibitor,1,False
+p38 MAPK inhibitor,7,True
+penicillin binding protein inhibitor,1,False
+peptidase inhibitor,1,False
+pharmacological chaperone,1,False
+phosphodiesterase inhibitor,35,True
+phospholipase inhibitor,1,False
+phosphorylase inhibitor,1,False
+plasminogen activator inhibitor,1,False
+platelet activating factor receptor antagonist,3,False
+platelet aggregation inhibitor,2,False
+polar auxin transport inhibitor,1,False
+polarization inhibitor,1,False
+potassium channel activator,5,True
+potassium channel blocker,7,True
+procollagen C-endopeptidase inhibitor,1,False
+progesterone receptor agonist,7,True
+progesterone receptor antagonist,2,False
+progestogen hormone,1,False
+prostacyclin analog,1,False
+prostanoid receptor agonist,4,False
+prostanoid receptor antagonist,4,False
+protease inhibitor,1,False
+proteasome inhibitor,5,True
+protein synthesis inhibitor,5,True
+protein synthesis stimulant,3,False
+protein tyrosine kinase inhibitor,2,False
+purine antagonist,2,False
+purinergic receptor antagonist,2,False
+pyruvate dehydrogenase inhibitor,1,False
+pyruvate dehydrogenase kinase inhibitor,1,False
+radical formation stimulant,1,False
+reducing agent,1,False
+renin inhibitor,2,False
+retinoid receptor agonist,7,True
+rho associated kinase inhibitor,4,False
+ribonucleotide reductase inhibitor,5,True
+secretory phospholipase inhibitor,1,False
+selective estrogen receptor modulator (SERM),1,False
+selective serotonin reuptake inhibitor (SSRI),5,True
+serine protease inhibitor,1,False
+serotonin receptor agonist,10,True
+serotonin receptor antagonist,14,True
+serotonin receptor inverse agonist,1,False
+serotonin reuptake inhibitor,2,False
+serotonin transporter (SERT) inhibitor,2,False
+serotoninânorepinephrine reuptake inhibitor (SNRI),2,False
+sigma receptor agonist,2,False
+sigma receptor antagonist,4,False
+smoothened receptor antagonist,1,False
+sodium channel blocker,12,True
+sodium/glucose cotransporter inhibitor,3,False
+sodium/hydrogen exchanger inhibitor,1,False
+sodium/potassium/chloride transporter inhibitor,3,False
+solute carrier family member inhibitor,1,False
+somatostatin receptor agonist,1,False
+stearoyl-CoA desaturase inhibitor,1,False
+sterol demethylase inhibitor,7,True
+structural glycoprotein antagonist,1,False
+succinimide antiepileptic,1,False
+sulfonylurea,2,False
+survivin inhibitor,1,False
+tachykinin antagonist,6,True
+thiazide diuretic,1,False
+thioredoxin inhibitor,1,False
+thrombin inhibitor,3,False
+thromboxane receptor antagonist,3,False
+thromboxane synthase inhibitor,3,False
+thymidine phosphorylase inhibitor,1,False
+thymidylate synthase inhibitor,3,False
+thyroid hormone receptor agonist,1,False
+thyroid hormone stimulant,1,False
+thyroid peroxidase inhibitor,1,False
+thyrotropin releasing hormone receptor agonist,2,False
+toll-like receptor agonist,1,False
+toll-like receptor inhibitor,1,False
+topoisomerase inhibitor,16,True
+transthyretin amyloid inhibitor,1,False
+tricyclic antidepressant,2,False
+troponin activator,1,False
+tryptophan hydroxylase inhibitor,2,False
+tubulin polymerization inhibitor,10,True
+tumor necrosis factor production inhibitor,2,False
+tumor necrosis factor receptor antagonist,1,False
+tumor necrosis factor release inhibitor,2,False
+tyrosinase inhibitor,2,False
+tyrosine kinase inhibitor,5,True
+uric acid diuretic,1,False
+uricosuric blocker,1,False
+vasopressin receptor agonist,1,False
+vasopressin receptor antagonist,4,False
+vesicular monoamine transporter inhibitor,2,False
+vitamin D receptor agonist,6,True
+vitamin K antagonist,3,False
+voltage-gated sodium channel blocker,3,False
+voltage-gated sodium channel modulator,1,False
+xanthine oxidase inhibitor,4,False

@@ -1,0 +1,17 @@
+method,metric,lower_95,upper_95
+channel_balanced,accuracy,0.09396914446,0.1178120617
+channel_balanced,balanced_accuracy,0.1046119429,0.1364355077
+channel_balanced,macro_f1,0.06215265121,0.08846259873
+channel_balanced,top3_accuracy,0.1570827489,0.187973352
+flat_mean_cosine,accuracy,0.08835904628,0.1122370266
+flat_mean_cosine,balanced_accuracy,0.09933686133,0.1293707895
+flat_mean_cosine,macro_f1,0.06009556908,0.08696830085
+flat_mean_cosine,top3_accuracy,0.1570827489,0.1893408135
+cosine_1nn,accuracy,0.1486676017,0.190743338
+cosine_1nn,balanced_accuracy,0.1456797286,0.1842706608
+cosine_1nn,macro_f1,0.1384025061,0.1775148008
+cosine_1nn,top3_accuracy,0.2258064516,0.2748948107
+majority,accuracy,0.04908835905,0.04908835905
+majority,balanced_accuracy,0.01265822785,0.01265822785
+majority,macro_f1,0.001184593515,0.001184593515
+majority,top3_accuracy,0.1332398317,0.1332398317

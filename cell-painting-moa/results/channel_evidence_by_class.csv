@@ -1,0 +1,554 @@
+moa,block,true_minus_rival_contribution
+AKT inhibitor,AGP,-0.010589610744630126
+AKT inhibitor,DNA,-0.03636594622366578
+AKT inhibitor,ER,-0.02795314104159571
+AKT inhibitor,Mito,-0.03217926308982237
+AKT inhibitor,RNA,-0.03022568350088665
+AKT inhibitor,cross_channel,-0.022424189840238817
+AKT inhibitor,shape_other,-0.02020256950674269
+Aurora kinase inhibitor,AGP,0.02348235475276755
+Aurora kinase inhibitor,DNA,0.034424788120812504
+Aurora kinase inhibitor,ER,0.015635708360564077
+Aurora kinase inhibitor,Mito,0.037519107280028975
+Aurora kinase inhibitor,RNA,0.02673990188635404
+Aurora kinase inhibitor,cross_channel,0.0064042635028057045
+Aurora kinase inhibitor,shape_other,0.05722765772724852
+CC chemokine receptor antagonist,AGP,-0.047440585137686356
+CC chemokine receptor antagonist,DNA,-0.041474112480400685
+CC chemokine receptor antagonist,ER,0.015903278979268267
+CC chemokine receptor antagonist,Mito,-0.03328339059880603
+CC chemokine receptor antagonist,RNA,-0.02333140907569226
+CC chemokine receptor antagonist,cross_channel,-0.036157242665302076
+CC chemokine receptor antagonist,shape_other,-0.019781136071451565
+CCK receptor antagonist,AGP,-0.06050116014039262
+CCK receptor antagonist,DNA,-0.04029962727002363
+CCK receptor antagonist,ER,-0.012642534146547674
+CCK receptor antagonist,Mito,-0.0668264324401566
+CCK receptor antagonist,RNA,-0.034203313054289766
+CCK receptor antagonist,cross_channel,-0.03830093650306819
+CCK receptor antagonist,shape_other,0.0013107905825221467
+CDK inhibitor,AGP,-0.012100394601543187
+CDK inhibitor,DNA,-0.00662745687052679
+CDK inhibitor,ER,-0.017504258845247186
+CDK inhibitor,Mito,-0.0018642074802957675
+CDK inhibitor,RNA,0.009136806081854253
+CDK inhibitor,cross_channel,0.02373999575249923
+CDK inhibitor,shape_other,0.008446802660488459
+DNA alkylating agent,AGP,-0.004963276442403952
+DNA alkylating agent,DNA,-0.01880090520787767
+DNA alkylating agent,ER,-0.04043051052144242
+DNA alkylating agent,Mito,-0.014906967329314458
+DNA alkylating agent,RNA,-0.02228126096986856
+DNA alkylating agent,cross_channel,-0.01607603492850002
+DNA alkylating agent,shape_other,-0.036435280743085496
+DNA inhibitor,AGP,-0.05258964398541063
+DNA inhibitor,DNA,-0.09370379813140008
+DNA inhibitor,ER,-0.03843293893354553
+DNA inhibitor,Mito,-0.08250579894705487
+DNA inhibitor,RNA,-0.06807509694623896
+DNA inhibitor,cross_channel,-0.06265146508776803
+DNA inhibitor,shape_other,-0.06688648816292114
+DNA polymerase inhibitor,AGP,-0.0581614189962083
+DNA polymerase inhibitor,DNA,-0.04566958892479872
+DNA polymerase inhibitor,ER,-0.06290464766289375
+DNA polymerase inhibitor,Mito,-0.04315501625141975
+DNA polymerase inhibitor,RNA,-0.04027904514878934
+DNA polymerase inhibitor,cross_channel,-0.04195616876344617
+DNA polymerase inhibitor,shape_other,-0.045782440205986936
+DNA synthesis inhibitor,AGP,-0.06855156434075073
+DNA synthesis inhibitor,DNA,-0.08889638038289464
+DNA synthesis inhibitor,ER,-0.06233908298391123
+DNA synthesis inhibitor,Mito,-0.08472506820964461
+DNA synthesis inhibitor,RNA,-0.08820264204120183
+DNA synthesis inhibitor,cross_channel,-0.06943659232032016
+DNA synthesis inhibitor,shape_other,-0.08569848163589222
+EGFR inhibitor,AGP,-0.03778781409659914
+EGFR inhibitor,DNA,-0.03387853159163006
+EGFR inhibitor,ER,-0.036912980419806084
+EGFR inhibitor,Mito,-0.02622067538284553
+EGFR inhibitor,RNA,-0.020608793730352397
+EGFR inhibitor,cross_channel,-0.031114954590416997
+EGFR inhibitor,shape_other,-0.040792583738967235
+HCV inhibitor,AGP,-0.046350907930271384
+HCV inhibitor,DNA,-0.07529422726578322
+HCV inhibitor,ER,-0.055791978932752374
+HCV inhibitor,Mito,-0.06381137917810865
+HCV inhibitor,RNA,-0.06410229837589645
+HCV inhibitor,cross_channel,-0.0511535477507995
+HCV inhibitor,shape_other,-0.062010285545866545
+HDAC inhibitor,AGP,-0.0626540156353021
+HDAC inhibitor,DNA,-0.03378764797001408
+HDAC inhibitor,ER,-0.048753417307811776
+HDAC inhibitor,Mito,-0.029369776862256797
+HDAC inhibitor,RNA,-0.05676322745607998
+HDAC inhibitor,cross_channel,-0.018971709531554932
+HDAC inhibitor,shape_other,-0.04984617466598368
+HIV protease inhibitor,AGP,-0.07032485211564717
+HIV protease inhibitor,DNA,-0.04994897254420606
+HIV protease inhibitor,ER,-0.03906561554931911
+HIV protease inhibitor,Mito,-0.005360754368890093
+HIV protease inhibitor,RNA,-0.04489854920826149
+HIV protease inhibitor,cross_channel,-0.030112116732561617
+HIV protease inhibitor,shape_other,-0.02976597772654662
+HMGCR inhibitor,AGP,-0.07732000209960348
+HMGCR inhibitor,DNA,-0.07093978607884877
+HMGCR inhibitor,ER,-0.03385564214705695
+HMGCR inhibitor,Mito,-0.051794301305680385
+HMGCR inhibitor,RNA,-0.03715950116518878
+HMGCR inhibitor,cross_channel,-0.04690195271235063
+HMGCR inhibitor,shape_other,-0.021004744643259066
+HSP inhibitor,AGP,0.0005365990952383756
+HSP inhibitor,DNA,0.008662243508188585
+HSP inhibitor,ER,-0.002936963304770941
+HSP inhibitor,Mito,0.014203824162192775
+HSP inhibitor,RNA,0.02135187652914808
+HSP inhibitor,cross_channel,0.029842067865282013
+HSP inhibitor,shape_other,0.01410091861741473
+JAK inhibitor,AGP,-0.053621996556457344
+JAK inhibitor,DNA,-0.04662143730467873
+JAK inhibitor,ER,-0.03350278276279876
+JAK inhibitor,Mito,-0.02686852752845193
+JAK inhibitor,RNA,-0.027115762194471905
+JAK inhibitor,cross_channel,-0.03660657381717437
+JAK inhibitor,shape_other,-0.026848205580694645
+MEK inhibitor,AGP,0.025683012680365512
+MEK inhibitor,DNA,0.025262473043070173
+MEK inhibitor,ER,0.02229687884483765
+MEK inhibitor,Mito,0.01944329963797487
+MEK inhibitor,RNA,0.013652746085512682
+MEK inhibitor,cross_channel,0.012861386161458502
+MEK inhibitor,shape_other,0.054733179913916775
+PARP inhibitor,AGP,-0.06035300883287237
+PARP inhibitor,DNA,-0.09996316646598966
+PARP inhibitor,ER,-0.06922177091510982
+PARP inhibitor,Mito,-0.08276974127211235
+PARP inhibitor,RNA,-0.08479042018737186
+PARP inhibitor,cross_channel,-0.0775934976990262
+PARP inhibitor,shape_other,-0.07215703090356862
+PI3K inhibitor,AGP,-0.050912296132208955
+PI3K inhibitor,DNA,-0.07120516168696978
+PI3K inhibitor,ER,-0.0535325877465528
+PI3K inhibitor,Mito,-0.036514404757547164
+PI3K inhibitor,RNA,-0.036959649881960314
+PI3K inhibitor,cross_channel,-0.048986960772871874
+PI3K inhibitor,shape_other,-0.06918168016538344
+PKC inhibitor,AGP,-0.03865982322078086
+PKC inhibitor,DNA,-0.05699744878604109
+PKC inhibitor,ER,-0.06277820529088263
+PKC inhibitor,Mito,-0.0408907120208933
+PKC inhibitor,RNA,-0.04960637659183027
+PKC inhibitor,cross_channel,-0.04953090219160241
+PKC inhibitor,shape_other,-0.008492923360634544
+PLK inhibitor,AGP,0.016913047117003734
+PLK inhibitor,DNA,0.01814829215676646
+PLK inhibitor,ER,-0.003073899439231627
+PLK inhibitor,Mito,0.004611502276324541
+PLK inhibitor,RNA,0.007974129642581571
+PLK inhibitor,cross_channel,0.005031731785969521
+PLK inhibitor,shape_other,0.019916857081993262
+PPAR receptor agonist,AGP,-0.0698029370574206
+PPAR receptor agonist,DNA,-0.0821330770971205
+PPAR receptor agonist,ER,-0.05224734455227611
+PPAR receptor agonist,Mito,-0.05301395484946991
+PPAR receptor agonist,RNA,-0.05667433813330212
+PPAR receptor agonist,cross_channel,-0.04023340612069962
+PPAR receptor agonist,shape_other,-0.09377514130025985
+RAF inhibitor,AGP,-0.05810336009104682
+RAF inhibitor,DNA,-0.044693294254727234
+RAF inhibitor,ER,-0.07474072073516545
+RAF inhibitor,Mito,-0.017386276060121032
+RAF inhibitor,RNA,-0.05052818829115807
+RAF inhibitor,cross_channel,-0.014803632705304165
+RAF inhibitor,shape_other,-0.012087216409797959
+RNA polymerase inhibitor,AGP,-0.09945942610766334
+RNA polymerase inhibitor,DNA,-0.08265712255822354
+RNA polymerase inhibitor,ER,-0.09565113847582071
+RNA polymerase inhibitor,Mito,-0.0602349524324482
+RNA polymerase inhibitor,RNA,-0.05407617160846371
+RNA polymerase inhibitor,cross_channel,-0.05501216803819207
+RNA polymerase inhibitor,shape_other,-0.07298436080278334
+acetylcholine receptor agonist,AGP,-0.04981436047209482
+acetylcholine receptor agonist,DNA,-0.04476085030964912
+acetylcholine receptor agonist,ER,-0.03448949361322084
+acetylcholine receptor agonist,Mito,-0.009291993089404888
+acetylcholine receptor agonist,RNA,-0.03371574464113117
+acetylcholine receptor agonist,cross_channel,-0.023061998655622695
+acetylcholine receptor agonist,shape_other,-0.022408503142024173
+acetylcholine receptor antagonist,AGP,-0.016720668837085097
+acetylcholine receptor antagonist,DNA,-0.04028713980997506
+acetylcholine receptor antagonist,ER,-0.03445316350312265
+acetylcholine receptor antagonist,Mito,-0.017983589170992857
+acetylcholine receptor antagonist,RNA,-0.03557106386995955
+acetylcholine receptor antagonist,cross_channel,-0.025791640361123108
+acetylcholine receptor antagonist,shape_other,-0.02245993333662977
+adenosine receptor antagonist,AGP,-0.050949924678903594
+adenosine receptor antagonist,DNA,-0.056912658856532926
+adenosine receptor antagonist,ER,-0.045644109309553635
+adenosine receptor antagonist,Mito,-0.03211694433772667
+adenosine receptor antagonist,RNA,-0.0600000613964929
+adenosine receptor antagonist,cross_channel,-0.04612735450843285
+adenosine receptor antagonist,shape_other,-0.02371631397900893
+adrenergic receptor agonist,AGP,-0.018443673217760925
+adrenergic receptor agonist,DNA,-0.023132907636618877
+adrenergic receptor agonist,ER,-0.024412914038046796
+adrenergic receptor agonist,Mito,-0.02383295080259226
+adrenergic receptor agonist,RNA,-0.031402719431545045
+adrenergic receptor agonist,cross_channel,-0.02128050777770077
+adrenergic receptor agonist,shape_other,-0.018618593154843967
+adrenergic receptor antagonist,AGP,-0.03968958705680795
+adrenergic receptor antagonist,DNA,-0.04663201881936956
+adrenergic receptor antagonist,ER,-0.03745309588129193
+adrenergic receptor antagonist,Mito,-0.028743139900590867
+adrenergic receptor antagonist,RNA,-0.04136212643238098
+adrenergic receptor antagonist,cross_channel,-0.031328300218011904
+adrenergic receptor antagonist,shape_other,-0.02747439105799925
+androgen receptor antagonist,AGP,-0.03758415678080391
+androgen receptor antagonist,DNA,-0.0659496781972095
+androgen receptor antagonist,ER,-0.0454106483142348
+androgen receptor antagonist,Mito,-0.042882774085791
+androgen receptor antagonist,RNA,-0.049023021625882346
+androgen receptor antagonist,cross_channel,-0.03844676494095594
+androgen receptor antagonist,shape_other,-0.05103995376490789
+androgen receptor modulator,AGP,-0.022709513031377863
+androgen receptor modulator,DNA,-0.06071927433871354
+androgen receptor modulator,ER,-0.059314865340859724
+androgen receptor modulator,Mito,-0.038381665044844644
+androgen receptor modulator,RNA,-0.05228064221857475
+androgen receptor modulator,cross_channel,-0.03370813516919765
+androgen receptor modulator,shape_other,-0.06562981953388623
+angiotensin converting enzyme inhibitor,AGP,-0.0231464464848089
+angiotensin converting enzyme inhibitor,DNA,-0.0024162300442214456
+angiotensin converting enzyme inhibitor,ER,0.005971088071824205
+angiotensin converting enzyme inhibitor,Mito,0.005024760679965834
+angiotensin converting enzyme inhibitor,RNA,-0.0037806735221292548
+angiotensin converting enzyme inhibitor,cross_channel,-0.012648803855306576
+angiotensin converting enzyme inhibitor,shape_other,0.011417694643861418
+angiotensin receptor antagonist,AGP,-0.033382559106680906
+angiotensin receptor antagonist,DNA,-0.08092525445472855
+angiotensin receptor antagonist,ER,-0.04672789676526775
+angiotensin receptor antagonist,Mito,-0.04596014910156465
+angiotensin receptor antagonist,RNA,-0.05280117086323552
+angiotensin receptor antagonist,cross_channel,-0.05111389501092504
+angiotensin receptor antagonist,shape_other,-0.06432284299012689
+aromatase inhibitor,AGP,0.008781504242659303
+aromatase inhibitor,DNA,-0.03033534469031398
+aromatase inhibitor,ER,-0.007734004830693511
+aromatase inhibitor,Mito,-0.03546373384856415
+aromatase inhibitor,RNA,-0.029925275677328177
+aromatase inhibitor,cross_channel,-0.019728099262323405
+aromatase inhibitor,shape_other,-0.041862830144475754
+bacterial 50S ribosomal subunit inhibitor,AGP,-0.033445700464461665
+bacterial 50S ribosomal subunit inhibitor,DNA,-0.048057020102911706
+bacterial 50S ribosomal subunit inhibitor,ER,-0.06236056590646838
+bacterial 50S ribosomal subunit inhibitor,Mito,-0.06101473389595396
+bacterial 50S ribosomal subunit inhibitor,RNA,-0.06577621137460882
+bacterial 50S ribosomal subunit inhibitor,cross_channel,-0.04090638126765713
+bacterial 50S ribosomal subunit inhibitor,shape_other,-0.02898060097199276
+bacterial DNA gyrase inhibitor,AGP,-0.027931270890649222
+bacterial DNA gyrase inhibitor,DNA,-0.04864978670635396
+bacterial DNA gyrase inhibitor,ER,-0.014831261413359682
+bacterial DNA gyrase inhibitor,Mito,-0.017389595646081404
+bacterial DNA gyrase inhibitor,RNA,-0.017795318201367066
+bacterial DNA gyrase inhibitor,cross_channel,-0.02136200854512507
+bacterial DNA gyrase inhibitor,shape_other,-0.020975308976285783
+bacterial cell wall synthesis inhibitor,AGP,-0.03848042123610508
+bacterial cell wall synthesis inhibitor,DNA,-0.04818921734722936
+bacterial cell wall synthesis inhibitor,ER,-0.03671841717048806
+bacterial cell wall synthesis inhibitor,Mito,-0.044909298042959025
+bacterial cell wall synthesis inhibitor,RNA,-0.04368396165045257
+bacterial cell wall synthesis inhibitor,cross_channel,-0.0428328356879824
+bacterial cell wall synthesis inhibitor,shape_other,-0.038128462748083736
+benzodiazepine receptor agonist,AGP,-0.08040462018125467
+benzodiazepine receptor agonist,DNA,-0.08510797899597596
+benzodiazepine receptor agonist,ER,-0.08216823294203128
+benzodiazepine receptor agonist,Mito,-0.0660422921479849
+benzodiazepine receptor agonist,RNA,-0.08478764353104955
+benzodiazepine receptor agonist,cross_channel,-0.06614562035279384
+benzodiazepine receptor agonist,shape_other,-0.09037560597375206
+calcium channel blocker,AGP,-0.06039506530927978
+calcium channel blocker,DNA,-0.06412764946803262
+calcium channel blocker,ER,-0.06357287852016952
+calcium channel blocker,Mito,-0.049352307838551476
+calcium channel blocker,RNA,-0.06000976455797138
+calcium channel blocker,cross_channel,-0.042981893260882975
+calcium channel blocker,shape_other,-0.051010211505483315
+carbonic anhydrase inhibitor,AGP,0.014841568645892278
+carbonic anhydrase inhibitor,DNA,-0.005692734672166073
+carbonic anhydrase inhibitor,ER,-0.02268048867964395
+carbonic anhydrase inhibitor,Mito,-0.008498774408874326
+carbonic anhydrase inhibitor,RNA,-0.03769241122217245
+carbonic anhydrase inhibitor,cross_channel,-0.021353771239750314
+carbonic anhydrase inhibitor,shape_other,-0.008151021369479235
+coagulation factor inhibitor,AGP,-0.05593323627149817
+coagulation factor inhibitor,DNA,-0.08940753180246204
+coagulation factor inhibitor,ER,-0.0363693108363381
+coagulation factor inhibitor,Mito,-0.04442954102139833
+coagulation factor inhibitor,RNA,-0.05733846701934038
+coagulation factor inhibitor,cross_channel,-0.04760567880669234
+coagulation factor inhibitor,shape_other,-0.04412383196513384
+cyclooxygenase inhibitor,AGP,-0.02083077102090861
+cyclooxygenase inhibitor,DNA,-0.039820178850811884
+cyclooxygenase inhibitor,ER,-0.032353965347008934
+cyclooxygenase inhibitor,Mito,-0.027479954715519592
+cyclooxygenase inhibitor,RNA,-0.045330630508094785
+cyclooxygenase inhibitor,cross_channel,-0.028550562659438096
+cyclooxygenase inhibitor,shape_other,-0.03136970076987821
+cytochrome P450 inhibitor,AGP,-0.0777420454758058
+cytochrome P450 inhibitor,DNA,-0.033040079289612376
+cytochrome P450 inhibitor,ER,-0.052747472823004425
+cytochrome P450 inhibitor,Mito,-0.04942962626244722
+cytochrome P450 inhibitor,RNA,-0.054437892131670364
+cytochrome P450 inhibitor,cross_channel,-0.06052038115548798
+cytochrome P450 inhibitor,shape_other,-0.04089903223134508
+dipeptidyl peptidase inhibitor,AGP,-0.057976765761587744
+dipeptidyl peptidase inhibitor,DNA,-0.044382067919970646
+dipeptidyl peptidase inhibitor,ER,-0.04744526542357872
+dipeptidyl peptidase inhibitor,Mito,-0.030568301985190525
+dipeptidyl peptidase inhibitor,RNA,-0.062427548994582735
+dipeptidyl peptidase inhibitor,cross_channel,-0.05693905349032809
+dipeptidyl peptidase inhibitor,shape_other,-0.014473301864943732
+dopamine receptor agonist,AGP,-0.026774183775159804
+dopamine receptor agonist,DNA,-0.03593153234376464
+dopamine receptor agonist,ER,-0.03578222805528456
+dopamine receptor agonist,Mito,-0.03964003363419805
+dopamine receptor agonist,RNA,-0.04362030460874347
+dopamine receptor agonist,cross_channel,-0.0342312401190493
+dopamine receptor agonist,shape_other,-0.022618390689179747
+dopamine receptor antagonist,AGP,-0.03938394488287557
+dopamine receptor antagonist,DNA,-0.02628913172516201
+dopamine receptor antagonist,ER,-0.04378290922294705
+dopamine receptor antagonist,Mito,-0.04501939269532413
+dopamine receptor antagonist,RNA,-0.043835499276617396
+dopamine receptor antagonist,cross_channel,-0.03950377334816111
+dopamine receptor antagonist,shape_other,-0.015845634749586692
+dopamine reuptake inhibitor,AGP,-0.05216682038685053
+dopamine reuptake inhibitor,DNA,-0.05556041836830966
+dopamine reuptake inhibitor,ER,-0.04664428937510383
+dopamine reuptake inhibitor,Mito,-0.04026576883570523
+dopamine reuptake inhibitor,RNA,-0.042014685984119574
+dopamine reuptake inhibitor,cross_channel,-0.054579117457979984
+dopamine reuptake inhibitor,shape_other,-0.05468866014306332
+estrogen receptor agonist,AGP,-0.0634323987435634
+estrogen receptor agonist,DNA,-0.08569674101182945
+estrogen receptor agonist,ER,-0.03706200373025111
+estrogen receptor agonist,Mito,-0.04459563202507808
+estrogen receptor agonist,RNA,-0.07354099669922701
+estrogen receptor agonist,cross_channel,-0.058676119338705264
+estrogen receptor agonist,shape_other,-0.04463333239407642
+gamma secretase inhibitor,AGP,-0.032834803491114936
+gamma secretase inhibitor,DNA,0.011365124971633781
+gamma secretase inhibitor,ER,-0.03937916640178329
+gamma secretase inhibitor,Mito,-9.59525981136403e-07
+gamma secretase inhibitor,RNA,-0.02388508120543325
+gamma secretase inhibitor,cross_channel,-1.6695727055073988e-05
+gamma secretase inhibitor,shape_other,0.005117329043030535
+glucocorticoid receptor agonist,AGP,0.0145941582236578
+glucocorticoid receptor agonist,DNA,0.004543105130076851
+glucocorticoid receptor agonist,ER,0.019901916593116763
+glucocorticoid receptor agonist,Mito,0.025730814215896736
+glucocorticoid receptor agonist,RNA,0.011280737740886906
+glucocorticoid receptor agonist,cross_channel,0.013030543859421347
+glucocorticoid receptor agonist,shape_other,0.04936671697665387
+glucosidase inhibitor,AGP,-0.019341926683833777
+glucosidase inhibitor,DNA,-0.06216241565177982
+glucosidase inhibitor,ER,-0.04468841331420413
+glucosidase inhibitor,Mito,-0.05088170358924935
+glucosidase inhibitor,RNA,-0.007940936315779036
+glucosidase inhibitor,cross_channel,-0.026215065732689884
+glucosidase inhibitor,shape_other,-0.03860135652622436
+glutamate receptor antagonist,AGP,-0.0315280437359159
+glutamate receptor antagonist,DNA,-0.04866175392750484
+glutamate receptor antagonist,ER,-0.03457095111234699
+glutamate receptor antagonist,Mito,-0.05393701209271035
+glutamate receptor antagonist,RNA,-0.04446418641459615
+glutamate receptor antagonist,cross_channel,-0.04227334371088749
+glutamate receptor antagonist,shape_other,-0.044718126994537026
+histamine receptor antagonist,AGP,-0.05249171573364299
+histamine receptor antagonist,DNA,-0.05066396431749432
+histamine receptor antagonist,ER,-0.039819849800619804
+histamine receptor antagonist,Mito,-0.02654807809637229
+histamine receptor antagonist,RNA,-0.041348736028093
+histamine receptor antagonist,cross_channel,-0.034648322050264344
+histamine receptor antagonist,shape_other,-0.03176422525883698
+insulin secretagogue,AGP,-0.08701689954186684
+insulin secretagogue,DNA,-0.1013896362498187
+insulin secretagogue,ER,-0.07496471494512644
+insulin secretagogue,Mito,-0.061948001943430656
+insulin secretagogue,RNA,-0.07479967432714199
+insulin secretagogue,cross_channel,-0.07845441587311819
+insulin secretagogue,shape_other,-0.07672635570601209
+integrin antagonist,AGP,-0.052388672372669656
+integrin antagonist,DNA,-0.012738871669845631
+integrin antagonist,ER,-0.027771795002165194
+integrin antagonist,Mito,-0.03843021866066969
+integrin antagonist,RNA,-0.02168151471124765
+integrin antagonist,cross_channel,-0.02793413483219361
+integrin antagonist,shape_other,-0.004899925487126748
+mTOR inhibitor,AGP,0.007005038577565528
+mTOR inhibitor,DNA,0.004619097296346899
+mTOR inhibitor,ER,-0.04375116679693151
+mTOR inhibitor,Mito,-0.006213698213295895
+mTOR inhibitor,RNA,-0.01229603531955363
+mTOR inhibitor,cross_channel,-0.013220030298855025
+mTOR inhibitor,shape_other,-0.011461873070591554
+monoamine oxidase inhibitor,AGP,-0.02795965166865401
+monoamine oxidase inhibitor,DNA,-0.03227834193524519
+monoamine oxidase inhibitor,ER,-0.042050671577346564
+monoamine oxidase inhibitor,Mito,-0.042951152414733906
+monoamine oxidase inhibitor,RNA,-0.021701457107006217
+monoamine oxidase inhibitor,cross_channel,-0.026982510789496702
+monoamine oxidase inhibitor,shape_other,-0.021642362370457347
+nitric oxide synthase inhibitor,AGP,-0.033443565855179505
+nitric oxide synthase inhibitor,DNA,-0.03700719705274906
+nitric oxide synthase inhibitor,ER,0.00013787229554014375
+nitric oxide synthase inhibitor,Mito,-0.0266949911381396
+nitric oxide synthase inhibitor,RNA,-0.031687804928914876
+nitric oxide synthase inhibitor,cross_channel,-0.03299172301174159
+nitric oxide synthase inhibitor,shape_other,-0.01504303349970646
+non-nucleoside reverse transcriptase inhibitor,AGP,-0.06064017177813079
+non-nucleoside reverse transcriptase inhibitor,DNA,-0.039831511626458094
+non-nucleoside reverse transcriptase inhibitor,ER,-0.08546870122532771
+non-nucleoside reverse transcriptase inhibitor,Mito,-0.07145764358100973
+non-nucleoside reverse transcriptase inhibitor,RNA,-0.04387027114329915
+non-nucleoside reverse transcriptase inhibitor,cross_channel,-0.05016006739795033
+non-nucleoside reverse transcriptase inhibitor,shape_other,-0.03276850487503797
+nucleoside reverse transcriptase inhibitor,AGP,-0.014252337110409819
+nucleoside reverse transcriptase inhibitor,DNA,-0.057072289477526815
+nucleoside reverse transcriptase inhibitor,ER,-0.04464911330998033
+nucleoside reverse transcriptase inhibitor,Mito,-0.047264777255047935
+nucleoside reverse transcriptase inhibitor,RNA,-0.0613924656574634
+nucleoside reverse transcriptase inhibitor,cross_channel,-0.042992299986163995
+nucleoside reverse transcriptase inhibitor,shape_other,-0.03987416751791367
+p38 MAPK inhibitor,AGP,-0.06106222037696031
+p38 MAPK inhibitor,DNA,-0.04042873266903368
+p38 MAPK inhibitor,ER,-0.044712537091417405
+p38 MAPK inhibitor,Mito,-0.02116927569796891
+p38 MAPK inhibitor,RNA,-0.047773335916411655
+p38 MAPK inhibitor,cross_channel,-0.020771858596253273
+p38 MAPK inhibitor,shape_other,-0.008686924914093314
+phosphodiesterase inhibitor,AGP,-0.03639028309282156
+phosphodiesterase inhibitor,DNA,-0.04654618311557855
+phosphodiesterase inhibitor,ER,-0.034502378900505004
+phosphodiesterase inhibitor,Mito,-0.041709913564278334
+phosphodiesterase inhibitor,RNA,-0.04037908359408627
+phosphodiesterase inhibitor,cross_channel,-0.03390602105164956
+phosphodiesterase inhibitor,shape_other,-0.040165305308290766
+potassium channel activator,AGP,-0.07272672281657074
+potassium channel activator,DNA,-0.09201988725655866
+potassium channel activator,ER,-0.05758186413484399
+potassium channel activator,Mito,-0.03460021180978901
+potassium channel activator,RNA,-0.04272686859504839
+potassium channel activator,cross_channel,-0.058500126003872985
+potassium channel activator,shape_other,-0.06988078192599761
+potassium channel blocker,AGP,-0.04495547742776218
+potassium channel blocker,DNA,-0.04407649885271973
+potassium channel blocker,ER,-0.03410840488719952
+potassium channel blocker,Mito,-0.02157140997448382
+potassium channel blocker,RNA,-0.04402535474049839
+potassium channel blocker,cross_channel,-0.04406945169023859
+potassium channel blocker,shape_other,-0.02831123723396744
+progesterone receptor agonist,AGP,-0.027642279880938432
+progesterone receptor agonist,DNA,-0.04374653735245315
+progesterone receptor agonist,ER,-0.026340933296842933
+progesterone receptor agonist,Mito,-0.041472847252870225
+progesterone receptor agonist,RNA,-0.04265171667902775
+progesterone receptor agonist,cross_channel,-0.04867753020113645
+progesterone receptor agonist,shape_other,-0.03985963287879633
+proteasome inhibitor,AGP,0.02615722081615769
+proteasome inhibitor,DNA,0.012929717868449089
+proteasome inhibitor,ER,0.03977804924124489
+proteasome inhibitor,Mito,0.045402993516609355
+proteasome inhibitor,RNA,0.05739706622006287
+proteasome inhibitor,cross_channel,0.05861328480777735
+proteasome inhibitor,shape_other,0.020723839514601005
+protein synthesis inhibitor,AGP,-0.09320679261882331
+protein synthesis inhibitor,DNA,-0.03052229076558898
+protein synthesis inhibitor,ER,-0.08916194084656202
+protein synthesis inhibitor,Mito,-0.04703625140243223
+protein synthesis inhibitor,RNA,-0.06395833097132181
+protein synthesis inhibitor,cross_channel,-0.06123553666840255
+protein synthesis inhibitor,shape_other,-0.04200936347724059
+retinoid receptor agonist,AGP,-0.04488814488195455
+retinoid receptor agonist,DNA,-0.04542651990710463
+retinoid receptor agonist,ER,-0.03409083666329331
+retinoid receptor agonist,Mito,-0.04260193495085553
+retinoid receptor agonist,RNA,-0.014201515669907456
+retinoid receptor agonist,cross_channel,-0.018217634197423248
+retinoid receptor agonist,shape_other,-0.0234445868037546
+ribonucleotide reductase inhibitor,AGP,-0.02390516758037404
+ribonucleotide reductase inhibitor,DNA,-0.06074059744088339
+ribonucleotide reductase inhibitor,ER,-0.023557176108610814
+ribonucleotide reductase inhibitor,Mito,-0.03664832127892034
+ribonucleotide reductase inhibitor,RNA,-0.04487148101201906
+ribonucleotide reductase inhibitor,cross_channel,-0.051603760463866014
+ribonucleotide reductase inhibitor,shape_other,-0.05647787087299644
+selective serotonin reuptake inhibitor (SSRI),AGP,-0.024950908034480204
+selective serotonin reuptake inhibitor (SSRI),DNA,-0.06970344965331313
+selective serotonin reuptake inhibitor (SSRI),ER,-0.0015955428123860637
+selective serotonin reuptake inhibitor (SSRI),Mito,0.0024853127559563122
+selective serotonin reuptake inhibitor (SSRI),RNA,-0.04662352797851544
+selective serotonin reuptake inhibitor (SSRI),cross_channel,-0.013895572029973663
+selective serotonin reuptake inhibitor (SSRI),shape_other,-0.04357139390156142
+serotonin receptor agonist,AGP,-0.060055111417533905
+serotonin receptor agonist,DNA,-0.06728456108555618
+serotonin receptor agonist,ER,-0.05794223557307596
+serotonin receptor agonist,Mito,-0.05561358312314511
+serotonin receptor agonist,RNA,-0.061385923310082524
+serotonin receptor agonist,cross_channel,-0.043862837845853764
+serotonin receptor agonist,shape_other,-0.04609859924191025
+serotonin receptor antagonist,AGP,-0.0545895722512756
+serotonin receptor antagonist,DNA,-0.0494081999667492
+serotonin receptor antagonist,ER,-0.03599998270008475
+serotonin receptor antagonist,Mito,-0.04383453134783355
+serotonin receptor antagonist,RNA,-0.05048099873229709
+serotonin receptor antagonist,cross_channel,-0.03883037965523042
+serotonin receptor antagonist,shape_other,-0.03064952897158779
+sodium channel blocker,AGP,-0.02966932937285829
+sodium channel blocker,DNA,-0.06698449657283174
+sodium channel blocker,ER,-0.03964079410957449
+sodium channel blocker,Mito,-0.029826869610557225
+sodium channel blocker,RNA,-0.03917197754572594
+sodium channel blocker,cross_channel,-0.03529132641232469
+sodium channel blocker,shape_other,-0.04354132196782886
+sterol demethylase inhibitor,AGP,-0.07153731436244697
+sterol demethylase inhibitor,DNA,-0.06522604630622747
+sterol demethylase inhibitor,ER,-0.0475607847782832
+sterol demethylase inhibitor,Mito,-0.030789834890191582
+sterol demethylase inhibitor,RNA,-0.06425254376288748
+sterol demethylase inhibitor,cross_channel,-0.0424180200950463
+sterol demethylase inhibitor,shape_other,-0.048283222862194705
+tachykinin antagonist,AGP,-0.0403245378061799
+tachykinin antagonist,DNA,-0.029156770003039564
+tachykinin antagonist,ER,-0.0541964781548351
+tachykinin antagonist,Mito,-0.04833544975650902
+tachykinin antagonist,RNA,-0.03891163081961977
+tachykinin antagonist,cross_channel,-0.04301363931236891
+tachykinin antagonist,shape_other,-0.021491920896909298
+topoisomerase inhibitor,AGP,-0.08338388393513876
+topoisomerase inhibitor,DNA,-0.07739368204267683
+topoisomerase inhibitor,ER,-0.07019382421107119
+topoisomerase inhibitor,Mito,-0.06917191967451168
+topoisomerase inhibitor,RNA,-0.0613449759470049
+topoisomerase inhibitor,cross_channel,-0.043672439822931834
+topoisomerase inhibitor,shape_other,-0.06024734006563914
+tubulin polymerization inhibitor,AGP,-0.03062675309251848
+tubulin polymerization inhibitor,DNA,-0.03173032717641296
+tubulin polymerization inhibitor,ER,-0.011782490519350366
+tubulin polymerization inhibitor,Mito,-0.0281604386489397
+tubulin polymerization inhibitor,RNA,-0.024999920682989906
+tubulin polymerization inhibitor,cross_channel,-0.02740762413692758
+tubulin polymerization inhibitor,shape_other,-0.0283982615718452
+tyrosine kinase inhibitor,AGP,-0.0889191884194345
+tyrosine kinase inhibitor,DNA,-0.11727081380389284
+tyrosine kinase inhibitor,ER,-0.0818051847356209
+tyrosine kinase inhibitor,Mito,-0.1093940888961861
+tyrosine kinase inhibitor,RNA,-0.09243209198385502
+tyrosine kinase inhibitor,cross_channel,-0.08213994378587211
+tyrosine kinase inhibitor,shape_other,-0.10010843657433528
+vitamin D receptor agonist,AGP,-0.06592964454220183
+vitamin D receptor agonist,DNA,-0.07140033001884315
+vitamin D receptor agonist,ER,-0.02010960808068699
+vitamin D receptor agonist,Mito,-0.022867808906062385
+vitamin D receptor agonist,RNA,-0.03967699291139471
+vitamin D receptor agonist,cross_channel,-0.046437394086652393
+vitamin D receptor agonist,shape_other,0.028094288509153745
